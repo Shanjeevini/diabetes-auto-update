@@ -1,0 +1,467 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41056770",
+      "41056767",
+      "41043317"
+    ],
+    "41056770": {
+      "uid": "41056770",
+      "pubdate": "2025 Dec 3",
+      "epubdate": "2025 Oct 6",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiao D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sun T",
+      "title": "Neutrophil extracellular traps promote bone loss in type 1 diabetes via suppression of the FN1-PI3K/Akt signaling axis.",
+      "sorttitle": "neutrophil extracellular traps promote bone loss in type 1 diabetes via suppression of the fn1 pi3k akt signaling axis",
+      "volume": "166",
+      "issue": "",
+      "pages": "115629",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41056770"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115629"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01620-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/04 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/08 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/07 18:20"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115629",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/03 00:00",
+      "sortfirstauthor": "Liu X",
+      "vernaculartitle": ""
+    },
+    "41056767": {
+      "uid": "41056767",
+      "pubdate": "2025 Dec 3",
+      "epubdate": "2025 Oct 6",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Wang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiao L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xiao L",
+      "title": "Mitochondrial protease ClpP deficiency protects against tubulointerstitial damage in diabetic kidney disease.",
+      "sorttitle": "mitochondrial protease clpp deficiency protects against tubulointerstitial damage in diabetic kidney disease",
+      "volume": "166",
+      "issue": "",
+      "pages": "115641",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41056767"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115641"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01632-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/11/08 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/04 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/08 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/07 18:20"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115641",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/03 00:00",
+      "sortfirstauthor": "Wang H",
+      "vernaculartitle": ""
+    },
+    "41043317": {
+      "uid": "41043317",
+      "pubdate": "2025 Dec 3",
+      "epubdate": "2025 Oct 2",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Liu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miao Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dai W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sui J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuo Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zuo Z",
+      "title": "GPR75 knockdown alleviates mitochondrial dysfunction in hippocampal neurons via AMPK pathway in diabetic mice.",
+      "sorttitle": "gpr75 knockdown alleviates mitochondrial dysfunction in hippocampal neurons via ampk pathway in diabetic mice",
+      "volume": "166",
+      "issue": "",
+      "pages": "115638",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41043317"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115638"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01629-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/04 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/04 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/03 18:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115638",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/03 00:00",
+      "sortfirstauthor": "Liu M",
+      "vernaculartitle": ""
+    }
+  }
+}
