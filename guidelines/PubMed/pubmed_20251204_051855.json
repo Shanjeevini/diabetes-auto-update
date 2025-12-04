@@ -1,0 +1,125 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41292011"
+    ],
+    "41292011": {
+      "uid": "41292011",
+      "pubdate": "2025 Dec 4",
+      "epubdate": "",
+      "source": "Aust Health Rev",
+      "authors": [
+        {
+          "name": "Druce T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atkinson-Briggs S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kerr D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McNamara C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rasmussen B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rasmussen B",
+      "title": "The process of adapting an innovative program for the self-management of type 2 diabetes in Aboriginal peoples: guided self-determination in healthcare settings.",
+      "sorttitle": "process of adapting an innovative program for the self management of type 2 diabetes in aboriginal peoples guided self determination in healthcare settings",
+      "volume": "49",
+      "issue": "6",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8214381",
+      "issn": "0156-5788",
+      "essn": "1449-8944",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41292011"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1071/AH25168"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "265952"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/01 00:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/26 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/26 00:19"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Australian health review : a publication of the Australian Hospital Association",
+      "elocationid": "pii: AH25168. doi: 10.1071/AH25168",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/04 00:00",
+      "sortfirstauthor": "Druce T",
+      "vernaculartitle": ""
+    }
+  }
+}
