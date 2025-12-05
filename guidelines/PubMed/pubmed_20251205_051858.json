@@ -1,0 +1,589 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41343177",
+      "41207350",
+      "41176201",
+      "40449462"
+    ],
+    "41343177": {
+      "uid": "41343177",
+      "pubdate": "2025 Dec 5",
+      "epubdate": "2025 Dec 5",
+      "source": "J Glob Health",
+      "authors": [
+        {
+          "name": "Xiang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ling S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ma Y",
+      "title": "The effects of physical activity on diabetic retinopathy in type 2 diabetes using automated vascular analysis: a cohort study.",
+      "sorttitle": "effects of physical activity on diabetic retinopathy in type 2 diabetes using automated vascular analysis a cohort study",
+      "volume": "15",
+      "issue": "",
+      "pages": "04319",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101578780",
+      "issn": "2047-2978",
+      "essn": "2047-2986",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41343177"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7189/jogh.15.04319"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/04 13:40"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/04 13:39"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/04 11:34"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of global health",
+      "elocationid": "doi: 10.7189/jogh.15.04319",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/05 00:00",
+      "sortfirstauthor": "Xiang Z",
+      "vernaculartitle": ""
+    },
+    "41207350": {
+      "uid": "41207350",
+      "pubdate": "2025 Dec 5",
+      "epubdate": "2025 Nov 7",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Hou B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xi J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lu H",
+      "title": "Targeting FoxO1-STX17-mediated autophagic flux: Quercetin's therapeutic mechanism in diabetic nephropathy.",
+      "sorttitle": "targeting foxo1 stx17 mediated autophagic flux quercetin s therapeutic mechanism in diabetic nephropathy",
+      "volume": "1008",
+      "issue": "",
+      "pages": "178309",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41207350"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2025.178309"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(25)01063-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/29 02:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/10 00:53"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/09 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2025.178309",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/05 00:00",
+      "sortfirstauthor": "Hou B",
+      "vernaculartitle": ""
+    },
+    "41176201": {
+      "uid": "41176201",
+      "pubdate": "2025 Dec 5",
+      "epubdate": "2025 Oct 30",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuo W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheng K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li C",
+      "title": "Shikonin alleviates renal tubulointerstitial fibrosis in diabetic nephropathy via CCR5/ TGF-\u03b21 signaling axis mediating EMT.",
+      "sorttitle": "shikonin alleviates renal tubulointerstitial fibrosis in diabetic nephropathy via ccr5 tgf 1 signaling axis mediating emt",
+      "volume": "1008",
+      "issue": "",
+      "pages": "178289",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41176201"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2025.178289"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(25)01043-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/01 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/29 02:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/02 00:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/01 20:15"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2025.178289",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/05 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    },
+    "40449462": {
+      "uid": "40449462",
+      "pubdate": "2025 Dec 5",
+      "epubdate": "2025 May 28",
+      "source": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "authors": [
+        {
+          "name": "Wen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen XY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang K",
+      "title": "Investigating the efficacy of a photoacoustic probe in liver function assessment for diabetic mellitus.",
+      "sorttitle": "investigating the efficacy of a photoacoustic probe in liver function assessment for diabetic mellitus",
+      "volume": "342",
+      "issue": "",
+      "pages": "126490",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602533",
+      "issn": "1386-1425",
+      "essn": "1873-3557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40449462"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.saa.2025.126490"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1386-1425(25)00796-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/10 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/05/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/05/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/07 16:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/01 00:45"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/05/31 18:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "elocationid": "doi: 10.1016/j.saa.2025.126490",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/05 00:00",
+      "sortfirstauthor": "Wen D",
+      "vernaculartitle": ""
+    }
+  }
+}
