@@ -1,0 +1,953 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41192517",
+      "41130092",
+      "41125012",
+      "41110178",
+      "41101229",
+      "41101220",
+      "41022158"
+    ],
+    "41192517": {
+      "uid": "41192517",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Nov 3",
+      "source": "J Control Release",
+      "authors": [
+        {
+          "name": "Yao LY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen YQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang RK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deng CC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Deng CC",
+      "title": "Circular RNA-based therapy provides sustained and robust expression of FGF2 to accelerate diabetic wound healing.",
+      "sorttitle": "circular rna based therapy provides sustained and robust expression of fgf2 to accelerate diabetic wound healing",
+      "volume": "388",
+      "issue": "Pt 2",
+      "pages": "114382",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8607908",
+      "issn": "0168-3659",
+      "essn": "1873-4995",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41192517"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jconrel.2025.114382"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168-3659(25)00996-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/31 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/27 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/06 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/05 19:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of controlled release : official journal of the Controlled Release Society",
+      "elocationid": "doi: 10.1016/j.jconrel.2025.114382",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Yao LY",
+      "vernaculartitle": ""
+    },
+    "41130092": {
+      "uid": "41130092",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Oct 22",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kasim V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wu S",
+      "title": "Salidroside analogue C-30 promotes neovascularization in diabetic hindlimb ischemic mice by inducing macrophage M2 polarization.",
+      "sorttitle": "salidroside analogue c 30 promotes neovascularization in diabetic hindlimb ischemic mice by inducing macrophage m2 polarization",
+      "volume": "167",
+      "issue": "",
+      "pages": "115708",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41130092"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115708"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01699-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 00:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/24 00:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/23 18:08"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115708",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Wang J",
+      "vernaculartitle": ""
+    },
+    "41125012": {
+      "uid": "41125012",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Oct 21",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Wan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang L",
+      "title": "A study on the mechanism of action of Syringin in the treatment of type 2 diabetes by integrating metabolomics, network pharmacology, molecular docking technology and experimental validation.",
+      "sorttitle": "study on the mechanism of action of syringin in the treatment of type 2 diabetes by integrating metabolomics network pharmacology molecular docking technology and experimental validation",
+      "volume": "167",
+      "issue": "",
+      "pages": "115716",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41125012"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115716"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01704-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 00:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/23 00:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/22 18:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115716",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Wan C",
+      "vernaculartitle": ""
+    },
+    "41110178": {
+      "uid": "41110178",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Oct 18",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ba X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ba X",
+      "title": "Astragaloside IV improves cognitive impairment in diabetes by inhibiting calpain-1/NLRP3 mediated microglial activation.",
+      "sorttitle": "astragaloside iv improves cognitive impairment in diabetes by inhibiting calpain 1 nlrp3 mediated microglial activation",
+      "volume": "167",
+      "issue": "",
+      "pages": "115682",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41110178"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115682"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01673-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 00:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/19 18:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/19 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115682",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    },
+    "41101229": {
+      "uid": "41101229",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Oct 15",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Meng H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xie Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kong S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Che H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Che H",
+      "title": "Sitagliptin inhibits neuronal ferroptosis to alleviate cognitive dysfunction by activating Nrf2-SLC7A11-GPX4 axis in diabetic mice.",
+      "sorttitle": "sitagliptin inhibits neuronal ferroptosis to alleviate cognitive dysfunction by activating nrf2 slc7a11 gpx4 axis in diabetic mice",
+      "volume": "167",
+      "issue": "",
+      "pages": "115672",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41101229"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115672"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01663-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/17 00:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/16 18:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115672",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Meng H",
+      "vernaculartitle": ""
+    },
+    "41101220": {
+      "uid": "41101220",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Oct 15",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Kocak A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aydin E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "G\u00fcnd\u00fcz MK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaymak G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aydin B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De\u011fer AN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "De\u011fer AN",
+      "title": "Exploring the nephroprotective effects of combined finerenone and exenatide therapy in diabetic nephropathy.",
+      "sorttitle": "exploring the nephroprotective effects of combined finerenone and exenatide therapy in diabetic nephropathy",
+      "volume": "167",
+      "issue": "",
+      "pages": "115661",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41101220"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.115661"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)01652-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/17 00:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/16 18:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.115661",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Kocak A",
+      "vernaculartitle": ""
+    },
+    "41022158": {
+      "uid": "41022158",
+      "pubdate": "2025 Dec 10",
+      "epubdate": "2025 Sep 27",
+      "source": "J Control Release",
+      "authors": [
+        {
+          "name": "Cao XM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu YQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen YY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu ZH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang XY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xu C",
+      "title": "Extracellular vesicles from hypoxia preconditioned bone marrow mesenchymal stem cell improve peri-implant osteogenesis under type 2 diabetes condition.",
+      "sorttitle": "extracellular vesicles from hypoxia preconditioned bone marrow mesenchymal stem cell improve peri implant osteogenesis under type 2 diabetes condition",
+      "volume": "388",
+      "issue": "Pt 1",
+      "pages": "114276",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8607908",
+      "issn": "0168-3659",
+      "essn": "1873-4995",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41022158"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jconrel.2025.114276"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168-3659(25)00889-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/28 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/30 05:16"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/29 19:25"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of controlled release : official journal of the Controlled Release Society",
+      "elocationid": "doi: 10.1016/j.jconrel.2025.114276",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/10 00:00",
+      "sortfirstauthor": "Cao XM",
+      "vernaculartitle": ""
+    }
+  }
+}
