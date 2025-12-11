@@ -1,0 +1,112 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41310948"
+    ],
+    "41310948": {
+      "uid": "41310948",
+      "pubdate": "2025 Dec 11",
+      "epubdate": "2025 Nov 27",
+      "source": "Aging Male",
+      "authors": [
+        {
+          "name": "Wolf RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kliesch S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zitzmann M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schubert M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cremers JF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cremers JF",
+      "title": "Risk-dependent decision-making for circumcision in penile corporoplasty: type-2 diabetes mellitus associated with post-surgical phimosis.",
+      "sorttitle": "risk dependent decision making for circumcision in penile corporoplasty type 2 diabetes mellitus associated with post surgical phimosis",
+      "volume": "28",
+      "issue": "1",
+      "pages": "2591471",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9808210",
+      "issn": "1368-5538",
+      "essn": "1473-0790",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41310948"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/13685538.2025.2591471"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/28 06:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/28 06:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/28 00:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+      "elocationid": "doi: 10.1080/13685538.2025.2591471",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/11 00:00",
+      "sortfirstauthor": "Wolf RP",
+      "vernaculartitle": ""
+    }
+  }
+}
