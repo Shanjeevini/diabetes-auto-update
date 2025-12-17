@@ -1,0 +1,270 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41248209",
+      "41099433"
+    ],
+    "41248209": {
+      "uid": "41248209",
+      "pubdate": "2025 Dec 17",
+      "epubdate": "2025 Nov 18",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Pemberton J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leal C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kohli A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Drummond L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collins L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohamed Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saraff V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dias RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kershaw M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krone R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uday S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Uday S",
+      "title": "The differential impact of automated insulin delivery systems on body mass index in children with type 1 diabetes.",
+      "sorttitle": "differential impact of automated insulin delivery systems on body mass index in children with type 1 diabetes",
+      "volume": "38",
+      "issue": "12",
+      "pages": "1258-1269",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41248209"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0442"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0442"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/02 12:56"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/17 18:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/17 13:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0442",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/18 00:00",
+      "sortfirstauthor": "Pemberton J",
+      "vernaculartitle": ""
+    },
+    "41099433": {
+      "uid": "41099433",
+      "pubdate": "2025 Dec 17",
+      "epubdate": "2025 Oct 17",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Jiang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shan X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shan X",
+      "title": "Maturity-onset diabetes of the young due to HNF1\u03b2 variants (HNF1\u03b2-MODY): a 2-year follow-up study of six patients from a single diabetes center.",
+      "sorttitle": "maturity onset diabetes of the young due to hnf1 variants hnf1 mody a 2 year follow up study of six patients from a single diabetes center",
+      "volume": "38",
+      "issue": "12",
+      "pages": "1270-1277",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41099433"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0213"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0213"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/02 12:56"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/16 12:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/16 08:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0213",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/10/17 00:00",
+      "sortfirstauthor": "Jiang H",
+      "vernaculartitle": ""
+    }
+  }
+}
