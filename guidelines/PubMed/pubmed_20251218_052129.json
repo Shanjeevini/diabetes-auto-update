@@ -1,0 +1,418 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41406444",
+      "41399086",
+      "41399078"
+    ],
+    "41406444": {
+      "uid": "41406444",
+      "pubdate": "2025 Dec 18",
+      "epubdate": "",
+      "source": "N Engl J Med",
+      "authors": [
+        {
+          "name": "Nicholls SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pavo I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhatt DL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buse JB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Del Prato S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kahn SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lincoff AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McGuire DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nauck MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nishiyama H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nissen SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sattar N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weerakkody G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wiese RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zinman B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zoungas S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Basile J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davies MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giorgino F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kellerer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ji L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Varkonyi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Menon V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Broder JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herschtal A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "D'Alessio D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "SURPASS-CVOT Investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "D'Alessio D",
+      "title": "Cardiovascular Outcomes with Tirzepatide versus Dulaglutide in Type 2 Diabetes.",
+      "sorttitle": "cardiovascular outcomes with tirzepatide versus dulaglutide in type 2 diabetes",
+      "volume": "393",
+      "issue": "24",
+      "pages": "2409-2420",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0255562",
+      "issn": "0028-4793",
+      "essn": "1533-4406",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41406444"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2505928"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/17 19:12"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/17 19:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/17 16:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The New England journal of medicine",
+      "elocationid": "doi: 10.1056/NEJMoa2505928",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/18 00:00",
+      "sortfirstauthor": "Nicholls SJ",
+      "vernaculartitle": ""
+    },
+    "41399086": {
+      "uid": "41399086",
+      "pubdate": "2025 Dec 18",
+      "epubdate": "",
+      "source": "Beijing Da Xue Xue Bao Yi Xue Ban",
+      "authors": [
+        {
+          "name": "Gu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mu R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mu R",
+      "title": "[Diabetic Charcot neuroarthropathy initially misdiagnosed as rheumatoid arthritis and gout: A case report].",
+      "sorttitle": "diabetic charcot neuroarthropathy initially misdiagnosed as rheumatoid arthritis and gout a case report",
+      "volume": "57",
+      "issue": "6",
+      "pages": "1193-1197",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "101125284",
+      "issn": "1671-167X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41399086"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/16 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/16 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/16 02:17"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/18 00:00",
+      "sortfirstauthor": "Gu J",
+      "vernaculartitle": ""
+    },
+    "41399078": {
+      "uid": "41399078",
+      "pubdate": "2025 Dec 18",
+      "epubdate": "",
+      "source": "Beijing Da Xue Xue Bao Yi Xue Ban",
+      "authors": [
+        {
+          "name": "Min H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sun X",
+      "title": "[Analyzing the influential factors of dietary patterns and blood glucose control in type 2 diabetes patients based on the model of health action process approach model].",
+      "sorttitle": "analyzing the influential factors of dietary patterns and blood glucose control in type 2 diabetes patients based on the model of health action process approach model",
+      "volume": "57",
+      "issue": "6",
+      "pages": "1145-1152",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "101125284",
+      "issn": "1671-167X",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41399078"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/16 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/16 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/16 02:17"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/18 00:00",
+      "sortfirstauthor": "Min H",
+      "vernaculartitle": ""
+    }
+  }
+}
