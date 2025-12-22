@@ -1,127 +1,127 @@
-2025-12-21T05:17:16.462857 - [INFO] Loaded 3 previously seen URLs
-2025-12-21T05:17:16.462905 - 
+2025-12-22T05:20:47.759574 - [INFO] Loaded 3 previously seen URLs
+2025-12-22T05:20:47.759626 - 
 === ADA (American Diabetes Association) ===
-2025-12-21T05:17:16.463024 - [FETCH] https://diabetesjournals.org/care/issue
-2025-12-21T05:17:16.730446 - [WARN] Status 403 for https://diabetesjournals.org/care/issue
-2025-12-21T05:17:18.730700 - [FETCH] https://diabetesjournals.org/care
-2025-12-21T05:17:18.784579 - [WARN] Status 403 for https://diabetesjournals.org/care
-2025-12-21T05:17:20.784843 - 
+2025-12-22T05:20:47.759744 - [FETCH] https://diabetesjournals.org/care/issue
+2025-12-22T05:20:47.844156 - [WARN] Status 403 for https://diabetesjournals.org/care/issue
+2025-12-22T05:20:49.844417 - [FETCH] https://diabetesjournals.org/care
+2025-12-22T05:20:49.904253 - [WARN] Status 403 for https://diabetesjournals.org/care
+2025-12-22T05:20:51.904513 - 
 === WHO (World Health Organization) ===
-2025-12-21T05:17:20.784968 - [FETCH] https://www.who.int/health-topics/diabetes
-2025-12-21T05:17:21.006322 - [INFO] Found 2 PDF links on https://www.who.int/health-topics/diabetes
-2025-12-21T05:17:23.006536 - [FETCH] https://www.who.int/publications
-2025-12-21T05:17:23.221909 - [INFO] Found 0 PDF links on https://www.who.int/publications
-2025-12-21T05:17:25.222202 - [SKIP] Already known URL: https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_R4-en.pdf
-2025-12-21T05:17:25.222331 - [SKIP] Already known URL: https://apps.who.int/iris/bitstream/handle/10665/172224/WHA42_R36_eng.pdf?sequence=1&isAllowed=y
-2025-12-21T05:17:25.222363 - 
+2025-12-22T05:20:51.904634 - [FETCH] https://www.who.int/health-topics/diabetes
+2025-12-22T05:20:52.254059 - [INFO] Found 2 PDF links on https://www.who.int/health-topics/diabetes
+2025-12-22T05:20:54.254272 - [FETCH] https://www.who.int/publications
+2025-12-22T05:20:54.502293 - [INFO] Found 0 PDF links on https://www.who.int/publications
+2025-12-22T05:20:56.502618 - [SKIP] Already known URL: https://apps.who.int/gb/ebwha/pdf_files/WHA74/A74_R4-en.pdf
+2025-12-22T05:20:56.502747 - [SKIP] Already known URL: https://apps.who.int/iris/bitstream/handle/10665/172224/WHA42_R36_eng.pdf?sequence=1&isAllowed=y
+2025-12-22T05:20:56.502780 - 
 === IDF (International Diabetes Federation) ===
-2025-12-21T05:17:25.222418 - [FETCH] https://idf.org/our-activities
-2025-12-21T05:17:26.256790 - [WARN] Status 404 for https://idf.org/our-activities
-2025-12-21T05:17:28.258388 - [FETCH] https://idf.org/resources
-2025-12-21T05:17:29.027323 - [INFO] Found 1 PDF links on https://idf.org/resources
-2025-12-21T05:17:31.027617 - [SKIP] Already known URL: https://idf.org/media/uploads/2025/10/IAPB-IDF-Policy-brief-Diabetic-retinopathy-a-call-for-global-action-Chinese.pdf
-2025-12-21T05:17:31.027666 - 
+2025-12-22T05:20:56.502843 - [FETCH] https://idf.org/our-activities
+2025-12-22T05:20:57.408162 - [WARN] Status 404 for https://idf.org/our-activities
+2025-12-22T05:20:59.409680 - [FETCH] https://idf.org/resources
+2025-12-22T05:21:00.111236 - [INFO] Found 1 PDF links on https://idf.org/resources
+2025-12-22T05:21:02.111554 - [SKIP] Already known URL: https://idf.org/media/uploads/2025/10/IAPB-IDF-Policy-brief-Diabetic-retinopathy-a-call-for-global-action-Chinese.pdf
+2025-12-22T05:21:02.111615 - 
 === NICE (UK Guidelines) ===
-2025-12-21T05:17:31.027776 - [FETCH] https://www.nice.org.uk/search?q=diabetes&ps=100&productType=Guidance
-2025-12-21T05:17:32.434253 - [INFO] Found 44 NICE guidance pages
-2025-12-21T05:17:32.434316 - [FETCH] https://www.nice.org.uk/guidance/prioritisation/gid-ta11057
-2025-12-21T05:17:33.843597 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/prioritisation/gid-ta11057
-2025-12-21T05:17:35.843820 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ta11644
-2025-12-21T05:17:54.140924 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ta11644
-2025-12-21T05:17:56.141183 - [FETCH] https://www.nice.org.uk/guidance/ph38
-2025-12-21T05:17:59.048145 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ph38
-2025-12-21T05:18:01.048364 - [FETCH] https://www.nice.org.uk/guidance/ta583
-2025-12-21T05:18:01.649154 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta583
-2025-12-21T05:18:03.649413 - [FETCH] https://www.nice.org.uk/guidance/ng17
-2025-12-21T05:18:04.147973 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng17
-2025-12-21T05:18:06.148194 - [FETCH] https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-7-placeholder-identification-of-eating-disorders-in-adults-with-type-1
-2025-12-21T05:18:08.396577 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-7-placeholder-identification-of-eating-disorders-in-adults-with-type-1
-2025-12-21T05:18:10.396792 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-6-access-to-mental-health-professionals-with-an-understanding-of-type-1-or-type-2
-2025-12-21T05:18:10.878672 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-6-access-to-mental-health-professionals-with-an-understanding-of-type-1-or-type-2
-2025-12-21T05:18:12.878885 - [FETCH] https://www.nice.org.uk/guidance/qs109
-2025-12-21T05:18:13.378522 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs109
-2025-12-21T05:18:15.378771 - [FETCH] https://www.nice.org.uk/guidance/prioritisation/gid-ta11212
-2025-12-21T05:18:15.790947 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/prioritisation/gid-ta11212
-2025-12-21T05:18:17.791159 - [FETCH] https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-1-preventing-type-2-diabetes
-2025-12-21T05:18:18.428073 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-1-preventing-type-2-diabetes
-2025-12-21T05:18:20.428321 - [FETCH] https://www.nice.org.uk/guidance/ta390
-2025-12-21T05:18:21.047823 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta390
-2025-12-21T05:18:23.048071 - [FETCH] https://www.nice.org.uk/guidance/awaiting-development/gid-ta10438
-2025-12-21T05:18:23.468953 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/awaiting-development/gid-ta10438
-2025-12-21T05:18:25.469162 - [FETCH] https://www.nice.org.uk/guidance/ta315
-2025-12-21T05:18:26.006073 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta315
-2025-12-21T05:18:28.006268 - [FETCH] https://www.nice.org.uk/guidance/ta877
-2025-12-21T05:18:28.598509 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta877
-2025-12-21T05:18:30.598731 - [FETCH] https://www.nice.org.uk/guidance/qs209
-2025-12-21T05:18:31.177348 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs209
-2025-12-21T05:18:33.177616 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-5-blood-ketone-monitoring-in-type-1-diabetes
-2025-12-21T05:18:33.821503 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-5-blood-ketone-monitoring-in-type-1-diabetes
-2025-12-21T05:18:35.821724 - [FETCH] https://www.nice.org.uk/guidance/awaiting-development/gid-ta10665
-2025-12-21T05:18:36.228121 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/awaiting-development/gid-ta10665
-2025-12-21T05:18:38.228360 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ta10981
-2025-12-21T05:18:38.700268 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ta10981
-2025-12-21T05:18:40.700499 - [FETCH] https://www.nice.org.uk/guidance/ta943
-2025-12-21T05:18:41.306507 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta943
-2025-12-21T05:18:43.306724 - [FETCH] https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-7-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
-2025-12-21T05:18:43.874129 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-7-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
-2025-12-21T05:18:45.874362 - [FETCH] https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-5-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
-2025-12-21T05:18:46.450902 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-5-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
-2025-12-21T05:18:48.451131 - [FETCH] https://www.nice.org.uk/guidance/awaiting-development/gid-ta10439
-2025-12-21T05:18:48.877250 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/awaiting-development/gid-ta10439
-2025-12-21T05:18:50.877472 - [FETCH] https://www.nice.org.uk/guidance/qs125
-2025-12-21T05:18:51.423762 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs125
-2025-12-21T05:18:53.424002 - [FETCH] https://www.nice.org.uk/guidance/ng19
-2025-12-21T05:18:53.900769 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng19
-2025-12-21T05:18:55.900989 - [FETCH] https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-6-support-to-self-manage-diabetes-during-inpatient-admissions
-2025-12-21T05:18:56.584261 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-6-support-to-self-manage-diabetes-during-inpatient-admissions
-2025-12-21T05:18:58.584512 - [FETCH] https://www.nice.org.uk/guidance/ta572
-2025-12-21T05:18:59.052726 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta572
-2025-12-21T05:19:01.052955 - [FETCH] https://www.nice.org.uk/guidance/ta418
-2025-12-21T05:19:01.522269 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta418
-2025-12-21T05:19:03.522503 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-3-intensive-insulin-therapy-and-level-3-carbohydrate-counting-education-for-type
-2025-12-21T05:19:04.040868 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-3-intensive-insulin-therapy-and-level-3-carbohydrate-counting-education-for-type
-2025-12-21T05:19:06.041098 - [FETCH] https://www.nice.org.uk/guidance/QS109/chapter/quality-statement-2-joint-diabetes-and-antenatal-team-care
-2025-12-21T05:19:06.633590 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS109/chapter/quality-statement-2-joint-diabetes-and-antenatal-team-care
-2025-12-21T05:19:08.633856 - [FETCH] https://www.nice.org.uk/guidance/ph35
-2025-12-21T05:19:09.134172 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ph35
-2025-12-21T05:19:11.134386 - [FETCH] https://www.nice.org.uk/guidance/conditions-and-diseases/diabetes-and-other-endocrinal--nutritional-and-metabolic-conditions/diabetes
-2025-12-21T05:19:16.881428 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/conditions-and-diseases/diabetes-and-other-endocrinal--nutritional-and-metabolic-conditions/diabetes
-2025-12-21T05:19:18.881614 - [FETCH] https://www.nice.org.uk/guidance/ng3
-2025-12-21T05:19:19.368054 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng3
-2025-12-21T05:19:21.368267 - [FETCH] https://www.nice.org.uk/guidance/ng28/resources/patient-decision-aid-pdf-2187281198
-2025-12-21T05:19:23.294688 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng28/resources/patient-decision-aid-pdf-2187281198
-2025-12-21T05:19:25.294900 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-4-continuous-glucose-monitoring-in-type-1-diabetes
-2025-12-21T05:19:25.818900 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-4-continuous-glucose-monitoring-in-type-1-diabetes
-2025-12-21T05:19:27.819135 - [FETCH] https://www.nice.org.uk/guidance/ng18
-2025-12-21T05:19:28.392644 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng18
-2025-12-21T05:19:30.392867 - [FETCH] https://www.nice.org.uk/guidance/ta288
-2025-12-21T05:19:30.976053 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta288
-2025-12-21T05:19:32.976317 - [FETCH] https://www.nice.org.uk/guidance/ta622
-2025-12-21T05:19:33.511487 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta622
-2025-12-21T05:19:35.511719 - [FETCH] https://www.nice.org.uk/guidance/prioritisation/gid-ta11738
-2025-12-21T05:19:35.953623 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/prioritisation/gid-ta11738
-2025-12-21T05:19:37.953837 - [FETCH] https://www.nice.org.uk/guidance/ta924
-2025-12-21T05:19:38.424113 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta924
-2025-12-21T05:19:40.424362 - [FETCH] https://www.nice.org.uk/guidance/qs208
-2025-12-21T05:19:40.966893 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs208
-2025-12-21T05:19:42.967106 - [FETCH] https://www.nice.org.uk/guidance/ta151
-2025-12-21T05:19:43.581733 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta151
-2025-12-21T05:19:45.582010 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ng10450
-2025-12-21T05:19:45.987992 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ng10450
-2025-12-21T05:19:47.988226 - [FETCH] https://www.nice.org.uk/guidance/ng28
-2025-12-21T05:19:48.549324 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng28
-2025-12-21T05:19:50.549562 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ng10336
-2025-12-21T05:19:54.698868 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ng10336
-2025-12-21T05:19:56.699089 - 
+2025-12-22T05:21:02.111735 - [FETCH] https://www.nice.org.uk/search?q=diabetes&ps=100&productType=Guidance
+2025-12-22T05:21:03.234424 - [INFO] Found 44 NICE guidance pages
+2025-12-22T05:21:03.234475 - [FETCH] https://www.nice.org.uk/guidance/prioritisation/gid-ta11212
+2025-12-22T05:21:04.026613 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/prioritisation/gid-ta11212
+2025-12-22T05:21:06.026805 - [FETCH] https://www.nice.org.uk/guidance/ng28
+2025-12-22T05:21:06.449622 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng28
+2025-12-22T05:21:08.449840 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ng10450
+2025-12-22T05:21:08.830719 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ng10450
+2025-12-22T05:21:10.830963 - [FETCH] https://www.nice.org.uk/guidance/ng19
+2025-12-22T05:21:11.222627 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng19
+2025-12-22T05:21:13.222844 - [FETCH] https://www.nice.org.uk/guidance/prioritisation/gid-ta11738
+2025-12-22T05:21:13.575027 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/prioritisation/gid-ta11738
+2025-12-22T05:21:15.575251 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-4-continuous-glucose-monitoring-in-type-1-diabetes
+2025-12-22T05:21:16.176473 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-4-continuous-glucose-monitoring-in-type-1-diabetes
+2025-12-22T05:21:18.176715 - [FETCH] https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-7-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
+2025-12-22T05:21:18.832869 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-7-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
+2025-12-22T05:21:20.833082 - [FETCH] https://www.nice.org.uk/guidance/ng18
+2025-12-22T05:21:21.255648 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng18
+2025-12-22T05:21:23.255929 - [FETCH] https://www.nice.org.uk/guidance/ta418
+2025-12-22T05:21:23.733385 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta418
+2025-12-22T05:21:25.733608 - [FETCH] https://www.nice.org.uk/guidance/ta315
+2025-12-22T05:21:26.206381 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta315
+2025-12-22T05:21:28.206651 - [FETCH] https://www.nice.org.uk/guidance/qs109
+2025-12-22T05:21:28.596313 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs109
+2025-12-22T05:21:30.596559 - [FETCH] https://www.nice.org.uk/guidance/ta583
+2025-12-22T05:21:31.074790 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta583
+2025-12-22T05:21:33.075021 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-5-blood-ketone-monitoring-in-type-1-diabetes
+2025-12-22T05:21:35.877070 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-5-blood-ketone-monitoring-in-type-1-diabetes
+2025-12-22T05:21:37.877286 - [FETCH] https://www.nice.org.uk/guidance/ta622
+2025-12-22T05:21:38.642263 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta622
+2025-12-22T05:21:40.642472 - [FETCH] https://www.nice.org.uk/guidance/ta943
+2025-12-22T05:21:41.044098 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta943
+2025-12-22T05:21:43.044308 - [FETCH] https://www.nice.org.uk/guidance/qs209
+2025-12-22T05:21:43.468130 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs209
+2025-12-22T05:21:45.468426 - [FETCH] https://www.nice.org.uk/guidance/ph35
+2025-12-22T05:21:45.971009 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ph35
+2025-12-22T05:21:47.971238 - [FETCH] https://www.nice.org.uk/guidance/ph38
+2025-12-22T05:21:48.368732 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ph38
+2025-12-22T05:21:50.368995 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ng10336
+2025-12-22T05:21:50.769731 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ng10336
+2025-12-22T05:21:52.769995 - [FETCH] https://www.nice.org.uk/guidance/ta924
+2025-12-22T05:21:53.229942 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta924
+2025-12-22T05:21:55.230159 - [FETCH] https://www.nice.org.uk/guidance/prioritisation/gid-ta11057
+2025-12-22T05:21:55.635255 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/prioritisation/gid-ta11057
+2025-12-22T05:21:57.635498 - [FETCH] https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-7-placeholder-identification-of-eating-disorders-in-adults-with-type-1
+2025-12-22T05:21:58.632805 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-7-placeholder-identification-of-eating-disorders-in-adults-with-type-1
+2025-12-22T05:22:00.633041 - [FETCH] https://www.nice.org.uk/guidance/awaiting-development/gid-ta10439
+2025-12-22T05:22:00.983677 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/awaiting-development/gid-ta10439
+2025-12-22T05:22:02.983936 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ta10981
+2025-12-22T05:22:03.443601 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ta10981
+2025-12-22T05:22:05.443831 - [FETCH] https://www.nice.org.uk/guidance/indevelopment/gid-ta11644
+2025-12-22T05:22:06.154450 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/indevelopment/gid-ta11644
+2025-12-22T05:22:08.154674 - [FETCH] https://www.nice.org.uk/guidance/ta390
+2025-12-22T05:22:08.623576 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta390
+2025-12-22T05:22:10.623788 - [FETCH] https://www.nice.org.uk/guidance/ng17
+2025-12-22T05:22:11.113748 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng17
+2025-12-22T05:22:13.113995 - [FETCH] https://www.nice.org.uk/guidance/awaiting-development/gid-ta10438
+2025-12-22T05:22:13.481184 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/awaiting-development/gid-ta10438
+2025-12-22T05:22:15.481418 - [FETCH] https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-1-preventing-type-2-diabetes
+2025-12-22T05:22:16.014688 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS209/chapter/quality-statement-1-preventing-type-2-diabetes
+2025-12-22T05:22:18.014924 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-6-access-to-mental-health-professionals-with-an-understanding-of-type-1-or-type-2
+2025-12-22T05:22:18.535367 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-6-access-to-mental-health-professionals-with-an-understanding-of-type-1-or-type-2
+2025-12-22T05:22:20.535572 - [FETCH] https://www.nice.org.uk/guidance/ta288
+2025-12-22T05:22:20.934335 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta288
+2025-12-22T05:22:22.934552 - [FETCH] https://www.nice.org.uk/guidance/QS109/chapter/quality-statement-2-joint-diabetes-and-antenatal-team-care
+2025-12-22T05:22:23.433891 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS109/chapter/quality-statement-2-joint-diabetes-and-antenatal-team-care
+2025-12-22T05:22:25.434108 - [FETCH] https://www.nice.org.uk/guidance/ng3
+2025-12-22T05:22:25.981674 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng3
+2025-12-22T05:22:27.981893 - [FETCH] https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-6-support-to-self-manage-diabetes-during-inpatient-admissions
+2025-12-22T05:22:28.397746 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-6-support-to-self-manage-diabetes-during-inpatient-admissions
+2025-12-22T05:22:30.398007 - [FETCH] https://www.nice.org.uk/guidance/awaiting-development/gid-ta10665
+2025-12-22T05:22:30.738844 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/awaiting-development/gid-ta10665
+2025-12-22T05:22:32.739088 - [FETCH] https://www.nice.org.uk/guidance/qs208
+2025-12-22T05:22:33.205155 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs208
+2025-12-22T05:22:35.205389 - [FETCH] https://www.nice.org.uk/guidance/ta151
+2025-12-22T05:22:35.729232 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta151
+2025-12-22T05:22:37.729445 - [FETCH] https://www.nice.org.uk/guidance/ta877
+2025-12-22T05:22:38.136421 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta877
+2025-12-22T05:22:40.136655 - [FETCH] https://www.nice.org.uk/guidance/ng28/resources/patient-decision-aid-pdf-2187281198
+2025-12-22T05:22:41.767990 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ng28/resources/patient-decision-aid-pdf-2187281198
+2025-12-22T05:22:43.768230 - [FETCH] https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-5-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
+2025-12-22T05:22:44.294316 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS208/chapter/quality-statement-5-assessing-the-risk-of-diabetic-foot-problems-on-admission-to-hospital
+2025-12-22T05:22:46.294549 - [FETCH] https://www.nice.org.uk/guidance/qs125
+2025-12-22T05:22:46.880841 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/qs125
+2025-12-22T05:22:48.881084 - [FETCH] https://www.nice.org.uk/guidance/ta572
+2025-12-22T05:22:49.420077 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/ta572
+2025-12-22T05:22:51.420280 - [FETCH] https://www.nice.org.uk/guidance/conditions-and-diseases/diabetes-and-other-endocrinal--nutritional-and-metabolic-conditions/diabetes
+2025-12-22T05:22:59.860273 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/conditions-and-diseases/diabetes-and-other-endocrinal--nutritional-and-metabolic-conditions/diabetes
+2025-12-22T05:23:01.860525 - [FETCH] https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-3-intensive-insulin-therapy-and-level-3-carbohydrate-counting-education-for-type
+2025-12-22T05:23:02.284884 - [INFO] Found 0 PDF links on https://www.nice.org.uk/guidance/QS125/chapter/quality-statement-3-intensive-insulin-therapy-and-level-3-carbohydrate-counting-education-for-type
+2025-12-22T05:23:04.285139 - 
 === MOHFW (India) ===
-2025-12-21T05:19:56.699248 - [FETCH] https://main.mohfw.gov.in
-2025-12-21T05:19:57.178267 - [ERROR] Failed to fetch https://main.mohfw.gov.in: HTTPSConnectionPool(host='main.mohfw.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0a9e2255e0>: Failed to resolve 'main.mohfw.gov.in' ([Errno -5] No address associated with hostname)"))
-2025-12-21T05:19:59.178537 - 
+2025-12-22T05:23:04.285321 - [FETCH] https://main.mohfw.gov.in
+2025-12-22T05:23:04.740352 - [ERROR] Failed to fetch https://main.mohfw.gov.in: HTTPSConnectionPool(host='main.mohfw.gov.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4e8b1a8710>: Failed to resolve 'main.mohfw.gov.in' ([Errno -5] No address associated with hostname)"))
+2025-12-22T05:23:06.740611 - 
 === PubMed (Metadata) ===
-2025-12-21T05:19:59.178710 - [PUBMED] Searching: diabetes mellitus[majr] AND 2025/12/21[pdat]
-2025-12-21T05:19:59.380601 - [PUBMED] Found 0 IDs
-2025-12-21T05:19:59.381435 - 
+2025-12-22T05:23:06.740799 - [PUBMED] Searching: diabetes mellitus[majr] AND 2025/12/22[pdat]
+2025-12-22T05:23:06.870745 - [PUBMED] Found 0 IDs
+2025-12-22T05:23:06.871650 - 
 === RSS ===
-2025-12-21T05:19:59.381466 - [INFO] No RSS feeds configured. Edit RSS_FEEDS in the script if needed.
-2025-12-21T05:19:59.381644 - [INFO] Saved 3 seen URLs
-2025-12-21T05:19:59.381668 - [EMAIL] No new files, not sending email.
+2025-12-22T05:23:06.871680 - [INFO] No RSS feeds configured. Edit RSS_FEEDS in the script if needed.
+2025-12-22T05:23:06.871844 - [INFO] Saved 3 seen URLs
+2025-12-22T05:23:06.871868 - [EMAIL] No new files, not sending email.
