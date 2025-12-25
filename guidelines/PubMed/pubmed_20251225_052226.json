@@ -1,0 +1,108 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41423979"
+    ],
+    "41423979": {
+      "uid": "41423979",
+      "pubdate": "2025 Dec 25",
+      "epubdate": "",
+      "source": "Sheng Li Xue Bao",
+      "authors": [
+        {
+          "name": "Yao K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jia NN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun JY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sun JY",
+      "title": "[Advances in the regulation of pancreatic islet \u03b2-cell identity plasticity by exercise in type 2 diabetes mellitus].",
+      "sorttitle": "advances in the regulation of pancreatic islet cell identity plasticity by exercise in type 2 diabetes mellitus",
+      "volume": "77",
+      "issue": "6",
+      "pages": "1086-1100",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "20730130R",
+      "issn": "0371-0874",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41423979"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.13294/j.aps.2025.0099"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/22 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/22 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/22 01:45"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Sheng li xue bao : [Acta physiologica Sinica]",
+      "elocationid": "doi: 10.13294/j.aps.2025.0099",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/25 00:00",
+      "sortfirstauthor": "Yao K",
+      "vernaculartitle": ""
+    }
+  }
+}
