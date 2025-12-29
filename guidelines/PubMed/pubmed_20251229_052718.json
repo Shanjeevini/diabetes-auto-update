@@ -1,0 +1,149 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41457140"
+    ],
+    "41457140": {
+      "uid": "41457140",
+      "pubdate": "2025 Dec 29",
+      "epubdate": "2025 Dec 29",
+      "source": "Mol Biomed",
+      "authors": [
+        {
+          "name": "Zhou P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Long B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li Q",
+      "title": "Activated oligoadenylate synthetase-ribonuclease L pathway promotes endothelial pyroptosis and impairs diabetic wound healing via thioredoxin-interacting protein m(6)A methylation.",
+      "sorttitle": "activated oligoadenylate synthetase ribonuclease l pathway promotes endothelial pyroptosis and impairs diabetic wound healing via thioredoxin interacting protein m 6 a methylation",
+      "volume": "6",
+      "issue": "1",
+      "pages": "150",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918283581406676",
+      "issn": "",
+      "essn": "2662-8651",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41457140"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s43556-025-00399-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s43556-025-00399-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/29 00:25"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/29 00:24"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/06/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/28 23:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Molecular biomedicine",
+      "elocationid": "doi: 10.1186/s43556-025-00399-9",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/29 00:00",
+      "sortfirstauthor": "Zhou P",
+      "vernaculartitle": ""
+    }
+  }
+}
