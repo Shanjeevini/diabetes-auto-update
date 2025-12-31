@@ -1,0 +1,2025 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41384826",
+      "41360052",
+      "41274243",
+      "41268772",
+      "41100822",
+      "41089039",
+      "41055604",
+      "41047724",
+      "41046359",
+      "40720496",
+      "40549546",
+      "40549421",
+      "40549416",
+      "40489647",
+      "40073328",
+      "39847757",
+      "39761172",
+      "39761168"
+    ],
+    "41384826": {
+      "uid": "41384826",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Dec 12",
+      "source": "Drug Deliv",
+      "authors": [
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ge Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xia Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhao Z",
+      "title": "Efficacy, safety, and patient-centered outcomes of needle-free injectors versus insulin pens in diabetes management: a comprehensive meta-analysis.",
+      "sorttitle": "efficacy safety and patient centered outcomes of needle free injectors versus insulin pens in diabetes management a comprehensive meta analysis",
+      "volume": "32",
+      "issue": "1",
+      "pages": "2597906",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9417471",
+      "issn": "1071-7544",
+      "essn": "1521-0464",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41384826"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12704122"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12704122;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10717544.2025.2597906"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/12 17:56"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/12 17:55"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/12 10:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 21,
+      "fulljournalname": "Drug delivery",
+      "elocationid": "doi: 10.1080/10717544.2025.2597906",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Wang J",
+      "vernaculartitle": ""
+    },
+    "41360052": {
+      "uid": "41360052",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Dec 8",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Tamatea J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Te Karu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grey C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKree Jansen R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jordan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loring B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reid P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Reid P",
+      "title": "Indigenous Leadership and Advocacy in Pro-Equity Eligibility Criteria for New Diabetes Medicines in Aotearoa New Zealand [Policy Report].",
+      "sorttitle": "indigenous leadership and advocacy in pro equity eligibility criteria for new diabetes medicines in aotearoa new zealand policy report",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2592386",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41360052"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2592386"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/09 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/09 00:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 18:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2592386",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Tamatea J",
+      "vernaculartitle": ""
+    },
+    "41274243": {
+      "uid": "41274243",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Nov 15",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Zhao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qiu P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lv X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen W",
+      "title": "The effect of Dapagliflozin on diabetic nephropathy through PRMT1-SIRT1-FoxO1 pathway-mediated autophagy.",
+      "sorttitle": "effect of dapagliflozin on diabetic nephropathy through prmt1 sirt1 foxo1 pathway mediated autophagy",
+      "volume": "793",
+      "issue": "",
+      "pages": "152999",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41274243"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2025.152999"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(25)01715-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 01:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/23 00:58"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/22 18:39"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2025.152999",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Zhao J",
+      "vernaculartitle": ""
+    },
+    "41268772": {
+      "uid": "41268772",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Nov 21",
+      "source": "Clin Exp Hypertens",
+      "authors": [
+        {
+          "name": "Guo F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "An R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang Q",
+      "title": "Predictive model combining blood pressure, glycemic and renal markers for diabetic nephropathy in elderly hypertensive patients with type 2 diabetes.",
+      "sorttitle": "predictive model combining blood pressure glycemic and renal markers for diabetic nephropathy in elderly hypertensive patients with type 2 diabetes",
+      "volume": "47",
+      "issue": "1",
+      "pages": "2564299",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9305929",
+      "issn": "1064-1963",
+      "essn": "1525-6006",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41268772"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10641963.2025.2564299"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/21 12:51"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/21 12:50"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/21 06:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+      "elocationid": "doi: 10.1080/10641963.2025.2564299",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Guo F",
+      "vernaculartitle": ""
+    },
+    "41100822": {
+      "uid": "41100822",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Oct 16",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Baatiema L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Danforth K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Watkins DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ansong J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Twumwaah Twum-Barimah A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meessen B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Meessen B",
+      "title": "Financing and Prioritizing Diabetes and Other Non-Communicable Diseases in Ghana: A Qualitative Policy Analysis of the Barriers, Enablers and Opportunities.",
+      "sorttitle": "financing and prioritizing diabetes and other non communicable diseases in ghana a qualitative policy analysis of the barriers enablers and opportunities",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2565010",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41100822"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2565010"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/16 18:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/16 18:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/16 16:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2565010",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Baatiema L",
+      "vernaculartitle": ""
+    },
+    "41089039": {
+      "uid": "41089039",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Oct 15",
+      "source": "Clin Exp Hypertens",
+      "authors": [
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiao F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xiao F",
+      "title": "Interdisciplinary collaborative care model combined with family empowerment in patients with comorbid hypertension and diabetes: A study on blood pressure/glucose control and psychosocial adaptation based on the COM-B model.",
+      "sorttitle": "interdisciplinary collaborative care model combined with family empowerment in patients with comorbid hypertension and diabetes a study on blood pressure glucose control and psychosocial adaptation based on the com b model",
+      "volume": "47",
+      "issue": "1",
+      "pages": "2570212",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9305929",
+      "issn": "1064-1963",
+      "essn": "1525-6006",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41089039"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10641963.2025.2570212"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/15 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/15 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/15 04:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+      "elocationid": "doi: 10.1080/10641963.2025.2570212",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Wu J",
+      "vernaculartitle": ""
+    },
+    "41055604": {
+      "uid": "41055604",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Oct 7",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Soucat AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gaudin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yazbeck AS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yazbeck AS",
+      "title": "Correcting Market and Government Failures in Tackling the Global Growth of Type 2 Diabetes: Application of WHO's Common Goods for Health Approach.",
+      "sorttitle": "correcting market and government failures in tackling the global growth of type 2 diabetes application of who s common goods for health approach",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2550883",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41055604"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2550883"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/07 12:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/07 12:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/07 10:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2550883",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Soucat AL",
+      "vernaculartitle": ""
+    },
+    "41047724": {
+      "uid": "41047724",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Oct 5",
+      "source": "Gut Microbes",
+      "authors": [
+        {
+          "name": "de Groen P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fuhri Snethlage CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wortelboer K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tokg\u00f6z S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davids M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Verdoes X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Westerbeke FHM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meijer RI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gotthardt M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Vos WM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herrema H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nieuwdorp M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hanssen NMJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hanssen NMJ",
+      "title": "Autologous fecal microbiota capsules are safe and potentially preserve beta-cell function in individuals with type 1 diabetes.",
+      "sorttitle": "autologous fecal microbiota capsules are safe and potentially preserve beta cell function in individuals with type 1 diabetes",
+      "volume": "17",
+      "issue": "1",
+      "pages": "2563155",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101495343",
+      "issn": "1949-0976",
+      "essn": "1949-0984",
+      "pubtype": [
+        "Journal Article",
+        "Clinical Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41047724"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12502823"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12502823;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/19490976.2025.2563155"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/06 06:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/06 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/06 02:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/10/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 72,
+      "fulljournalname": "Gut microbes",
+      "elocationid": "doi: 10.1080/19490976.2025.2563155",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "de Groen P",
+      "vernaculartitle": ""
+    },
+    "41046359": {
+      "uid": "41046359",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Oct 5",
+      "source": "Gynecol Endocrinol",
+      "authors": [
+        {
+          "name": "Han W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang X",
+      "title": "Association analysis of MTHFR (C677T, A1298C) and MTRR (A66G) gene polymorphisms on susceptibility to gestational diabetes mellitus in Chinese pregnant women.",
+      "sorttitle": "association analysis of mthfr c677t a1298c and mtrr a66g gene polymorphisms on susceptibility to gestational diabetes mellitus in chinese pregnant women",
+      "volume": "41",
+      "issue": "1",
+      "pages": "2565256",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8807913",
+      "issn": "0951-3590",
+      "essn": "1473-0766",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41046359"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/09513590.2025.2565256"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/05 16:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/05 16:02"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/05 06:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+      "elocationid": "doi: 10.1080/09513590.2025.2565256",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Han W",
+      "vernaculartitle": ""
+    },
+    "40720496": {
+      "uid": "40720496",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jul 28",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Savedoff W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yazbeck AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peters DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen SN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nguyen SN",
+      "title": "Development Assistance for Health and the Challenge of NCDs Through the Lens of Type 2 Diabetes.",
+      "sorttitle": "development assistance for health and the challenge of ncds through the lens of type 2 diabetes",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2531693",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40720496"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2531693"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/07/30 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/07/28 19:04"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/07/28 13:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2531693",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Savedoff W",
+      "vernaculartitle": ""
+    },
+    "40549546": {
+      "uid": "40549546",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jun 23",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "McPake B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "McPake B",
+      "title": "Overweight, Obesity and Diabetes: Global Trends and a Better Future?",
+      "sorttitle": "overweight obesity and diabetes global trends and a better future",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2518797",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40549546"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2518797"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/24 13:08"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/24 11:06"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/23 12:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2518797",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "McPake B",
+      "vernaculartitle": ""
+    },
+    "40549421": {
+      "uid": "40549421",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jun 23",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Al-Thani MHJT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El-Saharty S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jamal Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mishra A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kokku SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nawaz RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Skaroni I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abou-Samra AB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abou-Samra AB",
+      "title": "Qatar's Progress in Curbing Diabetes: A Comprehensive and Proactive Approach.",
+      "sorttitle": "qatar s progress in curbing diabetes a comprehensive and proactive approach",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2516897",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40549421"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2516897"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/24 13:08"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/24 10:59"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/23 11:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2516897",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Al-Thani MHJT",
+      "vernaculartitle": ""
+    },
+    "40549416": {
+      "uid": "40549416",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jun 23",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Rannan-Eliya RP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wijemunige N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herath HMM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perera P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dissanayake VHW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perera B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dalpatadu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Samarage S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gamage A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gamage A",
+      "title": "The Diabetes Care Cascade in Sri Lanka: An Analysis of Losses, Disparities, and Opportunities for Improved Health System Outcomes.",
+      "sorttitle": "diabetes care cascade in sri lanka an analysis of losses disparities and opportunities for improved health system outcomes",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2516904",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40549416"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2516904"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/24 18:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/24 10:54"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/23 11:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2516904",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Rannan-Eliya RP",
+      "vernaculartitle": ""
+    },
+    "40489647": {
+      "uid": "40489647",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jun 9",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Underwood PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruscitti B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Magny-Normilus C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wentzell K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Watts SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bowser D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bowser D",
+      "title": "A Health Systems Approach to Nurse-Led Implementation of Diabetes Prevention and Management in Vulnerable Populations.",
+      "sorttitle": "health systems approach to nurse led implementation of diabetes prevention and management in vulnerable populations",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2503648",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40489647"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2503648"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/09 18:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/09 18:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/09 15:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2503648",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Underwood PC",
+      "vernaculartitle": ""
+    },
+    "40073328": {
+      "uid": "40073328",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Mar 12",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Okonofua F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ntoimo LF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ogu R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Isikhuemen M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Isikhuemen M",
+      "title": "Public Policy and Health System Responses to Diabetes Mellitus in Nigeria: A Call for Reform.",
+      "sorttitle": "public policy and health system responses to diabetes mellitus in nigeria a call for reform",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2477941",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40073328"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2025.2477941"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/03/12 18:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/03/12 18:17"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/03/12 16:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2025.2477941",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Okonofua F",
+      "vernaculartitle": ""
+    },
+    "39847757": {
+      "uid": "39847757",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jan 23",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Yazbeck AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen SN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Escobar ML",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Escobar ML",
+      "title": "How Health Systems World-wide Fail Type 2 Diabetics.",
+      "sorttitle": "how health systems world wide fail type 2 diabetics",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2437898",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39847757"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2024.2437898"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/23 18:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/23 18:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/23 16:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2024.2437898",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Yazbeck AS",
+      "vernaculartitle": ""
+    },
+    "39761172": {
+      "uid": "39761172",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jan 6",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Rasooly A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manor O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shao R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ellen ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davidovitch N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Davidovitch N",
+      "title": "Towards Equitable Diabetes Care: A Global Perspective on Quality Measurement Exchange.",
+      "sorttitle": "towards equitable diabetes care a global perspective on quality measurement exchange",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2435076",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39761172"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2024.2435076"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/06 18:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/06 12:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2024.2435076",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Rasooly A",
+      "vernaculartitle": ""
+    },
+    "39761168": {
+      "uid": "39761168",
+      "pubdate": "2025 Dec 31",
+      "epubdate": "2025 Jan 6",
+      "source": "Health Syst Reform",
+      "authors": [
+        {
+          "name": "Chew BH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lai PSM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sivaratnam DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Basri NI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Appannah G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohd Yusof BN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thambiah SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nor Hanipah Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wong PF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang LC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chang LC",
+      "title": "Efficient and Effective Diabetes Care in the Era of Digitalization and Hypercompetitive Research Culture: A Focused Review in the Western Pacific Region with Malaysia as a Case Study.",
+      "sorttitle": "efficient and effective diabetes care in the era of digitalization and hypercompetitive research culture a focused review in the western pacific region with malaysia as a case study",
+      "volume": "11",
+      "issue": "1",
+      "pages": "2417788",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101697320",
+      "issn": "",
+      "essn": "2328-8620",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39761168"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/23288604.2024.2417788"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/06 18:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/06 12:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Health systems and reform",
+      "elocationid": "doi: 10.1080/23288604.2024.2417788",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/31 00:00",
+      "sortfirstauthor": "Chew BH",
+      "vernaculartitle": ""
+    }
+  }
+}
