@@ -1,0 +1,6044 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41474908",
+      "41474898",
+      "41474893",
+      "41474891",
+      "41474062",
+      "41468247",
+      "41466553",
+      "41454443",
+      "41452240",
+      "41449745",
+      "41441832",
+      "41439383",
+      "41431416",
+      "41417032",
+      "41411515",
+      "41405560",
+      "41405321",
+      "41399149",
+      "41398448",
+      "41392524",
+      "41391005",
+      "41388744",
+      "41388732",
+      "41386244",
+      "41381175",
+      "41369175",
+      "41369076",
+      "41369046",
+      "41367270",
+      "41367072",
+      "41367071",
+      "41367049",
+      "41361925",
+      "41358900",
+      "41358899",
+      "41358898",
+      "41358897",
+      "41358895",
+      "41358894",
+      "41358893",
+      "41358892",
+      "41358891",
+      "41358890",
+      "41358889",
+      "41358888",
+      "41358887",
+      "41358886",
+      "41358885",
+      "41358882",
+      "41358881"
+    ],
+    "41474908": {
+      "uid": "41474908",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Mymensingh Med J",
+      "authors": [
+        {
+          "name": "Shahabuddin T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haque S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nila SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asaduzzaman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tasnim F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sultana L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sultana L",
+      "title": "Association of Serum Vitamin D Status with Gestational Diabetes Mellitus: An Experience from a Tertiary Level Specialized Diabetic Hospital in Bangladesh.",
+      "sorttitle": "association of serum vitamin d status with gestational diabetes mellitus an experience from a tertiary level specialized diabetic hospital in bangladesh",
+      "volume": "35",
+      "issue": "1",
+      "pages": "189-193",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9601799",
+      "issn": "1022-4742",
+      "essn": "2408-8757",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41474908"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/31 19:17"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/31 19:16"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/31 14:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mymensingh medical journal : MMJ",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Shahabuddin T",
+      "vernaculartitle": ""
+    },
+    "41474898": {
+      "uid": "41474898",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Mymensingh Med J",
+      "authors": [
+        {
+          "name": "Sathi MN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rahman S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arifina R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Arifina R",
+      "title": "Trimetazidine Ameliorates Progression of Diabetic Nephropathy by Reducing Serum Creatinine Level in Streptozotocin Induced Diabetic Rats.",
+      "sorttitle": "trimetazidine ameliorates progression of diabetic nephropathy by reducing serum creatinine level in streptozotocin induced diabetic rats",
+      "volume": "35",
+      "issue": "1",
+      "pages": "123-126",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9601799",
+      "issn": "1022-4742",
+      "essn": "2408-8757",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41474898"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/31 19:17"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/31 19:16"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/31 14:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mymensingh medical journal : MMJ",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Sathi MN",
+      "vernaculartitle": ""
+    },
+    "41474893": {
+      "uid": "41474893",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Mymensingh Med J",
+      "authors": [
+        {
+          "name": "Razia S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmed SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saleheen AN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Joarder RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sattar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shanta FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sabikunnahar M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paul A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Paul A",
+      "title": "Prescribing Pattern of Oral Anti-diabetic Agents among Patients with Type 2 Diabetes in Outpatient Department of a Tertiary Care Hospital in Bangladesh.",
+      "sorttitle": "prescribing pattern of oral anti diabetic agents among patients with type 2 diabetes in outpatient department of a tertiary care hospital in bangladesh",
+      "volume": "35",
+      "issue": "1",
+      "pages": "82-91",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9601799",
+      "issn": "1022-4742",
+      "essn": "2408-8757",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41474893"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/31 19:17"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/31 19:16"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/31 14:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mymensingh medical journal : MMJ",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Razia S",
+      "vernaculartitle": ""
+    },
+    "41474891": {
+      "uid": "41474891",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Mymensingh Med J",
+      "authors": [
+        {
+          "name": "Hasan MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Momtaj S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharmi TZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nath S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jenea AT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jenea AT",
+      "title": "Assessment of Serum Ferritin in Patients with Type 2 Diabetes Mellitus.",
+      "sorttitle": "assessment of serum ferritin in patients with type 2 diabetes mellitus",
+      "volume": "35",
+      "issue": "1",
+      "pages": "66-71",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9601799",
+      "issn": "1022-4742",
+      "essn": "2408-8757",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41474891"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/31 19:17"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/31 19:16"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/31 14:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mymensingh medical journal : MMJ",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Hasan MT",
+      "vernaculartitle": ""
+    },
+    "41474062": {
+      "uid": "41474062",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Med Phys",
+      "authors": [
+        {
+          "name": "Zong X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang W",
+      "title": "Weakly supervised object detection network for diabetic retinopathy.",
+      "sorttitle": "weakly supervised object detection network for diabetic retinopathy",
+      "volume": "53",
+      "issue": "1",
+      "pages": "e70264",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0425746",
+      "issn": "0094-2405",
+      "essn": "2473-4209",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41474062"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mp.70264"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/31 12:56"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/31 12:55"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/31 06:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Medical physics",
+      "elocationid": "doi: 10.1002/mp.70264",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Zong X",
+      "vernaculartitle": ""
+    },
+    "41468247": {
+      "uid": "41468247",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "J Biochem Mol Toxicol",
+      "authors": [
+        {
+          "name": "Mallanna SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chilkunda ND",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chilkunda ND",
+      "title": "Quercetin Feeding Ameliorates Increased Erythrocyte Syndecan-3 Expression in Dyslipidemic and Diabetic Rats and Correlates to Erythrocyte Adhesion.",
+      "sorttitle": "quercetin feeding ameliorates increased erythrocyte syndecan 3 expression in dyslipidemic and diabetic rats and correlates to erythrocyte adhesion",
+      "volume": "40",
+      "issue": "1",
+      "pages": "e70660",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9717231",
+      "issn": "1095-6670",
+      "essn": "1099-0461",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41468247"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jbt.70660"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/05 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/30 19:12"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/30 19:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/30 12:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of biochemical and molecular toxicology",
+      "elocationid": "doi: 10.1002/jbt.70660",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Mallanna SH",
+      "vernaculartitle": ""
+    },
+    "41466553": {
+      "uid": "41466553",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Endocrinol Diabetes Metab",
+      "authors": [
+        {
+          "name": "Hindley B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wright S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ooi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Da Costa R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cope L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cope L",
+      "title": "Exploring Stakeholder Perceptions and Experience of Biosimilar Insulin Switching: A Scoping Review.",
+      "sorttitle": "exploring stakeholder perceptions and experience of biosimilar insulin switching a scoping review",
+      "volume": "9",
+      "issue": "1",
+      "pages": "e70142",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101732442",
+      "issn": "",
+      "essn": "2398-9238",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41466553"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/edm2.70142"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12750096"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12750096;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/20 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/09/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/30 13:09"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/30 07:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/30 03:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/30 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Endocrinology, diabetes & metabolism",
+      "elocationid": "doi: 10.1002/edm2.70142",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Hindley B",
+      "vernaculartitle": ""
+    },
+    "41454443": {
+      "uid": "41454443",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Mol Genet Genomic Med",
+      "authors": [
+        {
+          "name": "Yu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yao L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yao L",
+      "title": "Association Between Vitamin D Deficiency and the Risk of Diabetic Retinopathy in Patients With Type 2 Diabetes: A Meta-Analysis.",
+      "sorttitle": "association between vitamin d deficiency and the risk of diabetic retinopathy in patients with type 2 diabetes a meta analysis",
+      "volume": "14",
+      "issue": "1",
+      "pages": "e70157",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101603758",
+      "issn": "",
+      "essn": "2324-9269",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41454443"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12743042"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12743042;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mgg3.70157"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/18 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/06/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/27 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/27 00:54"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/26 23:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/26 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 51,
+      "fulljournalname": "Molecular genetics & genomic medicine",
+      "elocationid": "doi: 10.1002/mgg3.70157",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Yu G",
+      "vernaculartitle": ""
+    },
+    "41452240": {
+      "uid": "41452240",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2025 Dec 26",
+      "source": "A A Pract",
+      "authors": [
+        {
+          "name": "Belovsky MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bloom J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Agarwal A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lavu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nevler A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kothari R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kothari R",
+      "title": "Perioperative Euglycemic Diabetic Ketoacidosis in Nondiabetic Patients Receiving Hyperthermic Intraperitoneal Chemotherapy: A Case Series.",
+      "sorttitle": "perioperative euglycemic diabetic ketoacidosis in nondiabetic patients receiving hyperthermic intraperitoneal chemotherapy a case series",
+      "volume": "20",
+      "issue": "1",
+      "pages": "e02131",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101714112",
+      "issn": "",
+      "essn": "2575-3126",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41452240"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1213/XAA.0000000000002131"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "02054229-202601000-00003"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/26 13:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/26 13:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/26 09:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "A&A practice",
+      "elocationid": "doi: 10.1213/XAA.0000000000002131",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/26 00:00",
+      "sortfirstauthor": "Belovsky MP",
+      "vernaculartitle": ""
+    },
+    "41449745": {
+      "uid": "41449745",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Pharmacoepidemiol Drug Saf",
+      "authors": [
+        {
+          "name": "Tamura R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takumi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ishihara M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kobayashi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Layton D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sakamoto K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sakamoto K",
+      "title": "Incidence of Diabetic Ketoacidosis in Dapagliflozin-Treated Japanese Patients With Type 1 Diabetes Mellitus: An Observational Cohort Database Study.",
+      "sorttitle": "incidence of diabetic ketoacidosis in dapagliflozin treated japanese patients with type 1 diabetes mellitus an observational cohort database study",
+      "volume": "35",
+      "issue": "1",
+      "pages": "e70294",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9208369",
+      "issn": "1053-8569",
+      "essn": "1099-1557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41449745"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12741505"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12741505;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/pds.70294"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/25 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/02/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/26 07:41"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/26 07:40"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/26 01:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/26 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "Pharmacoepidemiology and drug safety",
+      "elocationid": "doi: 10.1002/pds.70294",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Tamura R",
+      "vernaculartitle": ""
+    },
+    "41441832": {
+      "uid": "41441832",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "G Ital Cardiol (Rome)",
+      "authors": [
+        {
+          "name": "Guido V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Fusco SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morviducci L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ammirati F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Colivicchi F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Colivicchi F",
+      "title": "[Type 2 diabetes in patients with coronary artery disease: from an overlooked diagnosis to treatments with new glucose-lowering drugs].",
+      "sorttitle": "type 2 diabetes in patients with coronary artery disease from an overlooked diagnosis to treatments with new glucose lowering drugs",
+      "volume": "27",
+      "issue": "1",
+      "pages": "37-47",
+      "lang": [
+        "ita"
+      ],
+      "nlmuniqueid": "101263411",
+      "issn": "1827-6806",
+      "essn": "1972-6481",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41441832"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1714/4618.46269"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/24 12:56"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/24 12:55"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/24 10:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Giornale italiano di cardiologia (2006)",
+      "elocationid": "doi: 10.1714/4618.46269",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Guido V",
+      "vernaculartitle": "Diabete mellito di tipo 2 nei pazienti con malattia coronarica: da una diagnosi troppo spesso trascurata alle terapie con i nuovi farmaci ipoglicemizzanti orali."
+    },
+    "41439383": {
+      "uid": "41439383",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "J Manag Care Spec Pharm",
+      "authors": [
+        {
+          "name": "Akpan N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rasu RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sambamoorthi U",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sambamoorthi U",
+      "title": "Estimating the excess expenditures associated with glucagon-like peptide-1 receptor agonist use among adults with diabetes in the United States.",
+      "sorttitle": "estimating the excess expenditures associated with glucagon like peptide 1 receptor agonist use among adults with diabetes in the united states",
+      "volume": "32",
+      "issue": "1",
+      "pages": "14-26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101644425",
+      "issn": "2376-0540",
+      "essn": "2376-1032",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41439383"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12728810"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12728810;embargo-date: 2026/01/01;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18553/jmcp.2026.32.1.14"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/24 12:55"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/24 07:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/24 05:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 45,
+      "fulljournalname": "Journal of managed care & specialty pharmacy",
+      "elocationid": "doi: 10.18553/jmcp.2026.32.1.14",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Akpan N",
+      "vernaculartitle": ""
+    },
+    "41431416": {
+      "uid": "41431416",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Yonsei Med J",
+      "authors": [
+        {
+          "name": "Jun S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kang JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "An KY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee DH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeon JY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jeon JY",
+      "title": "Association of Aerobic Physical Activity and Resistance Exercise with Glycated Hemoglobin in Women with Diabetes.",
+      "sorttitle": "association of aerobic physical activity and resistance exercise with glycated hemoglobin in women with diabetes",
+      "volume": "67",
+      "issue": "1",
+      "pages": "71-78",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0414003",
+      "issn": "0513-5796",
+      "essn": "1976-2437",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41431416"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3349/ymj.2024.0480"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "67.71"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12748273"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12748273;embargo-date: 2026/01/01;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/01/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/05/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/06/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/23 07:48"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/23 07:47"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/23 03:32"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 39,
+      "fulljournalname": "Yonsei medical journal",
+      "elocationid": "doi: 10.3349/ymj.2024.0480",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Jun S",
+      "vernaculartitle": ""
+    },
+    "41417032": {
+      "uid": "41417032",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 1",
+      "source": "Rev Med Inst Mex Seguro Soc",
+      "authors": [
+        {
+          "name": "Figueroa-Garc\u00eda J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Granados-Garc\u00eda VM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mart\u00ednez-Barro D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Figueroa-Hern\u00e1ndez MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palomo-Pi\u00f1\u00f3n S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rojano-Mej\u00eda D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rojano-Mej\u00eda D",
+      "title": "[Costs of pharmacological treatment in hypertension and type 2 diabetes mellitus].",
+      "sorttitle": "costs of pharmacological treatment in hypertension and type 2 diabetes mellitus",
+      "volume": "64",
+      "issue": "1",
+      "pages": "e6696",
+      "lang": [
+        "spa"
+      ],
+      "nlmuniqueid": "101243727",
+      "issn": "0443-5117",
+      "essn": "2448-5667",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41417032"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12742755"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12742755;embargo-date: 2026/01/01;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5281/zenodo.17477818"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/08 00:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/19 15:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/19 15:02"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/19 11:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "Revista medica del Instituto Mexicano del Seguro Social",
+      "elocationid": "doi: 10.5281/zenodo.17477818",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Figueroa-Garc\u00eda J",
+      "vernaculartitle": "Costos del tratamiento farmacol\u00f3gico en hipertensi\u00f3n y diabetes mellitus tipo 2."
+    },
+    "41411515": {
+      "uid": "41411515",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 1",
+      "source": "Pancreas",
+      "authors": [
+        {
+          "name": "Chu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sun L",
+      "title": "Plasma Proteomics Identifies Potential Pancreatic Cancer Risk Indicators in Type 2 Diabetes.",
+      "sorttitle": "plasma proteomics identifies potential pancreatic cancer risk indicators in type 2 diabetes",
+      "volume": "55",
+      "issue": "1",
+      "pages": "e95-e103",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8608542",
+      "issn": "0885-3177",
+      "essn": "1536-4828",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41411515"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12713688"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12713688;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPA.0000000000002472"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00006676-202601000-00014"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/06/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/18 19:25"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/18 19:24"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/18 15:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 31,
+      "fulljournalname": "Pancreas",
+      "elocationid": "doi: 10.1097/MPA.0000000000002472",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Chu S",
+      "vernaculartitle": ""
+    },
+    "41405560": {
+      "uid": "41405560",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Endocrinol Diabetes Metab",
+      "authors": [
+        {
+          "name": "Beniwal SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeong Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rawat A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Einieh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patil K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "da Costa REAR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saini P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghazal KY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumar A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dwivedi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mandavkar AA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mandavkar AA",
+      "title": "Circular RNAs as Biomarkers and Therapeutic Targets in Diabetic Cardiovascular Complications.",
+      "sorttitle": "circular rnas as biomarkers and therapeutic targets in diabetic cardiovascular complications",
+      "volume": "9",
+      "issue": "1",
+      "pages": "e70149",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101732442",
+      "issn": "",
+      "essn": "2398-9238",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41405560"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12710528"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12710528;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/edm2.70149"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/19 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/01/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/17 13:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/17 13:02"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/17 10:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 118,
+      "fulljournalname": "Endocrinology, diabetes & metabolism",
+      "elocationid": "doi: 10.1002/edm2.70149",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Beniwal SS",
+      "vernaculartitle": ""
+    },
+    "41405321": {
+      "uid": "41405321",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 1",
+      "source": "Pancreas",
+      "authors": [
+        {
+          "name": "Trieu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chowdhury A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dodge J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hiramoto B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alas B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nguyen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tarakji A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sumethasorn M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brar G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruce D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeon C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goodarzi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pandol S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buxbaum J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Buxbaum J",
+      "title": "Predicting New-onset Diabetes Following Acute Pancreatitis: The CAPS Score.",
+      "sorttitle": "predicting new onset diabetes following acute pancreatitis the caps score",
+      "volume": "55",
+      "issue": "1",
+      "pages": "e70-e74",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8608542",
+      "issn": "0885-3177",
+      "essn": "1536-4828",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41405321"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPA.0000000000002571"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00006676-990000000-00400"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/18 19:24"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/17 13:02"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/17 09:15"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pancreas",
+      "elocationid": "doi: 10.1097/MPA.0000000000002571",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Trieu H",
+      "vernaculartitle": ""
+    },
+    "41399149": {
+      "uid": "41399149",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Basic Clin Pharmacol Toxicol",
+      "authors": [
+        {
+          "name": "Christensen JFMM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kolbye A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "J\u00fcrgens G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "J\u00fcrgens G",
+      "title": "Facilitating the Implementation of Physician-Led Medication Reviews for Patients With Severe Mental Disorder and Diabetes: A Cost-Minimization Analysis.",
+      "sorttitle": "facilitating the implementation of physician led medication reviews for patients with severe mental disorder and diabetes a cost minimization analysis",
+      "volume": "138",
+      "issue": "1",
+      "pages": "e70175",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101208422",
+      "issn": "1742-7835",
+      "essn": "1742-7843",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41399149"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/bcpt.70175"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/14 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/16 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/16 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/16 03:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Basic & clinical pharmacology & toxicology",
+      "elocationid": "doi: 10.1111/bcpt.70175",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Christensen JFMM",
+      "vernaculartitle": ""
+    },
+    "41398448": {
+      "uid": "41398448",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Diabetes Metab Res Rev",
+      "authors": [
+        {
+          "name": "Tsironikos GI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsolaki V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zakynthinos G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rammou V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kyprianidou D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Antonogiannis T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zakynthinos E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bargiota A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bargiota A",
+      "title": "Effectiveness of GLP-1 RAs in Restoring Normoglycemia in Patients With Prediabetes: An Updated Systematic Review and Meta-Analysis.",
+      "sorttitle": "effectiveness of glp 1 ras in restoring normoglycemia in patients with prediabetes an updated systematic review and meta analysis",
+      "volume": "42",
+      "issue": "1",
+      "pages": "e70114",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100883450",
+      "issn": "1520-7552",
+      "essn": "1520-7560",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41398448"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/dmrr.70114"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/01 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/16 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/16 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/16 00:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Diabetes/metabolism research and reviews",
+      "elocationid": "doi: 10.1002/dmrr.70114",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Tsironikos GI",
+      "vernaculartitle": ""
+    },
+    "41392524": {
+      "uid": "41392524",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Diabetes Metab Res Rev",
+      "authors": [
+        {
+          "name": "Calvarysky B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gal Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kushnir S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turjeman A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shochat T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dotan I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Diker Cohen T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Diker Cohen T",
+      "title": "Glucagon-Like Peptide-1 Analogues and the Risk of Recurrent Pancreatitis in Diabetic Patients With History of Pancreatitis or Elevated Lipase: Retrospective Cohort Analysis.",
+      "sorttitle": "glucagon like peptide 1 analogues and the risk of recurrent pancreatitis in diabetic patients with history of pancreatitis or elevated lipase retrospective cohort analysis",
+      "volume": "42",
+      "issue": "1",
+      "pages": "e70116",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100883450",
+      "issn": "1520-7552",
+      "essn": "1520-7560",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41392524"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12703130"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12703130;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/dmrr.70116"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/04 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/15 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/15 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/15 02:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "Diabetes/metabolism research and reviews",
+      "elocationid": "doi: 10.1002/dmrr.70116",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Calvarysky B",
+      "vernaculartitle": ""
+    },
+    "41391005": {
+      "uid": "41391005",
+      "pubdate": "2026 Jan",
+      "epubdate": "2025 Dec 14",
+      "source": "Aging Cell",
+      "authors": [
+        {
+          "name": "Xiao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lv T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tang W",
+      "title": "Small Extracellular Vesicles From Human Amniotic Membrane Mesenchymal Stem Cells Rejuvenate Senescent \u03b2 Cells and Cure Age-Related Diabetes in Mice.",
+      "sorttitle": "small extracellular vesicles from human amniotic membrane mesenchymal stem cells rejuvenate senescent cells and cure age related diabetes in mice",
+      "volume": "25",
+      "issue": "1",
+      "pages": "e70327",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101130839",
+      "issn": "1474-9718",
+      "essn": "1474-9726",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41391005"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12741205"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12741205;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/acel.70327"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/24 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/05/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/29 00:24"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/14 15:52"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/14 08:22"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 80,
+      "fulljournalname": "Aging cell",
+      "elocationid": "doi: 10.1111/acel.70327",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Xiao L",
+      "vernaculartitle": ""
+    },
+    "41388744": {
+      "uid": "41388744",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Endocrinol Diabetes Metab",
+      "authors": [
+        {
+          "name": "Bahari H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharifi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nejad Shahrokh Abadi Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shahraki Jazinaki M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Golafrouz H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asadi Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Asadi Z",
+      "title": "Antihypertensive Effects of Curcumin/Turmeric Supplementation in Prediabetes and Diabetes: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
+      "sorttitle": "antihypertensive effects of curcumin turmeric supplementation in prediabetes and diabetes a systematic review and meta analysis of randomised controlled trials",
+      "volume": "9",
+      "issue": "1",
+      "pages": "e70145",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101732442",
+      "issn": "",
+      "essn": "2398-9238",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41388744"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12701325"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12701325;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/edm2.70145"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/26 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/11/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/13 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/13 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/13 02:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 57,
+      "fulljournalname": "Endocrinology, diabetes & metabolism",
+      "elocationid": "doi: 10.1002/edm2.70145",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Bahari H",
+      "vernaculartitle": ""
+    },
+    "41388732": {
+      "uid": "41388732",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Endocrinol Diabetes Metab",
+      "authors": [
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tian J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yang X",
+      "title": "High-Protein Diet Exacerbates Insulin Resistance via the JNK/IKK\u03b2-IRS-1 Pathway.",
+      "sorttitle": "high protein diet exacerbates insulin resistance via the jnk ikk irs 1 pathway",
+      "volume": "9",
+      "issue": "1",
+      "pages": "e70147",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101732442",
+      "issn": "",
+      "essn": "2398-9238",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41388732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12701323"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12701323;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/edm2.70147"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/20 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/13 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/13 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/13 02:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 44,
+      "fulljournalname": "Endocrinology, diabetes & metabolism",
+      "elocationid": "doi: 10.1002/edm2.70147",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Li J",
+      "vernaculartitle": ""
+    },
+    "41386244": {
+      "uid": "41386244",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Lancet Glob Health",
+      "authors": [
+        {
+          "name": "Global Health and Population Project on Access to Care for Cardiometabolic Diseases Collaborators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Global Health and Population Project on Access to Care for Cardiometabolic Diseases Collaborators",
+      "title": "Attainment of global diabetes targets in 2021: a pooled analysis of individual-level data from national surveys in 100 low-income, middle-income, and high-income countries.",
+      "sorttitle": "attainment of global diabetes targets in 2021 a pooled analysis of individual level data from national surveys in 100 low income middle income and high income countries",
+      "volume": "14",
+      "issue": "1",
+      "pages": "e21-e32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101613665",
+      "issn": "",
+      "essn": "2214-109X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41386244"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2214-109X(25)00393-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2214-109X(25)00393-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/13 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/13 00:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/12 18:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Lancet. Global health",
+      "elocationid": "doi: 10.1016/S2214-109X(25)00393-6",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Global Health and Population Project on Access to Care for Cardiometabolic Diseases Collaborators",
+      "vernaculartitle": ""
+    },
+    "41381175": {
+      "uid": "41381175",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Lancet Diabetes Endocrinol",
+      "authors": [
+        {
+          "name": "Dhatariya K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bergenstal RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Sofiani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Albanese-O'Neill A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Battelino T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Close K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Block C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dutta S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Galindo RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "GhavamiNejad A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haidar A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heverly J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kruger D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laffel LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lally J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maahs DM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maffeis C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mathieu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Munshi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nishimura R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "N\u00f8rgaard K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oron T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "O'Neal DN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oxenreiter M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perkins BA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillip M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Renard E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scharf M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sherr J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wysham C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Danne T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Danne T",
+      "title": "Continuous ketone monitoring for people with diabetes: international expert recommendations on the application of a new technology.",
+      "sorttitle": "continuous ketone monitoring for people with diabetes international expert recommendations on the application of a new technology",
+      "volume": "14",
+      "issue": "1",
+      "pages": "82-92",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101618821",
+      "issn": "2213-8587",
+      "essn": "2213-8595",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41381175"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2213-8587(25)00331-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-8587(25)00331-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/08 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/12 03:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/12 03:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/11 20:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The lancet. Diabetes & endocrinology",
+      "elocationid": "doi: 10.1016/S2213-8587(25)00331-6",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Dhatariya K",
+      "vernaculartitle": ""
+    },
+    "41369175": {
+      "uid": "41369175",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Pediatr Obes",
+      "authors": [
+        {
+          "name": "Mensah DO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Everett AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fouts AE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoelscher GL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martin SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bahorski JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mensah PH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Callahan ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garvey WT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chandler-Laney PC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chandler-Laney PC",
+      "title": "Central Adiposity, Rather Than in Utero Exposure to Maternal Obesity or Gestational Diabetes, Predicts Metabolic Syndrome Risk in Children Aged 4-10\u2009Years.",
+      "sorttitle": "central adiposity rather than in utero exposure to maternal obesity or gestational diabetes predicts metabolic syndrome risk in children aged 4 10 years",
+      "volume": "21",
+      "issue": "1",
+      "pages": "e70066",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101572033",
+      "issn": "2047-6302",
+      "essn": "2047-6310",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41369175"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ijpo.70066"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/26 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/06/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 13:53"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 13:52"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 08:42"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Pediatric obesity",
+      "elocationid": "doi: 10.1111/ijpo.70066",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Mensah DO",
+      "vernaculartitle": ""
+    },
+    "41369076": {
+      "uid": "41369076",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Endocrinol Diabetes Metab",
+      "authors": [
+        {
+          "name": "Elbidairi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Miranda TA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marte CMM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dos Santos EAP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raja W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kandakkeel A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghorab YAI",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ghorab YAI",
+      "title": "Assessing Awareness and Knowledge Gaps in Diabetic Distress Among Qatar's Healthcare Providers: A Cross-Sectional Study.",
+      "sorttitle": "assessing awareness and knowledge gaps in diabetic distress among qatar s healthcare providers a cross sectional study",
+      "volume": "9",
+      "issue": "1",
+      "pages": "e70117",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101732442",
+      "issn": "",
+      "essn": "2398-9238",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41369076"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690494"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690494;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/edm2.70117"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/15 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 13:52"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 13:51"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 07:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "Endocrinology, diabetes & metabolism",
+      "elocationid": "doi: 10.1002/edm2.70117",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Elbidairi M",
+      "vernaculartitle": ""
+    },
+    "41369046": {
+      "uid": "41369046",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Endocrinol Diabetes Metab",
+      "authors": [
+        {
+          "name": "Ba A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayoub M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aboulkacem S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Belhedi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aouni Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazigh C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mazigh C",
+      "title": "Association of the Endothelial Nitric Oxide Synthase (eNOS) G894T Gene Polymorphism With Type 2 Diabetes Mellitus in a Tunisian Population.",
+      "sorttitle": "association of the endothelial nitric oxide synthase enos g894t gene polymorphism with type 2 diabetes mellitus in a tunisian population",
+      "volume": "9",
+      "issue": "1",
+      "pages": "e70122",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101732442",
+      "issn": "",
+      "essn": "2398-9238",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41369046"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690492"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690492;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/edm2.70122"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/04 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/09/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 13:52"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 13:51"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 07:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 16,
+      "fulljournalname": "Endocrinology, diabetes & metabolism",
+      "elocationid": "doi: 10.1002/edm2.70122",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Ba A",
+      "vernaculartitle": ""
+    },
+    "41367270": {
+      "uid": "41367270",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Pediatr Obes",
+      "authors": [
+        {
+          "name": "Singleton C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhuang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kavanagh K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dalrymple KV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flynn AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Poston L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meek CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "White SL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "White SL",
+      "title": "Beyond Gestational Diabetes: Maternal and Offspring Health and Lifestyle 3\u2009Years Postnatally in a Secondary Analysis of the UPBEAT Trial Cohort.",
+      "sorttitle": "beyond gestational diabetes maternal and offspring health and lifestyle 3 years postnatally in a secondary analysis of the upbeat trial cohort",
+      "volume": "21",
+      "issue": "1",
+      "pages": "e70076",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101572033",
+      "issn": "2047-6302",
+      "essn": "2047-6310",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41367270"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690341"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690341;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ijpo.70076"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/12 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/05/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 03:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 24,
+      "fulljournalname": "Pediatric obesity",
+      "elocationid": "doi: 10.1111/ijpo.70076",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Singleton C",
+      "vernaculartitle": ""
+    },
+    "41367072": {
+      "uid": "41367072",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2025 Oct 18",
+      "source": "J Res Health Sci",
+      "authors": [
+        {
+          "name": "Rajabi Basir Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alipour S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esna-Ashari F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borzouei S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Borzouei S",
+      "title": "The Association Between Health Literacy and General Health in Women With Gestational Diabetes: A Cross-sectional Study.",
+      "sorttitle": "association between health literacy and general health in women with gestational diabetes a cross sectional study",
+      "volume": "26",
+      "issue": "1",
+      "pages": "e00674",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101480094",
+      "issn": "2228-7795",
+      "essn": "2228-7809",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41367072"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12681058"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12681058;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.34172/jrhs.11438"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "e00674"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 01:24"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/10/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "Journal of research in health sciences",
+      "elocationid": "doi: 10.34172/jrhs.11438",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Rajabi Basir Y",
+      "vernaculartitle": ""
+    },
+    "41367071": {
+      "uid": "41367071",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2025 Oct 18",
+      "source": "J Res Health Sci",
+      "authors": [
+        {
+          "name": "Heydari K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kheradmand M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmadnezhad S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moosazadeh M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Moosazadeh M",
+      "title": "The Association Between Opium Consumption, Diabetes, and Hypertension Among Male Participants in the Tabari Cohort Population: A Cross-sectional Study.",
+      "sorttitle": "association between opium consumption diabetes and hypertension among male participants in the tabari cohort population a cross sectional study",
+      "volume": "26",
+      "issue": "1",
+      "pages": "e00673",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101480094",
+      "issn": "2228-7795",
+      "essn": "2228-7809",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41367071"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12681057"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12681057;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.34172/jrhs.11343"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "e00673"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 01:24"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/10/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 27,
+      "fulljournalname": "Journal of research in health sciences",
+      "elocationid": "doi: 10.34172/jrhs.11343",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Heydari K",
+      "vernaculartitle": ""
+    },
+    "41367049": {
+      "uid": "41367049",
+      "pubdate": "2026 Jan",
+      "epubdate": "",
+      "source": "Diabetes Metab Res Rev",
+      "authors": [
+        {
+          "name": "Li Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang X",
+      "title": "Review on the Gut-Kidney Axis Mechanism and Therapeutic Strategies in Diabetic Nephropathy.",
+      "sorttitle": "review on the gut kidney axis mechanism and therapeutic strategies in diabetic nephropathy",
+      "volume": "42",
+      "issue": "1",
+      "pages": "e70115",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100883450",
+      "issn": "1520-7552",
+      "essn": "1520-7560",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41367049"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/dmrr.70115"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/19 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 01:04"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Diabetes/metabolism research and reviews",
+      "elocationid": "doi: 10.1002/dmrr.70115",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Li Q",
+      "vernaculartitle": ""
+    },
+    "41361925": {
+      "uid": "41361925",
+      "pubdate": "2026 Jan",
+      "epubdate": "2025 Dec 8",
+      "source": "Mol Nutr Food Res",
+      "authors": [
+        {
+          "name": "Li D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhao X",
+      "title": "Artemisinin Protects Diabetic Cardiomyopathy by Inhibiting Ferroptosis via Upregulating Nrf2/NQO1 and GPX4 Pathways.",
+      "sorttitle": "artemisinin protects diabetic cardiomyopathy by inhibiting ferroptosis via upregulating nrf2 nqo1 and gpx4 pathways",
+      "volume": "70",
+      "issue": "1",
+      "pages": "e70296",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101231818",
+      "issn": "1613-4125",
+      "essn": "1613-4133",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41361925"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mnfr.70296"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/24 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/06/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/24 07:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/09 07:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/09 00:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Molecular nutrition & food research",
+      "elocationid": "doi: 10.1002/mnfr.70296",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Li D",
+      "vernaculartitle": ""
+    },
+    "41358900": {
+      "uid": "41358900",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "9. Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2026.",
+      "sorttitle": "9 pharmacologic approaches to glycemic treatment standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S183-S215",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358900"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690185"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690185;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163934"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 318,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S009",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358899": {
+      "uid": "41358899",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "10. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes-2026.",
+      "sorttitle": "10 cardiovascular disease and risk management standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S216-S245",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358899"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690187"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690187;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S010"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163933"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 315,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S010",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358898": {
+      "uid": "41358898",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "5. Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes-2026.",
+      "sorttitle": "5 facilitating positive health behaviors and well being to improve health outcomes standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S89-S131",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358898"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690188"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690188;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163932"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 633,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S005",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358897": {
+      "uid": "41358897",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "4. Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes-2026.",
+      "sorttitle": "4 comprehensive medical evaluation and assessment of comorbidities standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S61-S88",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358897"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690184"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690184;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163931"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 307,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S004",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358895": {
+      "uid": "41358895",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "17. Diabetes Advocacy: Standards of Care in Diabetes-2026.",
+      "sorttitle": "17 diabetes advocacy standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S356-S357",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358895"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690165"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690165;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163929"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 6,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S017",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358894": {
+      "uid": "41358894",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "6. Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises: Standards of Care in Diabetes-2026.",
+      "sorttitle": "6 glycemic goals hypoglycemia and hyperglycemic crises standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S132-S149",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358894"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690178"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690178;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163927"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 198,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S006",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358893": {
+      "uid": "41358893",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2026.",
+      "sorttitle": "2 diagnosis and classification of diabetes standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S27-S49",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358893"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690183"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690183;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163926"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 236,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S002",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358892": {
+      "uid": "41358892",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "16. Diabetes Care in the Hospital: Standards of Care in Diabetes-2026.",
+      "sorttitle": "16 diabetes care in the hospital standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S339-S355",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358892"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690180"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690180;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163925"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 198,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S016",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358891": {
+      "uid": "41358891",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "3. Prevention or Delay of Diabetes and Associated Comorbidities: Standards of Care in Diabetes-2026.",
+      "sorttitle": "3 prevention or delay of diabetes and associated comorbidities standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S50-S60",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358891"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690170"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690170;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163924"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 142,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S003",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358890": {
+      "uid": "41358890",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "14. Children and Adolescents: Standards of Care in Diabetes-2026.",
+      "sorttitle": "14 children and adolescents standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S297-S320",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358890"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690182"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690182;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163923"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 251,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S014",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358889": {
+      "uid": "41358889",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "7. Diabetes Technology: Standards of Care in Diabetes-2026.",
+      "sorttitle": "7 diabetes technology standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S150-S165",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358889"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690173"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690173;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S007"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163922"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:18"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 193,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S007",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358888": {
+      "uid": "41358888",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "13. Older Adults: Standards of Care in Diabetes-2026.",
+      "sorttitle": "13 older adults standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S277-S296",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358888"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690186"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690186;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S013"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163921"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 194,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S013",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358887": {
+      "uid": "41358887",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "1. Improving Care and Promoting Health in Populations: Standards of Care in Diabetes-2026.",
+      "sorttitle": "1 improving care and promoting health in populations standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S13-S26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358887"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690171"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690171;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163920"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 171,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S001",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358886": {
+      "uid": "41358886",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "12. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2026.",
+      "sorttitle": "12 retinopathy neuropathy and foot care standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S261-S276",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358886"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690177"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690177;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163919"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 169,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S012",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358885": {
+      "uid": "41358885",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes-2026.",
+      "sorttitle": "15 management of diabetes in pregnancy standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S321-S338",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358885"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690181"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690181;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S015"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163918"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 205,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S015",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358882": {
+      "uid": "41358882",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "8. Obesity and Weight Management for the Prevention and Treatment of Diabetes: Standards of Care in Diabetes-2026.",
+      "sorttitle": "8 obesity and weight management for the prevention and treatment of diabetes standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S166-S182",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358882"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690172"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690172;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163915"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 191,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S008",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    },
+    "41358881": {
+      "uid": "41358881",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "",
+      "source": "Diabetes Care",
+      "authors": [
+        {
+          "name": "American Diabetes Association Professional Practice Committee for Diabetes*",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "title": "11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes-2026.",
+      "sorttitle": "11 chronic kidney disease and risk management standards of care in diabetes 2026",
+      "volume": "49",
+      "issue": "Supplement_1",
+      "pages": "S246-S260",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7805975",
+      "issn": "0149-5992",
+      "essn": "1935-5548",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41358881"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12690176"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12690176;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2337/dc26-S011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "163914"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 13:19"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/08 13:18"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/08 10:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 159,
+      "fulljournalname": "Diabetes care",
+      "elocationid": "doi: 10.2337/dc26-S011",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "American Diabetes Association Professional Practice Committee for Diabetes*",
+      "vernaculartitle": ""
+    }
+  }
+}
