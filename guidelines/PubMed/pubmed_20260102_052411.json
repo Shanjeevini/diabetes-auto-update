@@ -1,0 +1,147 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41477833"
+    ],
+    "41477833": {
+      "uid": "41477833",
+      "pubdate": "2026 Jan 2",
+      "epubdate": "2026 Jan 1",
+      "source": "Sci Adv",
+      "authors": [
+        {
+          "name": "Xie L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xiao Y",
+      "title": "Galectin-3 exacerbates autoimmune diabetes by limiting regulatory T cell differentiation and function.",
+      "sorttitle": "galectin 3 exacerbates autoimmune diabetes by limiting regulatory t cell differentiation and function",
+      "volume": "12",
+      "issue": "1",
+      "pages": "eadz7916",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101653440",
+      "issn": "",
+      "essn": "2375-2548",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41477833"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/sciadv.adz7916"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/01 19:22"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/01 19:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/01 14:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Science advances",
+      "elocationid": "doi: 10.1126/sciadv.adz7916",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/02 00:00",
+      "sortfirstauthor": "Xie L",
+      "vernaculartitle": ""
+    }
+  }
+}
