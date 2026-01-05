@@ -1,0 +1,711 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41428842",
+      "41092797",
+      "41075607",
+      "41033559",
+      "40691067"
+    ],
+    "41428842": {
+      "uid": "41428842",
+      "pubdate": "2026 Jan 5",
+      "epubdate": "2026 Jan 5",
+      "source": "R I Med J (2013)",
+      "authors": [
+        {
+          "name": "Khatri S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coppinger AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rana VK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wahood S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yilmaz T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yilmaz T",
+      "title": "The Unfinished Story: Analyzing Publication Rates in Diabetic Retinopathy and Diabetic Macular Edema Trials Before the COVID-19 Era (1972-2018).",
+      "sorttitle": "unfinished story analyzing publication rates in diabetic retinopathy and diabetic macular edema trials before the covid 19 era 1972 2018",
+      "volume": "109",
+      "issue": "1",
+      "pages": "22-24",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101605827",
+      "issn": "",
+      "essn": "2327-2228",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41428842"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/22 19:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/22 19:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/22 14:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Rhode Island medical journal (2013)",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/05 00:00",
+      "sortfirstauthor": "Khatri S",
+      "vernaculartitle": ""
+    },
+    "41092797": {
+      "uid": "41092797",
+      "pubdate": "2026 Jan 5",
+      "epubdate": "2025 Oct 9",
+      "source": "Eur J Med Chem",
+      "authors": [
+        {
+          "name": "Elgohary MK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elkotamy MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fakhry MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alkabbani MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abubakr A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamdy AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shatat AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ismail RSM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ibrahim AMA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almehizia AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naglah AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohamed MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghabbour HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tawfik HO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eldehna WM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdel-Aziz HA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abdel-Aziz HA",
+      "title": "Harnessing benzofuran scaffolds: A journey through design, synthesis, and biological discovery toward safer anti-diabetic and anti-oxidant candidates.",
+      "sorttitle": "harnessing benzofuran scaffolds a journey through design synthesis and biological discovery toward safer anti diabetic and anti oxidant candidates",
+      "volume": "301",
+      "issue": "",
+      "pages": "118246",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0420510",
+      "issn": "0223-5234",
+      "essn": "1768-3254",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41092797"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejmech.2025.118246"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0223-5234(25)01011-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/13 18:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/16 05:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/15 18:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of medicinal chemistry",
+      "elocationid": "doi: 10.1016/j.ejmech.2025.118246",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/05 00:00",
+      "sortfirstauthor": "Elgohary MK",
+      "vernaculartitle": ""
+    },
+    "41075607": {
+      "uid": "41075607",
+      "pubdate": "2026 Jan 5",
+      "epubdate": "2025 Oct 9",
+      "source": "Eur J Med Chem",
+      "authors": [
+        {
+          "name": "Bai S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qie Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teng Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Teng Y",
+      "title": "Design, synthesis and anti-diabetic evaluation of novel PPAR agonists based on functional group-oriented strategy.",
+      "sorttitle": "design synthesis and anti diabetic evaluation of novel ppar agonists based on functional group oriented strategy",
+      "volume": "301",
+      "issue": "",
+      "pages": "118226",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0420510",
+      "issn": "0223-5234",
+      "essn": "1768-3254",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41075607"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejmech.2025.118226"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0223-5234(25)00991-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/13 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/12 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/11 18:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of medicinal chemistry",
+      "elocationid": "doi: 10.1016/j.ejmech.2025.118226",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/05 00:00",
+      "sortfirstauthor": "Bai S",
+      "vernaculartitle": ""
+    },
+    "41033559": {
+      "uid": "41033559",
+      "pubdate": "2026 Jan 5",
+      "epubdate": "2025 Sep 29",
+      "source": "Behav Brain Res",
+      "authors": [
+        {
+          "name": "Wang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He ZQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu ZY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi YK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun YN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sun YN",
+      "title": "Sennoside A ameliorates cognitive impairment by inhibiting USP14/ERK1/2 pathway in a mouse model of type 2 diabetes mellitus.",
+      "sorttitle": "sennoside a ameliorates cognitive impairment by inhibiting usp14 erk1 2 pathway in a mouse model of type 2 diabetes mellitus",
+      "volume": "496",
+      "issue": "",
+      "pages": "115853",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8004872",
+      "issn": "0166-4328",
+      "essn": "1872-7549",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41033559"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbr.2025.115853"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0166-4328(25)00440-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/04 00:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/02 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/01 19:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Behavioural brain research",
+      "elocationid": "doi: 10.1016/j.bbr.2025.115853",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/05 00:00",
+      "sortfirstauthor": "Wang L",
+      "vernaculartitle": ""
+    },
+    "40691067": {
+      "uid": "40691067",
+      "pubdate": "2026 Jan 5",
+      "epubdate": "2025 Nov 28",
+      "source": "J Epidemiol",
+      "authors": [
+        {
+          "name": "Akter T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takada M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamrah MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Endale BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paththamesthrige SEP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khine MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matsunaga M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ota A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tamakoshi K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yatsuya H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yatsuya H",
+      "title": "Association of Adipose Tissue Insulin Resistance With Risk of Diabetes Incidence in Middle-aged Japanese Workers According to BMI States: 17 Years of Follow-up of the Aichi Worker's Cohort Study.",
+      "sorttitle": "association of adipose tissue insulin resistance with risk of diabetes incidence in middle aged japanese workers according to bmi states 17 years of follow up of the aichi worker s cohort study",
+      "volume": "36",
+      "issue": "1",
+      "pages": "44-50",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9607688",
+      "issn": "0917-5040",
+      "essn": "1349-9092",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40691067"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12698324"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12698324;embargo-date: 2026/01/05;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2188/jea.JE20250025"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/07/22 00:25"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/07/22 00:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/07/21 21:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 39,
+      "fulljournalname": "Journal of epidemiology",
+      "elocationid": "doi: 10.2188/jea.JE20250025",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/05 00:00",
+      "sortfirstauthor": "Akter T",
+      "vernaculartitle": ""
+    }
+  }
+}
