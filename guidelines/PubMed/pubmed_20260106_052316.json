@@ -1,0 +1,334 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41481435",
+      "41461029"
+    ],
+    "41481435": {
+      "uid": "41481435",
+      "pubdate": "2026 Jan 6",
+      "epubdate": "2026 Jan 2",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": [
+        {
+          "name": "Chakraborty J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghosh A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Awuah EB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stabler SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Field MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bailey RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stover PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stover PJ",
+      "title": "Dietary folic acid prevents peripheral neuropathy in mouse models of neural tube defects and type 2 diabetes.",
+      "sorttitle": "dietary folic acid prevents peripheral neuropathy in mouse models of neural tube defects and type 2 diabetes",
+      "volume": "123",
+      "issue": "1",
+      "pages": "e2528095123",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7505876",
+      "issn": "0027-8424",
+      "essn": "1091-6490",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41481435"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2528095123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/02 19:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/02 19:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/02 12:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+      "elocationid": "doi: 10.1073/pnas.2528095123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/06 00:00",
+      "sortfirstauthor": "Chakraborty J",
+      "vernaculartitle": ""
+    },
+    "41461029": {
+      "uid": "41461029",
+      "pubdate": "2026 Jan 6",
+      "epubdate": "2025 Dec 29",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": [
+        {
+          "name": "Guan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moreno-Navarrete JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deng C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feng Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yi F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hou S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fern\u00e1ndez-Real JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vidal-Puig A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cao L",
+      "title": "Enhanced insulin signaling via circulating ATG7: A potential therapeutic strategy for diabetes.",
+      "sorttitle": "enhanced insulin signaling via circulating atg7 a potential therapeutic strategy for diabetes",
+      "volume": "123",
+      "issue": "1",
+      "pages": "e2503783123",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7505876",
+      "issn": "0027-8424",
+      "essn": "1091-6490",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41461029"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2503783123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/29 19:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/29 19:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/29 15:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+      "elocationid": "doi: 10.1073/pnas.2503783123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/06 00:00",
+      "sortfirstauthor": "Guan Y",
+      "vernaculartitle": ""
+    }
+  }
+}
