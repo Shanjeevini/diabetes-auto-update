@@ -1,0 +1,130 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41380448"
+    ],
+    "41380448": {
+      "uid": "41380448",
+      "pubdate": "2026 Jan 8",
+      "epubdate": "2025 Dec 8",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Huang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tian J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tong C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qi Z",
+      "title": "Engineered MSCs secreting GLP-1 enhance \u03b2-cell survival and improve glycemic control in diabetic mice.",
+      "sorttitle": "engineered mscs secreting glp 1 enhance cell survival and improve glycemic control in diabetic mice",
+      "volume": "795",
+      "issue": "",
+      "pages": "153105",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41380448"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2025.153105"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(25)01821-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/27 00:54"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/12 03:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/11 18:07"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2025.153105",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/08 00:00",
+      "sortfirstauthor": "Huang Z",
+      "vernaculartitle": ""
+    }
+  }
+}
