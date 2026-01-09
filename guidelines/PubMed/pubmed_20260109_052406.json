@@ -1,0 +1,190 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41325163"
+    ],
+    "41325163": {
+      "uid": "41325163",
+      "pubdate": "2026 Jan 9",
+      "epubdate": "2025 Nov 25",
+      "source": "JCI Insight",
+      "authors": [
+        {
+          "name": "Golodnikov II",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Podshivalova ES",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chechekhin VI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zubritskiy AV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matrosova AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sergeev NA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Samsonova MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dvoryanchikov YV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nikonova TV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bondarenko EV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loguinova MY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Medvedeva YA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laptev DN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khusainova RI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Minniakhmetov IR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shestakova MV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mokrysheva NG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dedov II",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dedov II",
+      "title": "Single-cell immune transcriptomics reveals an inflammatory-inhibitory set-point spectrum in autoimmune diabetes.",
+      "sorttitle": "single cell immune transcriptomics reveals an inflammatory inhibitory set point spectrum in autoimmune diabetes",
+      "volume": "11",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101676073",
+      "issn": "",
+      "essn": "2379-3708",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41325163"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1172/jci.insight.199050"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "199050"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/02 13:10"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/01 18:51"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/01 12:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JCI insight",
+      "elocationid": "pii: e199050. doi: 10.1172/jci.insight.199050",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/25 00:00",
+      "sortfirstauthor": "Golodnikov II",
+      "vernaculartitle": ""
+    }
+  }
+}
