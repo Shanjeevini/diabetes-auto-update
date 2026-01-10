@@ -1,0 +1,566 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41314257",
+      "41308854",
+      "40925471",
+      "40889600"
+    ],
+    "41314257": {
+      "uid": "41314257",
+      "pubdate": "2026 Jan 10",
+      "epubdate": "2025 Nov 26",
+      "source": "J Control Release",
+      "authors": [
+        {
+          "name": "Jang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Priscilla L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee CW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee DY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lee DY",
+      "title": "Oral gene delivery platform based on glycol chitosan-PEG-lactoferrin conjugate.",
+      "sorttitle": "oral gene delivery platform based on glycol chitosan peg lactoferrin conjugate",
+      "volume": "389",
+      "issue": "",
+      "pages": "114463",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8607908",
+      "issn": "0168-3659",
+      "essn": "1873-4995",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41314257"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jconrel.2025.114463"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168-3659(25)01077-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/19 01:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/29 02:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/28 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of controlled release : official journal of the Controlled Release Society",
+      "elocationid": "doi: 10.1016/j.jconrel.2025.114463",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/10 00:00",
+      "sortfirstauthor": "Jang S",
+      "vernaculartitle": ""
+    },
+    "41308854": {
+      "uid": "41308854",
+      "pubdate": "2026 Jan 10",
+      "epubdate": "2025 Nov 25",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Zhou W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang AX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang Z",
+      "title": "Mechanism of triptolide in the treatment of gastric cancer with diabetes through JAK2/STAT3 pathway.",
+      "sorttitle": "mechanism of triptolide in the treatment of gastric cancer with diabetes through jak2 stat3 pathway",
+      "volume": "1010",
+      "issue": "",
+      "pages": "178404",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41308854"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2025.178404"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(25)01158-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/12 03:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/28 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/27 19:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2025.178404",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/10 00:00",
+      "sortfirstauthor": "Zhou W",
+      "vernaculartitle": ""
+    },
+    "40925471": {
+      "uid": "40925471",
+      "pubdate": "2026 Jan 10",
+      "epubdate": "2025 Sep 7",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Liu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ren X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dai C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dai C",
+      "title": "Integrated serum pharmacochemistry, network pharmacology, and experimental validation analyses reveal the active compounds and potential functional mechanism of Tangningtongluo tablets in treatment of type 2 diabetes mellitus in mice.",
+      "sorttitle": "integrated serum pharmacochemistry network pharmacology and experimental validation analyses reveal the active compounds and potential functional mechanism of tangningtongluo tablets in treatment of type 2 diabetes mellitus in mice",
+      "volume": "354",
+      "issue": "",
+      "pages": "120541",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40925471"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120541"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01233-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/22 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/11 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/10 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/09 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120541",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/10 00:00",
+      "sortfirstauthor": "Liu W",
+      "vernaculartitle": ""
+    },
+    "40889600": {
+      "uid": "40889600",
+      "pubdate": "2026 Jan 10",
+      "epubdate": "2025 Aug 30",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang W",
+      "title": "Pilose antler peptide enhances diabetic fracture healing by modulating the CREB-Smad2/3-Runx2 signaling axis.",
+      "sorttitle": "pilose antler peptide enhances diabetic fracture healing by modulating the creb smad2 3 runx2 signaling axis",
+      "volume": "354",
+      "issue": "",
+      "pages": "120514",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40889600"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120514"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01206-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/07/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/11 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/02 00:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/01 19:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120514",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/10 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    }
+  }
+}
