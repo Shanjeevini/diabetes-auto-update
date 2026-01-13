@@ -1,0 +1,234 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41512034",
+      "41370744"
+    ],
+    "41512034": {
+      "uid": "41512034",
+      "pubdate": "2026 Jan 13",
+      "epubdate": "2026 Jan 9",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": [
+        {
+          "name": "Chen C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yu W",
+      "title": "Hyperglycemia promotes SIRT3-mediated deacetylation of SARM1 to exacerbate diabetic peripheral neuropathy in mice.",
+      "sorttitle": "hyperglycemia promotes sirt3 mediated deacetylation of sarm1 to exacerbate diabetic peripheral neuropathy in mice",
+      "volume": "123",
+      "issue": "2",
+      "pages": "e2517110123",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7505876",
+      "issn": "0027-8424",
+      "essn": "1091-6490",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41512034"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2517110123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/09 18:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/09 18:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/09 13:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+      "elocationid": "doi: 10.1073/pnas.2517110123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/13 00:00",
+      "sortfirstauthor": "Chen C",
+      "vernaculartitle": ""
+    },
+    "41370744": {
+      "uid": "41370744",
+      "pubdate": "2026 Jan 13",
+      "epubdate": "2025 Dec 10",
+      "source": "Neurology",
+      "authors": [
+        {
+          "name": "Cheng CY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lo SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang CN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang YS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang YH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kornelius E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kornelius E",
+      "title": "Association Between GLP-1 Receptor Agonist Use and Epilepsy Risk in Type 2 Diabetes.",
+      "sorttitle": "association between glp 1 receptor agonist use and epilepsy risk in type 2 diabetes",
+      "volume": "106",
+      "issue": "1",
+      "pages": "e214509",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401060",
+      "issn": "0028-3878",
+      "essn": "1526-632X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41370744"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1212/WNL.0000000000214509"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 19:23"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 19:22"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 16:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurology",
+      "elocationid": "doi: 10.1212/WNL.0000000000214509",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/13 00:00",
+      "sortfirstauthor": "Cheng CY",
+      "vernaculartitle": ""
+    }
+  }
+}
