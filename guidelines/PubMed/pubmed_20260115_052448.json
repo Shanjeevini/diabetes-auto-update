@@ -1,0 +1,2255 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41511155",
+      "41482827",
+      "41480672",
+      "41467845",
+      "41317981",
+      "41308335",
+      "41297388",
+      "41274718",
+      "41192534",
+      "41124882",
+      "41092499",
+      "41072356",
+      "41033427",
+      "40992529",
+      "40925457",
+      "40854294",
+      "40850097",
+      "40839948"
+    ],
+    "41511155": {
+      "uid": "41511155",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Jiang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wan J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wan J",
+      "title": "3D-Cultured Mesenchymal Stem Cell-Derived Exosomes Embedded in a Hybrid Scaffold Enhance Diabetic Wound Healing by Promoting Angiogenesis.",
+      "sorttitle": "3d cultured mesenchymal stem cell derived exosomes embedded in a hybrid scaffold enhance diabetic wound healing by promoting angiogenesis",
+      "volume": "40",
+      "issue": "1",
+      "pages": "e71432",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41511155"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503039R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/14 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/09 13:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/09 13:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/09 09:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503039R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Jiang L",
+      "vernaculartitle": ""
+    },
+    "41482827": {
+      "uid": "41482827",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Pang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang Z",
+      "title": "ZBTB16 Improves Myelin Damage in Diabetic Peripheral Neuropathy by Inhibiting Schwann Cell Dedifferentiation.",
+      "sorttitle": "zbtb16 improves myelin damage in diabetic peripheral neuropathy by inhibiting schwann cell dedifferentiation",
+      "volume": "40",
+      "issue": "1",
+      "pages": "e71412",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41482827"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202502621RR"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/10 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/03 06:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/03 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/03 04:04"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202502621RR",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Pang B",
+      "vernaculartitle": ""
+    },
+    "41480672": {
+      "uid": "41480672",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Kadam L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahuna K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marshall NE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Myatt L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Myatt L",
+      "title": "Differential Activation of p53-Lamin A/C and p16-Rb-Mediated Senescence Pathways in Trophoblasts From Pregnancies Complicated by Type A2 Gestational Diabetes Mellitus.",
+      "sorttitle": "differential activation of p53 lamin a c and p16 rb mediated senescence pathways in trophoblasts from pregnancies complicated by type a2 gestational diabetes mellitus",
+      "volume": "40",
+      "issue": "1",
+      "pages": "e71406",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41480672"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503771RR"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/16 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/02 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/02 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/02 05:03"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "bioRxiv. 2025 Mar 06:2025.03.04.641461. doi: 10.1101/2025.03.04.641461.",
+          "reftype": "Update of",
+          "pmid": 40093078,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503771RR",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Kadam L",
+      "vernaculartitle": ""
+    },
+    "41467845": {
+      "uid": "41467845",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Fukutsu K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murata M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kikuchi K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noda K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ishida S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ishida S",
+      "title": "Acrolein Promotes Retinal Inflammation Through Macrophage Chemotaxis by Inducing CCL2 Production From M\u00fcller Cells.",
+      "sorttitle": "acrolein promotes retinal inflammation through macrophage chemotaxis by inducing ccl2 production from m ller cells",
+      "volume": "40",
+      "issue": "1",
+      "pages": "e71403",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41467845"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12752455"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12752455;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503569R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/05 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/09/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/30 13:09"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/30 13:08"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/30 10:12"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/30 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 49,
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503569R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Fukutsu K",
+      "vernaculartitle": ""
+    },
+    "41317981": {
+      "uid": "41317981",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Nov 27",
+      "source": "Life Sci",
+      "authors": [
+        {
+          "name": "Abo-Ali EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shetty DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khairnar R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dukhande VV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dukhande VV",
+      "title": "Ubiquitination of glucose and lipid metabolic proteins is altered in diabetic rat livers.",
+      "sorttitle": "ubiquitination of glucose and lipid metabolic proteins is altered in diabetic rat livers",
+      "volume": "385",
+      "issue": "",
+      "pages": "124120",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375521",
+      "issn": "0024-3205",
+      "essn": "1879-0631",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41317981"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.lfs.2025.124120"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0024-3205(25)00756-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/25 00:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/30 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/29 19:14"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Life sciences",
+      "elocationid": "doi: 10.1016/j.lfs.2025.124120",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Abo-Ali EM",
+      "vernaculartitle": ""
+    },
+    "41308335": {
+      "uid": "41308335",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Nov 25",
+      "source": "J Chromatogr B Analyt Technol Biomed Life Sci",
+      "authors": [
+        {
+          "name": "Jin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu XW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang YF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang XJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang DQ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tang DQ",
+      "title": "UPLC-MS/MS-based targeted analysis of human serum revealed that aberrant arachidonic acid metabolism may contribute to the pathogenesis of type 2 diabetes mellitus.",
+      "sorttitle": "uplc ms ms based targeted analysis of human serum revealed that aberrant arachidonic acid metabolism may contribute to the pathogenesis of type 2 diabetes mellitus",
+      "volume": "1269",
+      "issue": "",
+      "pages": "124871",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101139554",
+      "issn": "1570-0232",
+      "essn": "1873-376X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41308335"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jchromb.2025.124871"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1570-0232(25)00425-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/05 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/10 00:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/28 00:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/27 18:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+      "elocationid": "doi: 10.1016/j.jchromb.2025.124871",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Jin P",
+      "vernaculartitle": ""
+    },
+    "41297388": {
+      "uid": "41297388",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Nov 20",
+      "source": "Eur J Med Chem",
+      "authors": [
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cong H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yu B",
+      "title": "Synthetic \u03b1-glucosidase inhibitory peptides designed by molecular docking: In vitro screening and anti-hyperglycemic efficacy in diabetic mice.",
+      "sorttitle": "synthetic glucosidase inhibitory peptides designed by molecular docking in vitro screening and anti hyperglycemic efficacy in diabetic mice",
+      "volume": "302",
+      "issue": "Pt 3",
+      "pages": "118378",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0420510",
+      "issn": "0223-5234",
+      "essn": "1768-3254",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41297388"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejmech.2025.118378"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0223-5234(25)01143-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 01:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/27 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/26 18:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of medicinal chemistry",
+      "elocationid": "doi: 10.1016/j.ejmech.2025.118378",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Li Y",
+      "vernaculartitle": ""
+    },
+    "41274718": {
+      "uid": "41274718",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Oct 14",
+      "source": "Carbohydr Polym",
+      "authors": [
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang X",
+      "title": "Injectable glucose-responsive hydrogels with hemorrhage control and microenvironmental regulation for diabetic wound repair.",
+      "sorttitle": "injectable glucose responsive hydrogels with hemorrhage control and microenvironmental regulation for diabetic wound repair",
+      "volume": "372",
+      "issue": "",
+      "pages": "124533",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8307156",
+      "issn": "0144-8617",
+      "essn": "1879-1344",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41274718"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.carbpol.2025.124533"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0144-8617(25)01317-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/23 00:59"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/23 00:58"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/22 20:56"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Carbohydrate polymers",
+      "elocationid": "doi: 10.1016/j.carbpol.2025.124533",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Liu Z",
+      "vernaculartitle": ""
+    },
+    "41192534": {
+      "uid": "41192534",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Nov 3",
+      "source": "Clin Chim Acta",
+      "authors": [
+        {
+          "name": "Chen F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yeung PS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang TC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chung TC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yen HW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo RY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Luo RY",
+      "title": "A fiber optic particle plasmon resonance assay for the detection of neurofilament light as a potential early biomarker for diabetic neuropathy.",
+      "sorttitle": "fiber optic particle plasmon resonance assay for the detection of neurofilament light as a potential early biomarker for diabetic neuropathy",
+      "volume": "579",
+      "issue": "",
+      "pages": "120697",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1302422",
+      "issn": "0009-8981",
+      "essn": "1873-3492",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41192534"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cca.2025.120697"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-8981(25)00576-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/12/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 06:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/06 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/05 19:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+      "elocationid": "doi: 10.1016/j.cca.2025.120697",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Chen F",
+      "vernaculartitle": ""
+    },
+    "41124882": {
+      "uid": "41124882",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Oct 13",
+      "source": "Eur J Med Chem",
+      "authors": [
+        {
+          "name": "Gupta O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pradhan T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chawla G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chawla G",
+      "title": "Structural and functional insights into PPAR-\u03b3: Review of its potential and drug design innovations for the development of antidiabetic agents.",
+      "sorttitle": "structural and functional insights into ppar review of its potential and drug design innovations for the development of antidiabetic agents",
+      "volume": "302",
+      "issue": "Pt 1",
+      "pages": "118264",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0420510",
+      "issn": "0223-5234",
+      "essn": "1768-3254",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41124882"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejmech.2025.118264"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0223-5234(25)01029-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/04 02:11"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/23 00:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/22 18:06"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of medicinal chemistry",
+      "elocationid": "doi: 10.1016/j.ejmech.2025.118264",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Gupta O",
+      "vernaculartitle": ""
+    },
+    "41092499": {
+      "uid": "41092499",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Oct 6",
+      "source": "J Pharm Biomed Anal",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Di X",
+      "title": "Liuwei Dihuang Formula ameliorates glycolipid metabolism in type 2 diabetic rats through an integrated analysis of gut microbiota and bile acids.",
+      "sorttitle": "liuwei dihuang formula ameliorates glycolipid metabolism in type 2 diabetic rats through an integrated analysis of gut microbiota and bile acids",
+      "volume": "268",
+      "issue": "",
+      "pages": "117181",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309336",
+      "issn": "0731-7085",
+      "essn": "1873-264X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41092499"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpba.2025.117181"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0731-7085(25)00522-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/21 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/15 18:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/15 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pharmaceutical and biomedical analysis",
+      "elocationid": "doi: 10.1016/j.jpba.2025.117181",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    },
+    "41072356": {
+      "uid": "41072356",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Sep 29",
+      "source": "J Pharm Biomed Anal",
+      "authors": [
+        {
+          "name": "Cheng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Liu Z",
+      "title": "Gut microbiome and serum metabolome changes in gestational diabetes mellitus after diet-exercise intervention.",
+      "sorttitle": "gut microbiome and serum metabolome changes in gestational diabetes mellitus after diet exercise intervention",
+      "volume": "268",
+      "issue": "",
+      "pages": "117172",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309336",
+      "issn": "0731-7085",
+      "essn": "1873-264X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41072356"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpba.2025.117172"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0731-7085(25)00513-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/24 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/21 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/11 00:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/10 18:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pharmaceutical and biomedical analysis",
+      "elocationid": "doi: 10.1016/j.jpba.2025.117172",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Cheng M",
+      "vernaculartitle": ""
+    },
+    "41033427": {
+      "uid": "41033427",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Sep 29",
+      "source": "Clin Chim Acta",
+      "authors": [
+        {
+          "name": "Sherfan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Del Olmo G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ah-Loo A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sullivan DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Caterson ID",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Caterson ID",
+      "title": "Glycated albumin is a useful marker for early screening of undiagnosed prediabetes and diabetes in patients presenting to a metropolitan emergency department.",
+      "sorttitle": "glycated albumin is a useful marker for early screening of undiagnosed prediabetes and diabetes in patients presenting to a metropolitan emergency department",
+      "volume": "579",
+      "issue": "",
+      "pages": "120624",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1302422",
+      "issn": "0009-8981",
+      "essn": "1873-3492",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41033427"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cca.2025.120624"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-8981(25)00503-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 06:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/02 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/01 19:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+      "elocationid": "doi: 10.1016/j.cca.2025.120624",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Sherfan J",
+      "vernaculartitle": ""
+    },
+    "40992529": {
+      "uid": "40992529",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Sep 22",
+      "source": "Am J Cardiol",
+      "authors": [
+        {
+          "name": "Al-Holy A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Comanici M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Das A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marczin N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhudia SK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raja SG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Raja SG",
+      "title": "Single Arterial Versus Multiple Arterial Grafting in 3,164 Diabetic Patients Undergoing Coronary Artery Bypass Surgery: A Propensity-Matched Analysis.",
+      "sorttitle": "single arterial versus multiple arterial grafting in 3 164 diabetic patients undergoing coronary artery bypass surgery a propensity matched analysis",
+      "volume": "259",
+      "issue": "",
+      "pages": "53-62",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0207277",
+      "issn": "0002-9149",
+      "essn": "1879-1913",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40992529"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.amjcard.2025.09.014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0002-9149(25)00572-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/29 00:24"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/25 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/24 19:36"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of cardiology",
+      "elocationid": "doi: 10.1016/j.amjcard.2025.09.014",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Al-Holy A",
+      "vernaculartitle": ""
+    },
+    "40925457": {
+      "uid": "40925457",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Sep 7",
+      "source": "Clin Chim Acta",
+      "authors": [
+        {
+          "name": "Kalani A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chaturvedi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chaturvedi P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chaturvedi P",
+      "title": "Wilms' tumor 1 in urinary exosomes as a non-invasive biomarker for diabetic nephropathy.",
+      "sorttitle": "wilms tumor 1 in urinary exosomes as a non invasive biomarker for diabetic nephropathy",
+      "volume": "579",
+      "issue": "",
+      "pages": "120599",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1302422",
+      "issn": "0009-8981",
+      "essn": "1873-3492",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40925457"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cca.2025.120599"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-8981(25)00478-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/22 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/10 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/09 19:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+      "elocationid": "doi: 10.1016/j.cca.2025.120599",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Kalani A",
+      "vernaculartitle": ""
+    },
+    "40854294": {
+      "uid": "40854294",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Aug 13",
+      "source": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "authors": [
+        {
+          "name": "Varli M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uppuganti S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nyman JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kayabasi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Unal M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Unal M",
+      "title": "Predicting fracture toughness of human cortical bone from donors with and without type 2 diabetes using Raman spectroscopy and machine learning.",
+      "sorttitle": "predicting fracture toughness of human cortical bone from donors with and without type 2 diabetes using raman spectroscopy and machine learning",
+      "volume": "345",
+      "issue": "",
+      "pages": "126823",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602533",
+      "issn": "1386-1425",
+      "essn": "1873-3557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40854294"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2107704"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12797873"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12797873;manuscript-id: NIHMS2107704;embargo-date: 2027/01/15;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.saa.2025.126823"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1386-1425(25)01130-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/07/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/12 00:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2027/01/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/09/06 00:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/08/26 00:45"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/08/25 18:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 61,
+      "fulljournalname": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "elocationid": "doi: 10.1016/j.saa.2025.126823",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Varli M",
+      "vernaculartitle": ""
+    },
+    "40850097": {
+      "uid": "40850097",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Aug 21",
+      "source": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "authors": [
+        {
+          "name": "Wen DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang K",
+      "title": "An activatable Hemicyanine-based fluorescent probe for specific detection and imaging of aminopeptidase N in diabetic wound healing.",
+      "sorttitle": "activatable hemicyanine based fluorescent probe for specific detection and imaging of aminopeptidase n in diabetic wound healing",
+      "volume": "345",
+      "issue": "",
+      "pages": "126848",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602533",
+      "issn": "1386-1425",
+      "essn": "1873-3557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40850097"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.saa.2025.126848"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1386-1425(25)01155-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/09/06 00:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/08/25 00:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/08/24 18:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "elocationid": "doi: 10.1016/j.saa.2025.126848",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Wen DK",
+      "vernaculartitle": ""
+    },
+    "40839948": {
+      "uid": "40839948",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Aug 15",
+      "source": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "authors": [
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lin H",
+      "title": "FTIR spectroscopy imaging coupled with machine learning reveals biochemical changes in the brains of diabetic mice.",
+      "sorttitle": "ftir spectroscopy imaging coupled with machine learning reveals biochemical changes in the brains of diabetic mice",
+      "volume": "345",
+      "issue": "",
+      "pages": "126835",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602533",
+      "issn": "1386-1425",
+      "essn": "1873-3557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40839948"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.saa.2025.126835"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1386-1425(25)01142-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/07/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/09/06 00:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/08/21 20:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/08/21 18:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "elocationid": "doi: 10.1016/j.saa.2025.126835",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "Li X",
+      "vernaculartitle": ""
+    }
+  }
+}
