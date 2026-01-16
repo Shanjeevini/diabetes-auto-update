@@ -1,0 +1,183 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41538415"
+    ],
+    "41538415": {
+      "uid": "41538415",
+      "pubdate": "2026 Jan 16",
+      "epubdate": "2026 Jan 15",
+      "source": "Circ Res",
+      "authors": [
+        {
+          "name": "Abel ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahima RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Anderson EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berg DD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berger JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Das S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feinberg MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fisher EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garshick MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giannarelli C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goldberg IJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamburg NM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim SF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moura FA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ndumele CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Newman JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sabatine MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Selvin E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shah R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shah R",
+      "title": "A Road Map to Understanding Cardiovascular Disease in Diabetes: From the AHA Strategically Focused Research Network in Cardiometabolic Health and Type 2 Diabetes.",
+      "sorttitle": "road map to understanding cardiovascular disease in diabetes from the aha strategically focused research network in cardiometabolic health and type 2 diabetes",
+      "volume": "138",
+      "issue": "2",
+      "pages": "e325798",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0047103",
+      "issn": "0009-7330",
+      "essn": "1524-4571",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41538415"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCRESAHA.125.325798"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/15 18:48"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/15 18:47"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/15 14:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation research",
+      "elocationid": "doi: 10.1161/CIRCRESAHA.125.325798",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/16 00:00",
+      "sortfirstauthor": "Abel ED",
+      "vernaculartitle": ""
+    }
+  }
+}
