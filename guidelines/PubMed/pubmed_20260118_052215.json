@@ -1,0 +1,145 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41418350"
+    ],
+    "41418350": {
+      "uid": "41418350",
+      "pubdate": "2026 Jan 18",
+      "epubdate": "2025 Dec 17",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Huhemuren",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haoriwa",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sirimen",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bai C",
+      "title": "Multi-organ protective effects of ursodeoxycholic acid in a rat model of type 2 diabetes mellitus.",
+      "sorttitle": "multi organ protective effects of ursodeoxycholic acid in a rat model of type 2 diabetes mellitus",
+      "volume": "796",
+      "issue": "",
+      "pages": "153150",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41418350"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2025.153150"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(25)01866-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/06 19:17"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/19 18:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/19 18:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2025.153150",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/18 00:00",
+      "sortfirstauthor": "Huhemuren",
+      "vernaculartitle": ""
+    }
+  }
+}
