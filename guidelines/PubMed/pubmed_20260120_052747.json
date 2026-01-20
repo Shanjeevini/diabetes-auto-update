@@ -1,0 +1,582 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41540694",
+      "41540690",
+      "41421410",
+      "41407273"
+    ],
+    "41540694": {
+      "uid": "41540694",
+      "pubdate": "2026 Jan 20",
+      "epubdate": "",
+      "source": "Nan Fang Yi Ke Da Xue Xue Bao",
+      "authors": [
+        {
+          "name": "Li Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jin Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jia Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jia Y",
+      "title": "[Jiangzhi Quban Recipe improves type 2 diabetes mellitus complicated with hyperlipidemia by multi-target regulation of the inflammation-metabolism network: network pharmacology analysis and clinical validation].",
+      "sorttitle": "jiangzhi quban recipe improves type 2 diabetes mellitus complicated with hyperlipidemia by multi target regulation of the inflammation metabolism network network pharmacology analysis and clinical validation",
+      "volume": "46",
+      "issue": "1",
+      "pages": "83-93",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "101266132",
+      "issn": "1673-4254",
+      "essn": "2663-0842",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41540694"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12809034"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12809034;embargo-date: 2026/01/20;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12122/j.issn.1673-4254.2026.01.09"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1673-4254(2026)01-0083-11"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/16 17:22"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/16 17:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/16 01:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 30,
+      "fulljournalname": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "elocationid": "doi: 10.12122/j.issn.1673-4254.2026.01.09",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/20 00:00",
+      "sortfirstauthor": "Li Z",
+      "vernaculartitle": ""
+    },
+    "41540690": {
+      "uid": "41540690",
+      "pubdate": "2026 Jan 20",
+      "epubdate": "",
+      "source": "Nan Fang Yi Ke Da Xue Xue Bao",
+      "authors": [
+        {
+          "name": "Lin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hu H",
+      "title": "[Shihu Mixture alleviates diabetic cardiomyopathy in rats by Sirt3-mediated upregulation of myocardial mitochondrial mitophagy pathway].",
+      "sorttitle": "shihu mixture alleviates diabetic cardiomyopathy in rats by sirt3 mediated upregulation of myocardial mitochondrial mitophagy pathway",
+      "volume": "46",
+      "issue": "1",
+      "pages": "47-54",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "101266132",
+      "issn": "1673-4254",
+      "essn": "2663-0842",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41540690"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12809037"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12809037;embargo-date: 2026/01/20;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12122/j.issn.1673-4254.2026.01.05"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1673-4254(2026)01-0047-08"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/16 17:22"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/16 17:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/16 01:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "elocationid": "doi: 10.12122/j.issn.1673-4254.2026.01.05",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/20 00:00",
+      "sortfirstauthor": "Lin X",
+      "vernaculartitle": ""
+    },
+    "41421410": {
+      "uid": "41421410",
+      "pubdate": "2026 Jan 20",
+      "epubdate": "2025 Dec 18",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Xu YX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang XY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xue SQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gu JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou XF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng YQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo HY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pu LJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pu LJ",
+      "title": "Therapeutic potential of oral edaravone in diabetic endothelial dysfunction through NF-\u03baB and p38 pathway inhibition.",
+      "sorttitle": "therapeutic potential of oral edaravone in diabetic endothelial dysfunction through nf b and p38 pathway inhibition",
+      "volume": "1012",
+      "issue": "",
+      "pages": "178500",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41421410"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2025.178500"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(25)01254-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/02 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/21 01:48"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/20 19:31"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2025.178500",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/20 00:00",
+      "sortfirstauthor": "Xu YX",
+      "vernaculartitle": ""
+    },
+    "41407273": {
+      "uid": "41407273",
+      "pubdate": "2026 Jan 20",
+      "epubdate": "2025 Dec 15",
+      "source": "Int J Pharm",
+      "authors": [
+        {
+          "name": "Poudel S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cui Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meng T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaffash E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halquist MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma JX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xu Q",
+      "title": "Long-acting fenofibrate-loaded microparticles for treating retinal disorders.",
+      "sorttitle": "long acting fenofibrate loaded microparticles for treating retinal disorders",
+      "volume": "689",
+      "issue": "",
+      "pages": "126503",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7804127",
+      "issn": "0378-5173",
+      "essn": "1873-3476",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41407273"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2132181"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12794465"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12794465;manuscript-id: NIHMS2132181;embargo-date: 2026/12/15;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijpharm.2025.126503"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-5173(25)01340-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/22 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/15 00:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/12/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/09 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/18 01:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/17 19:36"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 79,
+      "fulljournalname": "International journal of pharmaceutics",
+      "elocationid": "doi: 10.1016/j.ijpharm.2025.126503",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/20 00:00",
+      "sortfirstauthor": "Poudel S",
+      "vernaculartitle": ""
+    }
+  }
+}
