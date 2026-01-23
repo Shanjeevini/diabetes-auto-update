@@ -1,0 +1,1020 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41331952",
+      "41275517",
+      "41275391",
+      "41251690",
+      "41250840",
+      "41204644",
+      "40990967",
+      "40967227"
+    ],
+    "41331952": {
+      "uid": "41331952",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Dec 3",
+      "source": "J Perinat Med",
+      "authors": [
+        {
+          "name": "Machado Junior LC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kikugawa E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobsen PC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brito JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mateus Junior J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carvalho HB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Carvalho HB",
+      "title": "Should we conduct a trial of labor in women with a macrosomic fetus?",
+      "sorttitle": "should we conduct a trial of labor in women with a macrosomic fetus",
+      "volume": "54",
+      "issue": "1",
+      "pages": "208-215",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0361031",
+      "issn": "0300-5577",
+      "essn": "1619-3997",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41331952"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpm-2025-0359"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpm-2025-0359"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/13 13:15"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/03 07:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/03 00:31"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of perinatal medicine",
+      "elocationid": "doi: 10.1515/jpm-2025-0359",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/03 00:00",
+      "sortfirstauthor": "Machado Junior LC",
+      "vernaculartitle": ""
+    },
+    "41275517": {
+      "uid": "41275517",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Nov 25",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Wu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olkowski A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blevins A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thivierge M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patel D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Magge SN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolf RM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wolf RM",
+      "title": "Implementation and feasibility of a nutrition assessment for recently diagnosed youth with type 2 diabetes.",
+      "sorttitle": "implementation and feasibility of a nutrition assessment for recently diagnosed youth with type 2 diabetes",
+      "volume": "39",
+      "issue": "1",
+      "pages": "76-80",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41275517"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0540"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0540"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/08 07:12"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/23 18:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/23 15:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0540",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/25 00:00",
+      "sortfirstauthor": "Wu C",
+      "vernaculartitle": ""
+    },
+    "41275391": {
+      "uid": "41275391",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Nov 24",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Hassan SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Musa SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Franco E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Myers R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Van Heugten R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Babiker OO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ibrahim AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MohamadSalih GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmed A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shatta JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Hassan OA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patel KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdullah MA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abdullah MA",
+      "title": "Characterization of monogenic diabetes among Sudanese children: a multi-center experience from a population with high consanguinity.",
+      "sorttitle": "characterization of monogenic diabetes among sudanese children a multi center experience from a population with high consanguinity",
+      "volume": "39",
+      "issue": "1",
+      "pages": "65-75",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41275391"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12780942"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12780942;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0316"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0316"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/08 07:13"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/23 14:04"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/23 09:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 54,
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0316",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/24 00:00",
+      "sortfirstauthor": "Hassan SS",
+      "vernaculartitle": ""
+    },
+    "41251690": {
+      "uid": "41251690",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Nov 19",
+      "source": "J Perinat Med",
+      "authors": [
+        {
+          "name": "Steblovnik L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ko\u0161ir Poga\u010dnik R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sladi\u010d M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sladi\u010d M",
+      "title": "Ten years of experience with screening for diabetes in pregnancy according to IADPSG criteria in Slovenia.",
+      "sorttitle": "ten years of experience with screening for diabetes in pregnancy according to iadpsg criteria in slovenia",
+      "volume": "54",
+      "issue": "1",
+      "pages": "123-128",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0361031",
+      "issn": "0300-5577",
+      "essn": "1619-3997",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41251690"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpm-2025-0357"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpm-2025-0357"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/13 13:15"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/18 12:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/18 11:04"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of perinatal medicine",
+      "elocationid": "doi: 10.1515/jpm-2025-0357",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/19 00:00",
+      "sortfirstauthor": "Steblovnik L",
+      "vernaculartitle": ""
+    },
+    "41250840": {
+      "uid": "41250840",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Nov 19",
+      "source": "J Perinat Med",
+      "authors": [
+        {
+          "name": "Farsetti D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nardini S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maffi L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gagliardi G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frantellizzi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pometti F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vasapollo B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Novelli GP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Valensise H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Valensise H",
+      "title": "Umbilical venous flow and maternal hemodynamics as predictors of impaired fetal growth in gestational diabetes: a prospective study.",
+      "sorttitle": "umbilical venous flow and maternal hemodynamics as predictors of impaired fetal growth in gestational diabetes a prospective study",
+      "volume": "54",
+      "issue": "1",
+      "pages": "51-60",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0361031",
+      "issn": "0300-5577",
+      "essn": "1619-3997",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41250840"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpm-2025-0353"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpm-2025-0353"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/13 13:15"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/18 06:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/18 04:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of perinatal medicine",
+      "elocationid": "doi: 10.1515/jpm-2025-0353",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/19 00:00",
+      "sortfirstauthor": "Farsetti D",
+      "vernaculartitle": ""
+    },
+    "41204644": {
+      "uid": "41204644",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Nov 10",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Tejeji I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeier T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smith JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang NT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chao LC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chao LC",
+      "title": "Exploratory real-world experience with GLP-1 receptor agonists vs. metformin in youth with new-onset type 2 diabetes: a single-center retrospective study.",
+      "sorttitle": "exploratory real world experience with glp 1 receptor agonists vs metformin in youth with new onset type 2 diabetes a single center retrospective study",
+      "volume": "39",
+      "issue": "1",
+      "pages": "56-64",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41204644"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12780941"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12780941;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0493"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0493"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/08 17:51"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/08 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/08 01:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0493",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/10 00:00",
+      "sortfirstauthor": "Tejeji I",
+      "vernaculartitle": ""
+    },
+    "40990967": {
+      "uid": "40990967",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Sep 25",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Gaur BK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Varshney C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rawat A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jain S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jain S",
+      "title": "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene.",
+      "sorttitle": "wolcott rallison syndrome due to a novel homozygous missense variation p gly602val in the exon 11 of eif2ak3 gene",
+      "volume": "39",
+      "issue": "1",
+      "pages": "102-105",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40990967"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0216"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0216"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/08 07:13"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/24 13:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/24 11:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0216",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/09/25 00:00",
+      "sortfirstauthor": "Gaur BK",
+      "vernaculartitle": ""
+    },
+    "40967227": {
+      "uid": "40967227",
+      "pubdate": "2026 Jan 23",
+      "epubdate": "2025 Sep 16",
+      "source": "J Perinat Med",
+      "authors": [
+        {
+          "name": "Ko\u0161ir Poga\u010dnik R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krajec M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Batkoska M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trojner Bregar A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Trojner Bregar A",
+      "title": "Gestational diabetes and fetal macrosomia: a dissenting opinion.",
+      "sorttitle": "gestational diabetes and fetal macrosomia a dissenting opinion",
+      "volume": "54",
+      "issue": "1",
+      "pages": "129-138",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0361031",
+      "issn": "0300-5577",
+      "essn": "1619-3997",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40967227"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpm-2025-0247"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpm-2025-0247"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/13 13:16"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/19 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/18 18:42"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of perinatal medicine",
+      "elocationid": "doi: 10.1515/jpm-2025-0247",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/09/16 00:00",
+      "sortfirstauthor": "Ko\u0161ir Poga\u010dnik R",
+      "vernaculartitle": ""
+    }
+  }
+}
