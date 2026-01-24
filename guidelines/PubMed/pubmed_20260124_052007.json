@@ -1,0 +1,98 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41529856"
+    ],
+    "41529856": {
+      "uid": "41529856",
+      "pubdate": "2026 Jan 24",
+      "epubdate": "",
+      "source": "Zhonghua Xin Xue Guan Bing Za Zhi",
+      "authors": [
+        {
+          "name": "Tang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao SH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhao SH",
+      "title": "[Research progress of multimodality imaging to evaluate cardiac damage in diabetic cardiomyopathy].",
+      "sorttitle": "research progress of multimodality imaging to evaluate cardiac damage in diabetic cardiomyopathy",
+      "volume": "54",
+      "issue": "1",
+      "pages": "91-95",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "7910682",
+      "issn": "0253-3758",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41529856"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3760/cma.j.cn112148-20251023-00749"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/14 00:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/14 00:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/13 20:15"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Zhonghua xin xue guan bing za zhi",
+      "elocationid": "doi: 10.3760/cma.j.cn112148-20251023-00749",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/24 00:00",
+      "sortfirstauthor": "Tang Y",
+      "vernaculartitle": ""
+    }
+  }
+}
