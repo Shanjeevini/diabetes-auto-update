@@ -1,0 +1,233 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41461121",
+      "41435748"
+    ],
+    "41461121": {
+      "uid": "41461121",
+      "pubdate": "2026 Jan 25",
+      "epubdate": "2025 Dec 24",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Thakur MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tupe RS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tupe RS",
+      "title": "l-Arginine in diabetic cardiomyopathy: Mechanistic insights into RAGE-NF-\u03baB-SREBP1 signaling.",
+      "sorttitle": "l arginine in diabetic cardiomyopathy mechanistic insights into rage nf b srebp1 signaling",
+      "volume": "797",
+      "issue": "",
+      "pages": "153212",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41461121"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2025.153212"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(25)01928-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/09 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/29 19:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/29 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2025.153212",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/25 00:00",
+      "sortfirstauthor": "Thakur MR",
+      "vernaculartitle": ""
+    },
+    "41435748": {
+      "uid": "41435748",
+      "pubdate": "2026 Jan 25",
+      "epubdate": "2025 Dec 19",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Pan T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sui Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Su Y",
+      "title": "Tanshinone IIA accelerates diabetic wound healing via suppression of macrophage NLRP3 inflammasome activity.",
+      "sorttitle": "tanshinone iia accelerates diabetic wound healing via suppression of macrophage nlrp3 inflammasome activity",
+      "volume": "797",
+      "issue": "",
+      "pages": "153171",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41435748"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2025.153171"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(25)01887-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/01 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/09 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/24 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/23 18:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2025.153171",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/25 00:00",
+      "sortfirstauthor": "Pan T",
+      "vernaculartitle": ""
+    }
+  }
+}
