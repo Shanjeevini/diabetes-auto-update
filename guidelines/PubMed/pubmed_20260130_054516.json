@@ -1,0 +1,1355 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41604487",
+      "41391399",
+      "41276244",
+      "41133734",
+      "41093118",
+      "41083062",
+      "41069209",
+      "41043667",
+      "41038331",
+      "40957544"
+    ],
+    "41604487": {
+      "uid": "41604487",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2026 Jan 28",
+      "source": "Sci Adv",
+      "authors": [
+        {
+          "name": "King JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roy J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Urie RR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bealer E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crumley K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rad L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soleimanpour SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shea LD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shea LD",
+      "title": "Longitudinal monitoring of type 1 diabetes progression to disease onset.",
+      "sorttitle": "longitudinal monitoring of type 1 diabetes progression to disease onset",
+      "volume": "12",
+      "issue": "5",
+      "pages": "eadw8946",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101653440",
+      "issn": "",
+      "essn": "2375-2548",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41604487"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/sciadv.adw8946"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12851030"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12851030;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/28 19:22"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/28 19:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/28 14:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Science advances",
+      "elocationid": "doi: 10.1126/sciadv.adw8946",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "King JL",
+      "vernaculartitle": ""
+    },
+    "41391399": {
+      "uid": "41391399",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Dec 9",
+      "source": "Food Chem",
+      "authors": [
+        {
+          "name": "Zhao X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wan P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pan J",
+      "title": "Anti-diabetic properties of yellowfin tuna protein hydrolysates and identification and screening of novel anti-diabetic peptides against \u03b1-amylase and DPP-IV.",
+      "sorttitle": "anti diabetic properties of yellowfin tuna protein hydrolysates and identification and screening of novel anti diabetic peptides against amylase and dpp iv",
+      "volume": "500",
+      "issue": "",
+      "pages": "147497",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7702639",
+      "issn": "0308-8146",
+      "essn": "1873-7072",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41391399"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.foodchem.2025.147497"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0308-8146(25)04749-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/31 07:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/15 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/14 18:21"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Food chemistry",
+      "elocationid": "doi: 10.1016/j.foodchem.2025.147497",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Zhao X",
+      "vernaculartitle": ""
+    },
+    "41276244": {
+      "uid": "41276244",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Nov 21",
+      "source": "Clin Chim Acta",
+      "authors": [
+        {
+          "name": "Chen Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Guo W",
+      "title": "Continuous glucose monitoring in high-risk individuals.",
+      "sorttitle": "continuous glucose monitoring in high risk individuals",
+      "volume": "580",
+      "issue": "",
+      "pages": "120733",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1302422",
+      "issn": "0009-8981",
+      "essn": "1873-3492",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41276244"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cca.2025.120733"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-8981(25)00612-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/10 01:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/24 00:49"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/23 19:17"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+      "elocationid": "doi: 10.1016/j.cca.2025.120733",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Chen Z",
+      "vernaculartitle": ""
+    },
+    "41133734": {
+      "uid": "41133734",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Oct 24",
+      "source": "J Sci Food Agric",
+      "authors": [
+        {
+          "name": "Moreno-Chamba B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mart\u00ed N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "C\u00e1rdenas A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fern\u00e1ndez-Pach\u00f3n MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Escudero-L\u00f3pez B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mart\u00edn F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salazar-Bermeo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Valero M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saura D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mart\u00ednez-Madrid MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bern\u00e1 G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bern\u00e1 G",
+      "title": "Persimmon carotenoid extract rich in \u03b2-cryptoxanthin improves glucose homeostasis and reduces liver damage in high-fat-diet-induced type 2 diabetic and metabolic dysfunction-associated steatotic liver disease mice.",
+      "sorttitle": "persimmon carotenoid extract rich in cryptoxanthin improves glucose homeostasis and reduces liver damage in high fat diet induced type 2 diabetic and metabolic dysfunction associated steatotic liver disease mice",
+      "volume": "106",
+      "issue": "2",
+      "pages": "1299-1313",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376334",
+      "issn": "0022-5142",
+      "essn": "1097-0010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41133734"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12701299"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12701299;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jsfa.70276"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/21 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/05/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/13 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/24 12:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/24 06:42"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/13 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 73,
+      "fulljournalname": "Journal of the science of food and agriculture",
+      "elocationid": "doi: 10.1002/jsfa.70276",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Moreno-Chamba B",
+      "vernaculartitle": ""
+    },
+    "41093118": {
+      "uid": "41093118",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Oct 13",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Liu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhuang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yue H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dai Y",
+      "title": "Amelioration of diabetic myopathy by APMCG-1: A mountain-cultivated ginseng-derived glycopeptide evaluated in zebrafish and mouse models.",
+      "sorttitle": "amelioration of diabetic myopathy by apmcg 1 a mountain cultivated ginseng derived glycopeptide evaluated in zebrafish and mouse models",
+      "volume": "355",
+      "issue": "Pt B",
+      "pages": "120747",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41093118"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120747"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01439-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/28 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/16 05:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/15 19:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120747",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Liu F",
+      "vernaculartitle": ""
+    },
+    "41083062": {
+      "uid": "41083062",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Oct 11",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Chen H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xia C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang Y",
+      "title": "Mechanism exploration of QingReXiaoZheng Decoction on renoprotection in diabetic kidney disease: Integrated network pharmacology, molecular docking and experimental validation.",
+      "sorttitle": "mechanism exploration of qingrexiaozheng decoction on renoprotection in diabetic kidney disease integrated network pharmacology molecular docking and experimental validation",
+      "volume": "355",
+      "issue": "Pt B",
+      "pages": "120734",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41083062"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120734"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01426-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/28 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/14 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/13 19:28"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120734",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Chen H",
+      "vernaculartitle": ""
+    },
+    "41069209": {
+      "uid": "41069209",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Oct 10",
+      "source": "J Sci Food Agric",
+      "authors": [
+        {
+          "name": "Li P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ran B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li W",
+      "title": "Functional food potential of Anoectochilus roxburghii aqueous extract: UPLC-MS profiling and in vivo efficacy in type 2 diabetic mice.",
+      "sorttitle": "functional food potential of anoectochilus roxburghii aqueous extract uplc ms profiling and in vivo efficacy in type 2 diabetic mice",
+      "volume": "106",
+      "issue": "2",
+      "pages": "961-974",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376334",
+      "issn": "0022-5142",
+      "essn": "1097-0010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41069209"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jsfa.70228"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/05 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/13 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/10 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/10 03:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the science of food and agriculture",
+      "elocationid": "doi: 10.1002/jsfa.70228",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Li P",
+      "vernaculartitle": ""
+    },
+    "41043667": {
+      "uid": "41043667",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Oct 6",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Ma X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wei Z",
+      "title": "The healing power of natural gifts: How the natural herbaceous plants targeting mitophagy can reverse diabetic complications.",
+      "sorttitle": "healing power of natural gifts how the natural herbaceous plants targeting mitophagy can reverse diabetic complications",
+      "volume": "355",
+      "issue": "Pt B",
+      "pages": "120676",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41043667"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120676"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01368-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/28 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/04 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/03 19:36"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120676",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Ma X",
+      "vernaculartitle": ""
+    },
+    "41038331": {
+      "uid": "41038331",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Sep 30",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhuang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Liu S",
+      "title": "Icariin attenuates diabetic cardiomyopathy by activating Nrf2-dependent antioxidant and mitochondrial pathways: Integrative evidence from network pharmacology and experimental validation.",
+      "sorttitle": "icariin attenuates diabetic cardiomyopathy by activating nrf2 dependent antioxidant and mitochondrial pathways integrative evidence from network pharmacology and experimental validation",
+      "volume": "355",
+      "issue": "Pt B",
+      "pages": "120667",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41038331"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120667"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01359-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/28 00:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/03 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/02 19:26"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120667",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Zhang Z",
+      "vernaculartitle": ""
+    },
+    "40957544": {
+      "uid": "40957544",
+      "pubdate": "2026 Jan 30",
+      "epubdate": "2025 Sep 14",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang PY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang SQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan XF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun SQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu JX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su ZH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zheng H",
+      "title": "Mechanistic insights into myricetin-regulated autophagy via the PI3K/Akt and PINK1/Parkin pathway in diabetic kidney disease treatment.",
+      "sorttitle": "mechanistic insights into myricetin regulated autophagy via the pi3k akt and pink1 parkin pathway in diabetic kidney disease treatment",
+      "volume": "355",
+      "issue": "Pt A",
+      "pages": "120613",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40957544"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120613"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01305-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/01 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/17 00:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/16 19:11"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Ethnopharmacol. 2026 Mar 1;358:120865. doi: 10.1016/j.jep.2025.120865.",
+          "reftype": "Erratum in",
+          "pmid": 41238495,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120613",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/30 00:00",
+      "sortfirstauthor": "Liu X",
+      "vernaculartitle": ""
+    }
+  }
+}
