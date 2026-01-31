@@ -1,0 +1,1075 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41603587",
+      "41578736",
+      "41568997",
+      "41556069",
+      "41546551",
+      "41546529",
+      "41527935",
+      "41524203"
+    ],
+    "41603587": {
+      "uid": "41603587",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Wang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weng C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zeng J",
+      "title": "GMSCs-Derived Exosome ZHX2 Improves Diabetes Nephropathy by Blocking AGEs/RAGE/NLRP3 Pathway to Inhibit Podocyte Pyroptosis and Inflammatory Response.",
+      "sorttitle": "gmscs derived exosome zhx2 improves diabetes nephropathy by blocking ages rage nlrp3 pathway to inhibit podocyte pyroptosis and inflammatory response",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71453",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41603587"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503753R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/28 19:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/28 13:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/28 08:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503753R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Wang S",
+      "vernaculartitle": ""
+    },
+    "41578736": {
+      "uid": "41578736",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Pereira SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lazzarin MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dagli MLZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "T\u00e1vora BCLF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mauro EFL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Santoro ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vessoni SCS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gon\u00e7alves LRC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sotoyama MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oliveira RDN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mattaraia VGM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Curi R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Curi R",
+      "title": "Lymphoid Organs Remodeling in Non-Obese Diabetic Goto-Kakizaki Rats Immunized With SARS-CoV-2 Antigens.",
+      "sorttitle": "lymphoid organs remodeling in non obese diabetic goto kakizaki rats immunized with sars cov 2 antigens",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71493",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41578736"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12831124"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12831124;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503631R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/24 06:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/24 06:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/24 04:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 46,
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503631R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Pereira SA",
+      "vernaculartitle": ""
+    },
+    "41568997": {
+      "uid": "41568997",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Dai L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang M",
+      "title": "A Urinary Peptide From Complement Factor B Alleviates Diabetic Renal Fibrosis by Inhibiting the HIF-1\u03b1-Driven Glycolysis Pathway.",
+      "sorttitle": "urinary peptide from complement factor b alleviates diabetic renal fibrosis by inhibiting the hif 1 driven glycolysis pathway",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71494",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41568997"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202504788R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/08 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/12/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/22 13:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/22 13:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/22 09:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202504788R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Dai L",
+      "vernaculartitle": ""
+    },
+    "41556069": {
+      "uid": "41556069",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Zhou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xuan Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xuan Q",
+      "title": "Metabolome Atlas of Brain Reveals Regional Shared and Unique Metabolic Drifts in Response to Type 2 Diabetes in Male Mice.",
+      "sorttitle": "metabolome atlas of brain reveals regional shared and unique metabolic drifts in response to type 2 diabetes in male mice",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71450",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41556069"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12817114"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12817114;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202501739RR"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/29 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/05/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/20 07:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/20 07:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/20 03:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/20 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 83,
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202501739RR",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Zhou Y",
+      "vernaculartitle": ""
+    },
+    "41546551": {
+      "uid": "41546551",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yang C",
+      "title": "Hirudin Ameliorates Kidney Injury in DKD Mice by Decreasing SOD2 \u03b2-Hydroxybutyrylation Mediated ROS Level and NLRP3 Inflammasome Formation.",
+      "sorttitle": "hirudin ameliorates kidney injury in dkd mice by decreasing sod2 hydroxybutyrylation mediated ros level and nlrp3 inflammasome formation",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71433",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41546551"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202502662R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/09 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/17 06:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/17 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/17 05:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202502662R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Li Y",
+      "vernaculartitle": ""
+    },
+    "41546529": {
+      "uid": "41546529",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Yang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Diao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yuan C",
+      "title": "Butyrate Alleviates Diabetic Periodontitis by Suppressing Macrophage M1 Polarization and PANoptosis-Like Cell Death.",
+      "sorttitle": "butyrate alleviates diabetic periodontitis by suppressing macrophage m1 polarization and panoptosis like cell death",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71428",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41546529"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202504201R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/17 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/11/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/17 06:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/17 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/17 05:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202504201R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Yang W",
+      "vernaculartitle": ""
+    },
+    "41527935": {
+      "uid": "41527935",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li Y",
+      "title": "AMPK Modulates the Interplay Between PINK1/Parkin-Mediated Mitophagy and NLRP3-Driven Inflammation in Diabetic Periodontal Tissue Under Mechanical Loading.",
+      "sorttitle": "ampk modulates the interplay between pink1 parkin mediated mitophagy and nlrp3 driven inflammation in diabetic periodontal tissue under mechanical loading",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71460",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41527935"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202502330R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/25 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/13 13:16"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/13 13:15"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/13 06:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202502330R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Chen S",
+      "vernaculartitle": ""
+    },
+    "41524203": {
+      "uid": "41524203",
+      "pubdate": "2026 Jan 31",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Su S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yi H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yi H",
+      "title": "C-X-C Motif Chemokine Ligand 3 as a Potential Biomarker for Diagnosis and Prognosis of Diabetic Kidney Disease.",
+      "sorttitle": "c x c motif chemokine ligand 3 as a potential biomarker for diagnosis and prognosis of diabetic kidney disease",
+      "volume": "40",
+      "issue": "2",
+      "pages": "e71443",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41524203"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202502236R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/09 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/06/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/12 13:16"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/12 13:15"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/12 07:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202502236R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/31 00:00",
+      "sortfirstauthor": "Su S",
+      "vernaculartitle": ""
+    }
+  }
+}
