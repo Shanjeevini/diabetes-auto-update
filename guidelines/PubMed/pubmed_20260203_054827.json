@@ -1,0 +1,294 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41587315",
+      "41587307"
+    ],
+    "41587315": {
+      "uid": "41587315",
+      "pubdate": "2026 Feb 3",
+      "epubdate": "2026 Jan 26",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": [
+        {
+          "name": "Shivani ST",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeMasters BE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ravula T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esterly HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maroli N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rich KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fields CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dicke SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Warmuth OA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stapleton DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keller MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Attie AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kananenka AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Henzler-Wildman KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rienstra CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zanni MT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zanni MT",
+      "title": "A structural model of toxic amyloid oligomers involved in type 2 diabetes.",
+      "sorttitle": "structural model of toxic amyloid oligomers involved in type 2 diabetes",
+      "volume": "123",
+      "issue": "5",
+      "pages": "e2528103123",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7505876",
+      "issn": "0027-8424",
+      "essn": "1091-6490",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41587315"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2528103123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/26 18:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/26 18:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/26 15:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+      "elocationid": "doi: 10.1073/pnas.2528103123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/03 00:00",
+      "sortfirstauthor": "Shivani ST",
+      "vernaculartitle": ""
+    },
+    "41587307": {
+      "uid": "41587307",
+      "pubdate": "2026 Feb 3",
+      "epubdate": "2026 Jan 26",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": [
+        {
+          "name": "LeMasters BE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fields CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lomont JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chalyavi F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rich KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stapleton DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dicke SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keller MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Attie AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zanni MT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zanni MT",
+      "title": "Mammals that can develop type 2 diabetes have a similarly structured \u03b2-sheet amyloid oligomer.",
+      "sorttitle": "mammals that can develop type 2 diabetes have a similarly structured sheet amyloid oligomer",
+      "volume": "123",
+      "issue": "5",
+      "pages": "e2530570123",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7505876",
+      "issn": "0027-8424",
+      "essn": "1091-6490",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41587307"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2530570123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/26 18:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/26 18:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/26 15:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+      "elocationid": "doi: 10.1073/pnas.2530570123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/03 00:00",
+      "sortfirstauthor": "LeMasters BE",
+      "vernaculartitle": ""
+    }
+  }
+}
