@@ -1,0 +1,721 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41639504",
+      "41639475",
+      "41639317",
+      "41167578",
+      "40972386",
+      "40058849"
+    ],
+    "41639504": {
+      "uid": "41639504",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2026 Feb 5",
+      "source": "Aging Clin Exp Res",
+      "authors": [
+        {
+          "name": "Yang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang G",
+      "title": "Methodological concerns and mechanistic gaps in the association between unhealthy lifestyle and comorbid type 2 diabetes and arthritis.",
+      "sorttitle": "methodological concerns and mechanistic gaps in the association between unhealthy lifestyle and comorbid type 2 diabetes and arthritis",
+      "volume": "38",
+      "issue": "1",
+      "pages": "59",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101132995",
+      "issn": "1594-0667",
+      "essn": "1720-8319",
+      "pubtype": [
+        "Journal Article",
+        "Letter"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41639504"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s40520-025-03257-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s40520-025-03257-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/05 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 00:30"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/28 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/18 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/04 23:35"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Aging clinical and experimental research",
+      "elocationid": "doi: 10.1007/s40520-025-03257-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Yang D",
+      "vernaculartitle": ""
+    },
+    "41639475": {
+      "uid": "41639475",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2026 Feb 5",
+      "source": "Neurol Sci",
+      "authors": [
+        {
+          "name": "Li G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li G",
+      "title": "The impact of diabetes mellitus in prodromal Parkinson's disease.",
+      "sorttitle": "impact of diabetes mellitus in prodromal parkinson s disease",
+      "volume": "47",
+      "issue": "3",
+      "pages": "231",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100959175",
+      "issn": "1590-1874",
+      "essn": "1590-3478",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41639475"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10072-026-08838-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10072-026-08838-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/05 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 00:30"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2024/12/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/15 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/04 23:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "elocationid": "doi: 10.1007/s10072-026-08838-3",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Li G",
+      "vernaculartitle": ""
+    },
+    "41639317": {
+      "uid": "41639317",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2026 Feb 5",
+      "source": "Eur J Pediatr",
+      "authors": [
+        {
+          "name": "Campos LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khalil SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Souza M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Souza M",
+      "title": "The epidemiology of metabolic dysfunction-associated steatotic liver disease among pediatric patients with type 2 diabetes: Systematic review and meta-analysis.",
+      "sorttitle": "epidemiology of metabolic dysfunction associated steatotic liver disease among pediatric patients with type 2 diabetes systematic review and meta analysis",
+      "volume": "185",
+      "issue": "2",
+      "pages": "120",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7603873",
+      "issn": "0340-6199",
+      "essn": "1432-1076",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41639317"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00431-025-06734-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00431-025-06734-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/05 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 00:30"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/04 23:28"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pediatrics",
+      "elocationid": "doi: 10.1007/s00431-025-06734-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Campos LR",
+      "vernaculartitle": ""
+    },
+    "41167578": {
+      "uid": "41167578",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2025 Oct 28",
+      "source": "Gene",
+      "authors": [
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yin T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yin R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Metwally E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yang L",
+      "title": "Multi-Omics discovery and clinical validation of IGFBP2, B2M, and CST3 as a serum biomarker panel for diabetic kidney disease progression.",
+      "sorttitle": "multi omics discovery and clinical validation of igfbp2 b2m and cst3 as a serum biomarker panel for diabetic kidney disease progression",
+      "volume": "978",
+      "issue": "",
+      "pages": "149858",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7706761",
+      "issn": "0378-1119",
+      "essn": "1879-0038",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41167578"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.gene.2025.149858"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-1119(25)00647-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/12 03:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/31 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/30 20:18"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Gene",
+      "elocationid": "doi: 10.1016/j.gene.2025.149858",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Wu J",
+      "vernaculartitle": ""
+    },
+    "40972386": {
+      "uid": "40972386",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2025 Sep 13",
+      "source": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "authors": [
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shang J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shang J",
+      "title": "A dual-modality sensor for pre-clicinal imaging of diabetes-associated copper dysregulation in vivo and in urine.",
+      "sorttitle": "dual modality sensor for pre clicinal imaging of diabetes associated copper dysregulation in vivo and in urine",
+      "volume": "346",
+      "issue": "",
+      "pages": "126946",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602533",
+      "issn": "1386-1425",
+      "essn": "1873-3557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40972386"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.saa.2025.126946"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1386-1425(25)01253-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/10 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/10/11 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/20 00:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/19 18:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "elocationid": "doi: 10.1016/j.saa.2025.126946",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Chen S",
+      "vernaculartitle": ""
+    },
+    "40058849": {
+      "uid": "40058849",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2025 Mar 6",
+      "source": "Tohoku J Exp Med",
+      "authors": [
+        {
+          "name": "Ling J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiao X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xiao X",
+      "title": "Clinical Significance and Biological Role of LncRNA HCG11 in Diabetic Retinopathy.",
+      "sorttitle": "clinical significance and biological role of lncrna hcg11 in diabetic retinopathy",
+      "volume": "268",
+      "issue": "1",
+      "pages": "87-95",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0417355",
+      "issn": "0040-8727",
+      "essn": "1349-3329",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40058849"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1620/tjem.2025.J033"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/03/10 07:59"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/05 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/03/09 21:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Tohoku journal of experimental medicine",
+      "elocationid": "doi: 10.1620/tjem.2025.J033",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Ling J",
+      "vernaculartitle": ""
+    }
+  }
+}
