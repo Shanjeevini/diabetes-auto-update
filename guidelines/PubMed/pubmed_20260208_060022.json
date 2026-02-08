@@ -1,0 +1,164 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41545107"
+    ],
+    "41545107": {
+      "uid": "41545107",
+      "pubdate": "2026 Feb 8",
+      "epubdate": "2025 Dec 15",
+      "source": "Anal Chim Acta",
+      "authors": [
+        {
+          "name": "Niccolini B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Santo R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di Giacinto F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tartaglione L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rizzi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leo ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Masi L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petito V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scaldaferri F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Spirito M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pitocco D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ciasca G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ciasca G",
+      "title": "Spectral analysis of blood components in diabetic patients with neuropathic complications: Exploring the diagnostic potential of extracellular vesicles.",
+      "sorttitle": "spectral analysis of blood components in diabetic patients with neuropathic complications exploring the diagnostic potential of extracellular vesicles",
+      "volume": "1386",
+      "issue": "",
+      "pages": "345017",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370534",
+      "issn": "0003-2670",
+      "essn": "1873-4324",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41545107"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.aca.2025.345017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0003-2670(25)01411-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/27 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/17 00:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/17 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/16 20:55"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Analytica chimica acta",
+      "elocationid": "doi: 10.1016/j.aca.2025.345017",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/08 00:00",
+      "sortfirstauthor": "Niccolini B",
+      "vernaculartitle": ""
+    }
+  }
+}
