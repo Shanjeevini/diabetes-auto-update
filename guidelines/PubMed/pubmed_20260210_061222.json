@@ -1,0 +1,869 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41581293",
+      "41525805",
+      "41177241",
+      "41167570",
+      "41135616",
+      "41106567"
+    ],
+    "41581293": {
+      "uid": "41581293",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2026 Jan 24",
+      "source": "Sci Total Environ",
+      "authors": [
+        {
+          "name": "Weinmayr G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaensch A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marino C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferraro PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kerschbaum J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haller P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brozek W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michelozzi P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Renzi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stafoggia M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Agabiti N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Hoogh K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brunekreef B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hoek G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zitt E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forastiere F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nagel G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cesaroni G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cesaroni G",
+      "title": "Do diabetes and hypertension mediate the association of air pollution with the incidence of end-stage kidney disease? Results from two large European cohorts.",
+      "sorttitle": "do diabetes and hypertension mediate the association of air pollution with the incidence of end stage kidney disease results from two large european cohorts",
+      "volume": "1015",
+      "issue": "",
+      "pages": "181430",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0330500",
+      "issn": "0048-9697",
+      "essn": "1879-1026",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41581293"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.scitotenv.2026.181430"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0048-9697(26)00089-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/26 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/25 18:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Science of the total environment",
+      "elocationid": "doi: 10.1016/j.scitotenv.2026.181430",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Weinmayr G",
+      "vernaculartitle": ""
+    },
+    "41525805": {
+      "uid": "41525805",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2026 Jan 10",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Ye H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xia S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gao Q",
+      "title": "SIRT1-mediated YAP deacetylation suppresses myocardial hypertrophy in diabetic cardiomyopathy.",
+      "sorttitle": "sirt1 mediated yap deacetylation suppresses myocardial hypertrophy in diabetic cardiomyopathy",
+      "volume": "1014",
+      "issue": "",
+      "pages": "178538",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41525805"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178538"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00020-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/07 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/24 00:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/13 00:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/12 19:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178538",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Ye H",
+      "vernaculartitle": ""
+    },
+    "41177241": {
+      "uid": "41177241",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2025 Nov 1",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Yao W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ye D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li B",
+      "title": "A novel composite hydrogel containing natural polysaccharides derived from Atractylodes macrocephala Koidz. for diabetic wound healing.",
+      "sorttitle": "novel composite hydrogel containing natural polysaccharides derived from atractylodes macrocephala koidz for diabetic wound healing",
+      "volume": "356",
+      "issue": "",
+      "pages": "120844",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41177241"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120844"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01536-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/23 00:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/03 00:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/02 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120844",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Yao W",
+      "vernaculartitle": ""
+    },
+    "41167570": {
+      "uid": "41167570",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2025 Oct 28",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Bayat R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nazari Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alami K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mousavi SY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mousavi SY",
+      "title": "Neuroprotective effects of Urtica dioica Linn. on diabetic animal models: A systematic review.",
+      "sorttitle": "neuroprotective effects of urtica dioica linn on diabetic animal models a systematic review",
+      "volume": "356",
+      "issue": "",
+      "pages": "120815",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41167570"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120815"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01507-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/23 00:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/31 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/30 20:18"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120815",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Bayat R",
+      "vernaculartitle": ""
+    },
+    "41135616": {
+      "uid": "41135616",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2025 Oct 22",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gui S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gao J",
+      "title": "Sappanone A alleviates high glucose-induced retinal oxidative injury and mitochondrial dysfunction via SIRT7/NRF2 pathway.",
+      "sorttitle": "sappanone a alleviates high glucose induced retinal oxidative injury and mitochondrial dysfunction via sirt7 nrf2 pathway",
+      "volume": "356",
+      "issue": "",
+      "pages": "120774",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41135616"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120774"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01466-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/23 00:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/25 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/24 19:36"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120774",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    },
+    "41106567": {
+      "uid": "41106567",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2025 Oct 15",
+      "source": "J Ethnopharmacol",
+      "authors": [
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheng G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xi D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fei W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yang X",
+      "title": "Yucan granules alleviate renal injury in diabetic nephropathy by targeting ECH1, DHRS4, ECI2, and ECHS1.",
+      "sorttitle": "yucan granules alleviate renal injury in diabetic nephropathy by targeting ech1 dhrs4 eci2 and echs1",
+      "volume": "356",
+      "issue": "",
+      "pages": "120756",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7903310",
+      "issn": "0378-8741",
+      "essn": "1872-7573",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41106567"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jep.2025.120756"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-8741(25)01448-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/23 00:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/18 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/17 19:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of ethnopharmacology",
+      "elocationid": "doi: 10.1016/j.jep.2025.120756",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Zhang Y",
+      "vernaculartitle": ""
+    }
+  }
+}
