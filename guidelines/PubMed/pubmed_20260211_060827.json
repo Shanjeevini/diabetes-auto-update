@@ -1,0 +1,254 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41644448",
+      "41644444"
+    ],
+    "41644448": {
+      "uid": "41644448",
+      "pubdate": "2026 Feb 11",
+      "epubdate": "",
+      "source": "Zhonghua Yan Ke Za Zhi",
+      "authors": [
+        {
+          "name": "Li JX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li XX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ren XC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feng JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang WF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang WF",
+      "title": "[Construction of a regional risk prediction model for diabetic retinopathy in patients with type 2 diabetes].",
+      "sorttitle": "construction of a regional risk prediction model for diabetic retinopathy in patients with type 2 diabetes",
+      "volume": "62",
+      "issue": "2",
+      "pages": "140-150",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "16210540R",
+      "issn": "0412-4081",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41644448"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3760/cma.j.cn112142-20250828-00356"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/06 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/05 22:08"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
+      "elocationid": "doi: 10.3760/cma.j.cn112142-20250828-00356",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/11 00:00",
+      "sortfirstauthor": "Li JX",
+      "vernaculartitle": ""
+    },
+    "41644444": {
+      "uid": "41644444",
+      "pubdate": "2026 Feb 11",
+      "epubdate": "",
+      "source": "Zhonghua Yan Ke Za Zhi",
+      "authors": [
+        {
+          "name": "Zhang YY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong YL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhong YL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang XC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bian J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu YL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou QJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xie LX",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xie LX",
+      "title": "[Analysis of the clinical characteristics of dry eye patients with type 2 diabetes mellitus at different disease durations].",
+      "sorttitle": "analysis of the clinical characteristics of dry eye patients with type 2 diabetes mellitus at different disease durations",
+      "volume": "62",
+      "issue": "2",
+      "pages": "102-112",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "16210540R",
+      "issn": "0412-4081",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41644444"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3760/cma.j.cn112142-20250902-00362"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/06 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/05 22:08"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
+      "elocationid": "doi: 10.3760/cma.j.cn112142-20250902-00362",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/11 00:00",
+      "sortfirstauthor": "Zhang YY",
+      "vernaculartitle": ""
+    }
+  }
+}
