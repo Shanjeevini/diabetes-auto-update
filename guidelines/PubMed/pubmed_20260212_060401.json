@@ -1,0 +1,245 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41673386",
+      "41547302"
+    ],
+    "41673386": {
+      "uid": "41673386",
+      "pubdate": "2026 Feb 12",
+      "epubdate": "2026 Feb 12",
+      "source": "Mol Neurobiol",
+      "authors": [
+        {
+          "name": "Mousa AMA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "AlDhaen M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qabazard B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Renno WM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yousif MHM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yousif MHM",
+      "title": "A Protective Role of Hydrogen Sulfide Donor GYY4137 Through Activated Microglia-induced\u00a0Anti-inflammatory Cytokines in the Spinal Cord of Diabetic Rats.",
+      "sorttitle": "protective role of hydrogen sulfide donor gyy4137 through activated microglia induced anti inflammatory cytokines in the spinal cord of diabetic rats",
+      "volume": "63",
+      "issue": "1",
+      "pages": "433",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8900963",
+      "issn": "0893-7648",
+      "essn": "1559-1182",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41673386"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12035-025-05643-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12035-025-05643-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/12 00:48"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/12 00:47"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/02/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/21 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/11 23:36"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Molecular neurobiology",
+      "elocationid": "doi: 10.1007/s12035-025-05643-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/12 00:00",
+      "sortfirstauthor": "Mousa AMA",
+      "vernaculartitle": ""
+    },
+    "41547302": {
+      "uid": "41547302",
+      "pubdate": "2026 Feb 12",
+      "epubdate": "2026 Jan 13",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Zhang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xue Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xue Y",
+      "title": "Microbiota-targeted modulation of the gut-kidney axis in diabetic kidney disease: Therapeutic advances and future perspectives.",
+      "sorttitle": "microbiota targeted modulation of the gut kidney axis in diabetic kidney disease therapeutic advances and future perspectives",
+      "volume": "800",
+      "issue": "",
+      "pages": "153294",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41547302"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2026.153294"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(26)00057-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/08 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/24 00:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/18 00:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/17 18:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2026.153294",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/12 00:00",
+      "sortfirstauthor": "Zhang W",
+      "vernaculartitle": ""
+    }
+  }
+}
