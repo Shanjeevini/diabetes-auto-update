@@ -1,0 +1,122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41365816"
+    ],
+    "41365816": {
+      "uid": "41365816",
+      "pubdate": "2026 Feb 14",
+      "epubdate": "2025 Dec 10",
+      "source": "Br J Nutr",
+      "authors": [
+        {
+          "name": "Ye M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xia Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhong Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li Q",
+      "title": "Association of dietary choline intake with all-cause and disease-specific mortality among individuals with diabetes: a population-based prospective cohort study.",
+      "sorttitle": "association of dietary choline intake with all cause and disease specific mortality among individuals with diabetes a population based prospective cohort study",
+      "volume": "135",
+      "issue": "3",
+      "pages": "261-275",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372547",
+      "issn": "0007-1145",
+      "essn": "1475-2662",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41365816"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1017/S0007114525105813"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0007114525105813"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/13 12:48"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/10 01:47"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/09 22:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of nutrition",
+      "elocationid": "doi: 10.1017/S0007114525105813",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/14 00:00",
+      "sortfirstauthor": "Ye M",
+      "vernaculartitle": ""
+    }
+  }
+}
