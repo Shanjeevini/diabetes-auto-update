@@ -1,0 +1,2791 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41637663",
+      "41626766",
+      "41554369",
+      "41548682",
+      "41544688",
+      "41534557",
+      "41534440",
+      "41512791",
+      "41477995",
+      "41477992",
+      "41422899",
+      "41412260",
+      "41297711",
+      "41276141",
+      "41242363",
+      "41232447",
+      "41218739",
+      "41207007",
+      "41056644",
+      "40892039"
+    ],
+    "41637663": {
+      "uid": "41637663",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Zhou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ying M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dai S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dai S",
+      "title": "Cardiomyocyte-Derived USP20 Attenuates Diabetic Cardiomyopathy by Facilitating the Degradation of STING and Mitigating STING-Mediated Inflammation.",
+      "sorttitle": "cardiomyocyte derived usp20 attenuates diabetic cardiomyopathy by facilitating the degradation of sting and mitigating sting mediated inflammation",
+      "volume": "40",
+      "issue": "3",
+      "pages": "e71540",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41637663"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12872204"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12872204;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503913R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/14 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/04 19:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/04 19:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/04 15:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/02/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 43,
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503913R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Zhou Y",
+      "vernaculartitle": ""
+    },
+    "41626766": {
+      "uid": "41626766",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Huang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiong W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xu Y",
+      "title": "SIRT5 Inhibits HMGCS2 Succinylation and Promotes Its PIAS4-Dependent Ubiquitination to Attenuate Diabetic Cardiomyopathy.",
+      "sorttitle": "sirt5 inhibits hmgcs2 succinylation and promotes its pias4 dependent ubiquitination to attenuate diabetic cardiomyopathy",
+      "volume": "40",
+      "issue": "3",
+      "pages": "e71506",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41626766"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202502832R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/07 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/02 13:11"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/02 13:10"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/02 07:34"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202502832R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Huang C",
+      "vernaculartitle": ""
+    },
+    "41554369": {
+      "uid": "41554369",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2026 Jan 17",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Sun M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lv S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miao M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen WM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu SY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang J",
+      "title": "Metformin use and reduced dementia risk in older adults with type 2 diabetes and delirium.",
+      "sorttitle": "metformin use and reduced dementia risk in older adults with type 2 diabetes and delirium",
+      "volume": "1015",
+      "issue": "",
+      "pages": "178534",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41554369"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178534"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00016-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/20 00:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/19 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178534",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Sun M",
+      "vernaculartitle": ""
+    },
+    "41548682": {
+      "uid": "41548682",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2026 Jan 16",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Pati\u00f1o-Cardona S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pascual-Morena C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sequ\u00ed-Dom\u00ednguez I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "\u00c1lvarez-Bueno C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mart\u00ednez-Mart\u00ednez H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Miguel-Brox M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Priego-Jim\u00e9nez S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mart\u00ednez-Vizca\u00edno V",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mart\u00ednez-Vizca\u00edno V",
+      "title": "Safety of metformin in chronic kidney disease and type 2 diabetes mellitus: a systematic review and meta-analysis.",
+      "sorttitle": "safety of metformin in chronic kidney disease and type 2 diabetes mellitus a systematic review and meta analysis",
+      "volume": "1015",
+      "issue": "",
+      "pages": "178560",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41548682"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178560"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00042-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/19 01:03"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/18 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178560",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Pati\u00f1o-Cardona S",
+      "vernaculartitle": ""
+    },
+    "41544688": {
+      "uid": "41544688",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2026 Jan 14",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Pei Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wen Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ni Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ni B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ni B",
+      "title": "Hirsutine attenuates renal injury in diabetic kidney disease by regulating Th17 cell differentiation via the TGF\u03b2/SMAD Pathway.",
+      "sorttitle": "hirsutine attenuates renal injury in diabetic kidney disease by regulating th17 cell differentiation via the tgf smad pathway",
+      "volume": "1015",
+      "issue": "",
+      "pages": "178549",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41544688"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178549"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00031-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/28 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/17 00:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/16 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178549",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Pei Z",
+      "vernaculartitle": ""
+    },
+    "41534557": {
+      "uid": "41534557",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2026 Jan 12",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Fan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhong A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tong X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang B",
+      "title": "Melatonin suppresses cellular senescence in diabetic kidney disease though the Wnt/\u03b2-catenin signaling pathway.",
+      "sorttitle": "melatonin suppresses cellular senescence in diabetic kidney disease though the wnt catenin signaling pathway",
+      "volume": "1015",
+      "issue": "",
+      "pages": "178541",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41534557"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178541"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00023-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/15 16:13"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/14 19:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178541",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Fan W",
+      "vernaculartitle": ""
+    },
+    "41534440": {
+      "uid": "41534440",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2026 Jan 9",
+      "source": "J Neurol Sci",
+      "authors": [
+        {
+          "name": "Chandrashekhar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davalos L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pradhan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paul P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Paul P",
+      "title": "Diabetic lumbosacral radiculoplexus neuropathy after glucagon-like peptide 1 receptor agonist use: A case series.",
+      "sorttitle": "diabetic lumbosacral radiculoplexus neuropathy after glucagon like peptide 1 receptor agonist use a case series",
+      "volume": "481",
+      "issue": "",
+      "pages": "125755",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375403",
+      "issn": "0022-510X",
+      "essn": "1878-5883",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41534440"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jns.2026.125755"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-510X(26)00036-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/03 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/15 16:13"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/14 18:08"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the neurological sciences",
+      "elocationid": "doi: 10.1016/j.jns.2026.125755",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Chandrashekhar S",
+      "vernaculartitle": ""
+    },
+    "41512791": {
+      "uid": "41512791",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2026 Jan 8",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yue G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xu J",
+      "title": "CDK9-mediated transcriptional activation of NEK7 promotes NLRP3-dependent podocyte Pyroptosis in diabetic kidney disease.",
+      "sorttitle": "cdk9 mediated transcriptional activation of nek7 promotes nlrp3 dependent podocyte pyroptosis in diabetic kidney disease",
+      "volume": "171",
+      "issue": "",
+      "pages": "116172",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41512791"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2026.116172"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(26)00015-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/18 21:13"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/10 00:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/09 18:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2026.116172",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Wang J",
+      "vernaculartitle": ""
+    },
+    "41477995": {
+      "uid": "41477995",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Dec 31",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Xiang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang Q",
+      "title": "Salidroside alleviates ethanol exposure-exacerbated hepatic insulin resistance in diabetic mice.",
+      "sorttitle": "salidroside alleviates ethanol exposure exacerbated hepatic insulin resistance in diabetic mice",
+      "volume": "171",
+      "issue": "",
+      "pages": "116101",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41477995"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.116101"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)02090-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/18 03:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/02 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/01 18:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.116101",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Xiang Q",
+      "vernaculartitle": ""
+    },
+    "41477992": {
+      "uid": "41477992",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Dec 31",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Zhang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiao W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ren S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li G",
+      "title": "Paeoniflorin suppresses cardiomyocyte pyroptosis and ameliorates diabetic cardiomyopathy by AMPK/Nrf2/NLRP3 pathway.",
+      "sorttitle": "paeoniflorin suppresses cardiomyocyte pyroptosis and ameliorates diabetic cardiomyopathy by ampk nrf2 nlrp3 pathway",
+      "volume": "171",
+      "issue": "",
+      "pages": "116122",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41477992"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.116122"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)02111-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/18 03:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/02 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/01 18:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2025.116122",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Zhang H",
+      "vernaculartitle": ""
+    },
+    "41422899": {
+      "uid": "41422899",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Dec 19",
+      "source": "Environ Res",
+      "authors": [
+        {
+          "name": "Dye CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kupsco A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jackson GL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Glabonjat RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hakim A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Castro-Martinez A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laurent LC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Umans JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Goessler W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cole SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baccarelli AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Navas-Acien A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wu H",
+      "title": "Extracellular vesicle microRNAs as an epigenetic biosignature of arsenic-associated diabetes in the Strong Heart Study.",
+      "sorttitle": "extracellular vesicle micrornas as an epigenetic biosignature of arsenic associated diabetes in the strong heart study",
+      "volume": "291",
+      "issue": "",
+      "pages": "123573",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147621",
+      "issn": "0013-9351",
+      "essn": "1096-0953",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41422899"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envres.2025.123573"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0013-9351(25)02826-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/13 00:25"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/22 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/21 19:34"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental research",
+      "elocationid": "doi: 10.1016/j.envres.2025.123573",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Dye CK",
+      "vernaculartitle": ""
+    },
+    "41412260": {
+      "uid": "41412260",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Dec 16",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Zhou W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xie L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhong X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen L",
+      "title": "TRPV4 agonist GSK1016790A increases mucus production and alleviates diabetic intestinal injury by activating the Ca(2+)/CAMKII/GSK3\u03b2 pathway.",
+      "sorttitle": "trpv4 agonist gsk1016790a increases mucus production and alleviates diabetic intestinal injury by activating the ca 2 camkii gsk3 pathway",
+      "volume": "1015",
+      "issue": "",
+      "pages": "178481",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41412260"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2025.178481"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(25)01235-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/06 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/19 01:45"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/18 19:31"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2025.178481",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Zhou W",
+      "vernaculartitle": ""
+    },
+    "41297711": {
+      "uid": "41297711",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Nov 24",
+      "source": "Int J Cardiol",
+      "authors": [
+        {
+          "name": "Ahmad O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ibrahim R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pham HN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelnabi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elbenawi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salih M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Farina J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhakta MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sell-Dottin KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sweeney JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortuin FD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simper D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Kindi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nasir K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayoub C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arsanjani R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Arsanjani R",
+      "title": "Early glucagon-like peptide-1 receptor agonist use after myocardial infarction in patients with type 2 diabetes.",
+      "sorttitle": "early glucagon like peptide 1 receptor agonist use after myocardial infarction in patients with type 2 diabetes",
+      "volume": "445",
+      "issue": "",
+      "pages": "134042",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8200291",
+      "issn": "0167-5273",
+      "essn": "1874-1754",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41297711"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijcard.2025.134042"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0167-5273(25)01085-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/07 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/19 01:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/27 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/26 19:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of cardiology",
+      "elocationid": "doi: 10.1016/j.ijcard.2025.134042",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Ahmad O",
+      "vernaculartitle": ""
+    },
+    "41276141": {
+      "uid": "41276141",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Nov 21",
+      "source": "J Affect Disord",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tian W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao ZH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhao ZH",
+      "title": "Impact of diabetes on cognitive function in middle-aged and older adults: A longitudinal study.",
+      "sorttitle": "impact of diabetes on cognitive function in middle aged and older adults a longitudinal study",
+      "volume": "395",
+      "issue": "Pt A",
+      "pages": "120754",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7906073",
+      "issn": "0165-0327",
+      "essn": "1573-2517",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41276141"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jad.2025.120754"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0165-0327(25)02196-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 01:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/24 00:49"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/23 19:16"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of affective disorders",
+      "elocationid": "doi: 10.1016/j.jad.2025.120754",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    },
+    "41242363": {
+      "uid": "41242363",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Nov 14",
+      "source": "J Affect Disord",
+      "authors": [
+        {
+          "name": "Tian J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan YJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao YW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li ZL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang HY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao LP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhao LP",
+      "title": "Aberrant static and dynamic functional connectivity within amygdala in type 2 diabetes patients with and without depression associated with neurotransmitter profiles: A multimodal imaging study.",
+      "sorttitle": "aberrant static and dynamic functional connectivity within amygdala in type 2 diabetes patients with and without depression associated with neurotransmitter profiles a multimodal imaging study",
+      "volume": "395",
+      "issue": "Pt A",
+      "pages": "120708",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7906073",
+      "issn": "0165-0327",
+      "essn": "1573-2517",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41242363"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jad.2025.120708"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0165-0327(25)02150-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 01:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/17 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/16 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of affective disorders",
+      "elocationid": "doi: 10.1016/j.jad.2025.120708",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Tian J",
+      "vernaculartitle": ""
+    },
+    "41232447": {
+      "uid": "41232447",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Nov 8",
+      "source": "Biosens Bioelectron",
+      "authors": [
+        {
+          "name": "Yazdani J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mafatia K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harun-Or-Rashid M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jabbour J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Preda V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nasiri N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nasiri N",
+      "title": "Tear-based glucose monitoring: A non-invasive approach to diabetes control in resource-limited settings.",
+      "sorttitle": "tear based glucose monitoring a non invasive approach to diabetes control in resource limited settings",
+      "volume": "294",
+      "issue": "",
+      "pages": "118209",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9001289",
+      "issn": "0956-5663",
+      "essn": "1873-4235",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41232447"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bios.2025.118209"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0956-5663(25)01086-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/07 00:40"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/14 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/13 18:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biosensors & bioelectronics",
+      "elocationid": "doi: 10.1016/j.bios.2025.118209",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Yazdani J",
+      "vernaculartitle": ""
+    },
+    "41218739": {
+      "uid": "41218739",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Nov 9",
+      "source": "J Affect Disord",
+      "authors": [
+        {
+          "name": "Zhang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huang L",
+      "title": "Antipsychotic use during pregnancy and risk of gestational diabetes: an updated meta-analysis.",
+      "sorttitle": "antipsychotic use during pregnancy and risk of gestational diabetes an updated meta analysis",
+      "volume": "395",
+      "issue": "Pt A",
+      "pages": "120633",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7906073",
+      "issn": "0165-0327",
+      "essn": "1573-2517",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41218739"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jad.2025.120633"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0165-0327(25)02075-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/08 01:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/12 00:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/11 19:11"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of affective disorders",
+      "elocationid": "doi: 10.1016/j.jad.2025.120633",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Zhang H",
+      "vernaculartitle": ""
+    },
+    "41207007": {
+      "uid": "41207007",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Nov 6",
+      "source": "J Pharm Biomed Anal",
+      "authors": [
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kong X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ni L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xiong L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kong Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhou H",
+      "title": "Integration of UPLC-Q-Exactive MS/MS and in vivo studies to investigate the chemical composition and anti-diabetic nephropathy effects of polarity-based extracts from potentillae discoloris herba.",
+      "sorttitle": "integration of uplc q exactive ms ms and in vivo studies to investigate the chemical composition and anti diabetic nephropathy effects of polarity based extracts from potentillae discoloris herba",
+      "volume": "269",
+      "issue": "",
+      "pages": "117239",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309336",
+      "issn": "0731-7085",
+      "essn": "1873-264X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41207007"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpba.2025.117239"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0731-7085(25)00580-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/07 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/06 00:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/10 00:53"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/09 18:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pharmaceutical and biomedical analysis",
+      "elocationid": "doi: 10.1016/j.jpba.2025.117239",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Wang Y",
+      "vernaculartitle": ""
+    },
+    "41056644": {
+      "uid": "41056644",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Oct 1",
+      "source": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "authors": [
+        {
+          "name": "Kong F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qin J",
+      "title": "Peroxynitrite-responsive dicyanoisophorone-xanthene NIR fluorescent probe for monitoring and therapeutic evaluation of diabetic liver injury.",
+      "sorttitle": "peroxynitrite responsive dicyanoisophorone xanthene nir fluorescent probe for monitoring and therapeutic evaluation of diabetic liver injury",
+      "volume": "347",
+      "issue": "",
+      "pages": "127003",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9602533",
+      "issn": "1386-1425",
+      "essn": "1873-3557",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41056644"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.saa.2025.127003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1386-1425(25)01310-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/09/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/13 18:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/08 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/07 18:15"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "elocationid": "doi: 10.1016/j.saa.2025.127003",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Kong F",
+      "vernaculartitle": ""
+    },
+    "40892039": {
+      "uid": "40892039",
+      "pubdate": "2026 Feb 15",
+      "epubdate": "2025 Sep 2",
+      "source": "Int J Cancer",
+      "authors": [
+        {
+          "name": "Ventel\u00e4 J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pellikka I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Auvinen A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lohi O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nikkil\u00e4 A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nikkil\u00e4 A",
+      "title": "Childhood acute leukemia and type 1 diabetes in children: A nationwide case-control study.",
+      "sorttitle": "childhood acute leukemia and type 1 diabetes in children a nationwide case control study",
+      "volume": "158",
+      "issue": "4",
+      "pages": "924-930",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0042124",
+      "issn": "0020-7136",
+      "essn": "1097-0215",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40892039"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12712364"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12712364;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ijc.70122"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/14 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/04/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/18 07:19"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/02 22:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/02 10:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 51,
+      "fulljournalname": "International journal of cancer",
+      "elocationid": "doi: 10.1002/ijc.70122",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/15 00:00",
+      "sortfirstauthor": "Ventel\u00e4 J",
+      "vernaculartitle": ""
+    }
+  }
+}
