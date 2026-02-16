@@ -1,0 +1,154 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41407054"
+    ],
+    "41407054": {
+      "uid": "41407054",
+      "pubdate": "2026 Feb 16",
+      "epubdate": "2025 Dec 15",
+      "source": "Free Radic Biol Med",
+      "authors": [
+        {
+          "name": "Ji H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bian J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Du J",
+      "title": "Adipocyte extracellular vesicle mitochondrial cargo is linked to cardiomyocyte dysfunction in type 2 diabetes-related heart failure with preserved ejection fraction.",
+      "sorttitle": "adipocyte extracellular vesicle mitochondrial cargo is linked to cardiomyocyte dysfunction in type 2 diabetes related heart failure with preserved ejection fraction",
+      "volume": "244",
+      "issue": "",
+      "pages": "435-451",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8709159",
+      "issn": "0891-5849",
+      "essn": "1873-4596",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41407054"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.freeradbiomed.2025.12.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0891-5849(25)01432-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/27 00:52"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/18 01:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/17 19:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Free radical biology & medicine",
+      "elocationid": "doi: 10.1016/j.freeradbiomed.2025.12.016",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/16 00:00",
+      "sortfirstauthor": "Ji H",
+      "vernaculartitle": ""
+    }
+  }
+}
