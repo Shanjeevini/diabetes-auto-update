@@ -1,0 +1,368 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41706553",
+      "41706546",
+      "41564682"
+    ],
+    "41706553": {
+      "uid": "41706553",
+      "pubdate": "2026 Feb 19",
+      "epubdate": "2026 Feb 18",
+      "source": "Br J Nurs",
+      "authors": [
+        {
+          "name": "Lancaster M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Edwards H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harper D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garner P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Utley A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Utley A",
+      "title": "Accuracy and performance of the Yuwell Anytime CT3 continuous glucose monitoring device.",
+      "sorttitle": "accuracy and performance of the yuwell anytime ct3 continuous glucose monitoring device",
+      "volume": "35",
+      "issue": "4",
+      "pages": "192-198",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9212059",
+      "issn": "0966-0461",
+      "essn": "2052-2819",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41706553"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12968/bjon.2026.0009"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/18 19:08"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/18 19:07"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/18 12:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "British journal of nursing (Mark Allen Publishing)",
+      "elocationid": "doi: 10.12968/bjon.2026.0009",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/19 00:00",
+      "sortfirstauthor": "Lancaster M",
+      "vernaculartitle": ""
+    },
+    "41706546": {
+      "uid": "41706546",
+      "pubdate": "2026 Feb 19",
+      "epubdate": "2026 Feb 18",
+      "source": "Br J Nurs",
+      "authors": [
+        {
+          "name": "Fletcher-Salt T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kelly B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Williams A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Williams A",
+      "title": "Inpatient diabetes specialist nurses managing newer diabetes technology: confidence, preparedness and training.",
+      "sorttitle": "inpatient diabetes specialist nurses managing newer diabetes technology confidence preparedness and training",
+      "volume": "35",
+      "issue": "4",
+      "pages": "182-190",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9212059",
+      "issn": "0966-0461",
+      "essn": "2052-2819",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41706546"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12968/bjon.2025.0578"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/18 19:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/18 18:59"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/18 12:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "British journal of nursing (Mark Allen Publishing)",
+      "elocationid": "doi: 10.12968/bjon.2025.0578",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/19 00:00",
+      "sortfirstauthor": "Fletcher-Salt T",
+      "vernaculartitle": ""
+    },
+    "41564682": {
+      "uid": "41564682",
+      "pubdate": "2026 Feb 19",
+      "epubdate": "2026 Jan 17",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Uemura T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tomita K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eriguchi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Torisu K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nishimoto M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uchida Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giani JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernstein KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsuruya K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakano T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nakano T",
+      "title": "High expression of angiotensin-converting enzyme in macrophages exacerbates renal interstitial damage in diabetic mice.",
+      "sorttitle": "high expression of angiotensin converting enzyme in macrophages exacerbates renal interstitial damage in diabetic mice",
+      "volume": "801",
+      "issue": "",
+      "pages": "153308",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41564682"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2140926"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12859454"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12859454;manuscript-id: NIHMS2140926;embargo-date: 2027/01/17;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2026.153308"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(26)00072-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/16 00:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2027/01/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/02 00:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/22 01:09"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/21 18:07"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 44,
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2026.153308",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/19 00:00",
+      "sortfirstauthor": "Uemura T",
+      "vernaculartitle": ""
+    }
+  }
+}
