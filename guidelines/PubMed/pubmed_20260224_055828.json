@@ -1,0 +1,680 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41688191",
+      "41428408",
+      "41410037",
+      "41353583",
+      "41275383"
+    ],
+    "41688191": {
+      "uid": "41688191",
+      "pubdate": "2026 Feb 24",
+      "epubdate": "",
+      "source": "Zhonghua Xin Xue Guan Bing Za Zhi",
+      "authors": [
+        {
+          "name": "Aheniyazi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang HY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang YN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yang YN",
+      "title": "[Role of glucose transporter 4 in the pathogenesis of diabetic cardiomyopathy].",
+      "sorttitle": "role of glucose transporter 4 in the pathogenesis of diabetic cardiomyopathy",
+      "volume": "54",
+      "issue": "2",
+      "pages": "244-248",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "7910682",
+      "issn": "0253-3758",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41688191"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3760/cma.j.cn112148-20251101-00770"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/14 05:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/14 05:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/13 21:21"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Zhonghua xin xue guan bing za zhi",
+      "elocationid": "doi: 10.3760/cma.j.cn112148-20251101-00770",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/24 00:00",
+      "sortfirstauthor": "Aheniyazi A",
+      "vernaculartitle": ""
+    },
+    "41428408": {
+      "uid": "41428408",
+      "pubdate": "2026 Feb 24",
+      "epubdate": "2025 Dec 23",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Alassaf A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gharaibeh L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ibrahim S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alkhalaileh S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Odeh R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Odeh R",
+      "title": "Knowledge of advanced carbohydrate counting in children and adolescents with type 1 diabetes and its effect on glycaemic control.",
+      "sorttitle": "knowledge of advanced carbohydrate counting in children and adolescents with type 1 diabetes and its effect on glycaemic control",
+      "volume": "39",
+      "issue": "2",
+      "pages": "178-187",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41428408"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0510"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0510"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/19 17:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/22 19:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/22 12:04"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0510",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/23 00:00",
+      "sortfirstauthor": "Alassaf A",
+      "vernaculartitle": ""
+    },
+    "41410037": {
+      "uid": "41410037",
+      "pubdate": "2026 Feb 24",
+      "epubdate": "2025 Dec 18",
+      "source": "Circulation",
+      "authors": [
+        {
+          "name": "Hundertmark MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Birkhoelzer SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Portwood C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Siu AG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matthews V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lewis AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grist J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "M\u00f3zes F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Henry JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patel J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chamberlin P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sarwar R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yavari A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dehbi HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rao P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Robbins JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gerszten RE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frenneaux MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Valkovi\u010d L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller JJJJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neubauer S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tyler DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rider OJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rider OJ",
+      "title": "IMPROVE-DiCE, a 2-Part, Open-Label, Phase 2a Trial Evaluating the Safety and Effectiveness of Ninerafaxstat in Patients With Cardiometabolic Syndromes.",
+      "sorttitle": "improve dice a 2 part open label phase 2a trial evaluating the safety and effectiveness of ninerafaxstat in patients with cardiometabolic syndromes",
+      "volume": "153",
+      "issue": "8",
+      "pages": "550-563",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147763",
+      "issn": "0009-7322",
+      "essn": "1524-4539",
+      "pubtype": [
+        "Journal Article",
+        "Clinical Trial, Phase II"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41410037"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1161/CIRCULATIONAHA.125.074041"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/23 18:52"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/18 07:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/18 05:03"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Circulation. 2026 Feb 24;153(8):564-566. doi: 10.1161/CIRCULATIONAHA.125.078151.",
+          "reftype": "Comment in",
+          "pmid": 41730032,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Circulation",
+      "elocationid": "doi: 10.1161/CIRCULATIONAHA.125.074041",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/24 00:00",
+      "sortfirstauthor": "Hundertmark MJ",
+      "vernaculartitle": ""
+    },
+    "41353583": {
+      "uid": "41353583",
+      "pubdate": "2026 Feb 24",
+      "epubdate": "2025 Dec 8",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Gonzalez F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reid MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garcia JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raymond JK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chao LC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chao LC",
+      "title": "GLP-1 receptor agonists reduce body mass index and total daily insulin dose in youth with type 1 diabetes: a retrospective cohort study.",
+      "sorttitle": "glp 1 receptor agonists reduce body mass index and total daily insulin dose in youth with type 1 diabetes a retrospective cohort study",
+      "volume": "39",
+      "issue": "2",
+      "pages": "166-172",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41353583"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0568"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0568"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/19 17:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/07 20:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/07 07:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0568",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/08 00:00",
+      "sortfirstauthor": "Gonzalez F",
+      "vernaculartitle": ""
+    },
+    "41275383": {
+      "uid": "41275383",
+      "pubdate": "2026 Feb 24",
+      "epubdate": "2025 Nov 24",
+      "source": "J Pediatr Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Dayal D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raha SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Banerjee S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bala A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumar R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sukhija J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raj S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yadav J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yadav J",
+      "title": "Cataract in children with type 1 diabetes: a single-center experience from North India on an underrecognized complication.",
+      "sorttitle": "cataract in children with type 1 diabetes a single center experience from north india on an underrecognized complication",
+      "volume": "39",
+      "issue": "2",
+      "pages": "173-177",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9508900",
+      "issn": "0334-018X",
+      "essn": "2191-0251",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "257",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41275383"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1515/jpem-2025-0387"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jpem-2025-0387"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/19 17:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/23 14:04"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/23 08:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pediatric endocrinology & metabolism : JPEM",
+      "elocationid": "doi: 10.1515/jpem-2025-0387",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/24 00:00",
+      "sortfirstauthor": "Dayal D",
+      "vernaculartitle": ""
+    }
+  }
+}
