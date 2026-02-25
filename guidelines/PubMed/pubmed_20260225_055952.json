@@ -1,0 +1,133 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41735066"
+    ],
+    "41735066": {
+      "uid": "41735066",
+      "pubdate": "2026 Feb 25",
+      "epubdate": "",
+      "source": "Zhen Ci Yan Jiu",
+      "authors": [
+        {
+          "name": "Wu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan YS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang ZB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang FZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miao FR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He YJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mai W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mai W",
+      "title": "[Effect of Zhuang-medicine medicated thread moxibustion on apoptosis-related protein expression in gastric smooth muscle tissue of diabetic gastroparesis rats based on ATF6/CHOP signaling pathway].",
+      "sorttitle": "effect of zhuang medicine medicated thread moxibustion on apoptosis related protein expression in gastric smooth muscle tissue of diabetic gastroparesis rats based on atf6 chop signaling pathway",
+      "volume": "51",
+      "issue": "2",
+      "pages": "178-188",
+      "lang": [
+        "chi"
+      ],
+      "nlmuniqueid": "8507710",
+      "issn": "1000-0607",
+      "essn": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41735066"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.13702/j.1000-0607.20250061"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1000-0607(2026)02-0178-11"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/25 00:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/25 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/24 21:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Zhen ci yan jiu = Acupuncture research",
+      "elocationid": "doi: 10.13702/j.1000-0607.20250061",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/25 00:00",
+      "sortfirstauthor": "Wu Y",
+      "vernaculartitle": ""
+    }
+  }
+}
