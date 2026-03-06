@@ -1,0 +1,134 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41576878"
+    ],
+    "41576878": {
+      "uid": "41576878",
+      "pubdate": "2026 Mar 6",
+      "epubdate": "2026 Jan 16",
+      "source": "Placenta",
+      "authors": [
+        {
+          "name": "Barapatre N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Halm L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schmitz C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "von Koch FE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kampfer C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frank HG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Frank HG",
+      "title": "Structural alterations in the placental villous tree in well-controlled gestational diabetes mellitus.",
+      "sorttitle": "structural alterations in the placental villous tree in well controlled gestational diabetes mellitus",
+      "volume": "175",
+      "issue": "",
+      "pages": "25-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006349",
+      "issn": "0143-4004",
+      "essn": "1532-3102",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41576878"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.placenta.2026.01.010"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0143-4004(26)00022-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/23 01:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/24 00:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/23 18:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Placenta",
+      "elocationid": "doi: 10.1016/j.placenta.2026.01.010",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/06 00:00",
+      "sortfirstauthor": "Barapatre N",
+      "vernaculartitle": ""
+    }
+  }
+}
