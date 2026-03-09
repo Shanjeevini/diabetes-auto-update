@@ -1,0 +1,190 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "40886061"
+    ],
+    "40886061": {
+      "uid": "40886061",
+      "pubdate": "2026 Mar 9",
+      "epubdate": "",
+      "source": "Eur Heart J",
+      "authors": [
+        {
+          "name": "Park B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dennis F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He AZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krishnaraj A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bakbak E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dennis CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Misner E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thayanithy V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lambotharan B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lambotharan V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lambotharan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazer CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teoh H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hess DA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Verma S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Verma S",
+      "title": "Semaglutide promotes bone marrow-derived progenitor cell flux towards an anti-inflammatory and pro-regenerative profile in high-risk patients: the SEMA-VR CardioLink-15 trial.",
+      "sorttitle": "semaglutide promotes bone marrow derived progenitor cell flux towards an anti inflammatory and pro regenerative profile in high risk patients the sema vr cardiolink 15 trial",
+      "volume": "47",
+      "issue": "10",
+      "pages": "1171-1182",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8006263",
+      "issn": "0195-668X",
+      "essn": "1522-9645",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40886061"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehaf690"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8243693"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/08/31 08:44"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/09 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/08/31 02:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European heart journal",
+      "elocationid": "doi: 10.1093/eurheartj/ehaf690",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/09 00:00",
+      "sortfirstauthor": "Park B",
+      "vernaculartitle": ""
+    }
+  }
+}
