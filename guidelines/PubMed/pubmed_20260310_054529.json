@@ -1,0 +1,278 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41654159",
+      "41638409"
+    ],
+    "41654159": {
+      "uid": "41654159",
+      "pubdate": "2026 Mar 10",
+      "epubdate": "2026 Feb 5",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Ma Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Min R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang X",
+      "title": "Protective effect of Nootkatone against hippocampal injury in diabetes mellitus with depression via PI3K/AKT pathway: Network pharmacology, molecular docking and experimental validation.",
+      "sorttitle": "protective effect of nootkatone against hippocampal injury in diabetes mellitus with depression via pi3k akt pathway network pharmacology molecular docking and experimental validation",
+      "volume": "1017",
+      "issue": "",
+      "pages": "178650",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41654159"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178650"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00132-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 09:02"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/08 00:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/07 19:16"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178650",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/10 00:00",
+      "sortfirstauthor": "Ma Y",
+      "vernaculartitle": ""
+    },
+    "41638409": {
+      "uid": "41638409",
+      "pubdate": "2026 Mar 10",
+      "epubdate": "2026 Feb 2",
+      "source": "Int J Pharm",
+      "authors": [
+        {
+          "name": "G\u00f3rska A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kurek M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Migda\u0142 A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kudrycka M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zem\u0142a J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Latacz G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lekka M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Witek K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mendyk A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mendyk A",
+      "title": "Development and characterization of metformin hydrochloride hydrogels as potential wound dressings for diabetic foot ulcers.",
+      "sorttitle": "development and characterization of metformin hydrochloride hydrogels as potential wound dressings for diabetic foot ulcers",
+      "volume": "692",
+      "issue": "",
+      "pages": "126638",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7804127",
+      "issn": "0378-5173",
+      "essn": "1873-3476",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41638409"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijpharm.2026.126638"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-5173(26)00086-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 09:09"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/04 19:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of pharmaceutics",
+      "elocationid": "doi: 10.1016/j.ijpharm.2026.126638",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/10 00:00",
+      "sortfirstauthor": "G\u00f3rska A",
+      "vernaculartitle": ""
+    }
+  }
+}
