@@ -1,0 +1,561 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41666343",
+      "41657319",
+      "41657223",
+      "41552921"
+    ],
+    "41666343": {
+      "uid": "41666343",
+      "pubdate": "2026 Mar 11",
+      "epubdate": "",
+      "source": "Clin Sci (Lond)",
+      "authors": [
+        {
+          "name": "Zhou Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Guo K",
+      "title": "Targeting perilipin 5 ameliorates diabetic cardiomyopathy via regulating glycolysis and mitochondrial dynamics.",
+      "sorttitle": "targeting perilipin 5 ameliorates diabetic cardiomyopathy via regulating glycolysis and mitochondrial dynamics",
+      "volume": "140",
+      "issue": "3",
+      "pages": "339-357",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7905731",
+      "issn": "0143-5221",
+      "essn": "1470-8736",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41666343"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1042/CS20256032"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "237194"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/18 10:06"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/10 19:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/10 16:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical science (London, England : 1979)",
+      "elocationid": "doi: 10.1042/CS20256032",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/11 00:00",
+      "sortfirstauthor": "Zhou Q",
+      "vernaculartitle": ""
+    },
+    "41657319": {
+      "uid": "41657319",
+      "pubdate": "2026 Mar 11",
+      "epubdate": "",
+      "source": "Clin Sci (Lond)",
+      "authors": [
+        {
+          "name": "Yang WX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pang YC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leal DN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yamashita M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miyata KN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Filep JG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ingelfinger JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan JSD",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chan JSD",
+      "title": "Intrarenal renin-angiotensin system inactivation ameliorates tubulopathy via attenuation of mitochondrial oxidative stress, dysfunction and senescence in diabetes.",
+      "sorttitle": "intrarenal renin angiotensin system inactivation ameliorates tubulopathy via attenuation of mitochondrial oxidative stress dysfunction and senescence in diabetes",
+      "volume": "140",
+      "issue": "3",
+      "pages": "321-338",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7905731",
+      "issn": "0143-5221",
+      "essn": "1470-8736",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41657319"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1042/CS20258557"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "237189"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/17 17:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/09 12:53"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/09 06:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical science (London, England : 1979)",
+      "elocationid": "doi: 10.1042/CS20258557",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/11 00:00",
+      "sortfirstauthor": "Yang WX",
+      "vernaculartitle": ""
+    },
+    "41657223": {
+      "uid": "41657223",
+      "pubdate": "2026 Mar 11",
+      "epubdate": "",
+      "source": "Clin Sci (Lond)",
+      "authors": [
+        {
+          "name": "Li B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miao Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yibulayin K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lei Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gong S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhuang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jian W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jian W",
+      "title": "Endothelial TET2 deficiency exacerbates diabetic coronary microvascular dysfunction via CMPK2-mediated mitochondrial impairment.",
+      "sorttitle": "endothelial tet2 deficiency exacerbates diabetic coronary microvascular dysfunction via cmpk2 mediated mitochondrial impairment",
+      "volume": "140",
+      "issue": "3",
+      "pages": "377-396",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7905731",
+      "issn": "0143-5221",
+      "essn": "1470-8736",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41657223"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1042/CS20256842"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "237188"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/23 18:52"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/09 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/09 05:06"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical science (London, England : 1979)",
+      "elocationid": "doi: 10.1042/CS20256842",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/11 00:00",
+      "sortfirstauthor": "Li B",
+      "vernaculartitle": ""
+    },
+    "41552921": {
+      "uid": "41552921",
+      "pubdate": "2026 Mar 11",
+      "epubdate": "",
+      "source": "Clin Sci (Lond)",
+      "authors": [
+        {
+          "name": "Xu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Semenikhina M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tiwari R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Levchenko V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kravtsova O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lowe M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palygin O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Staruschenko A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Staruschenko A",
+      "title": "Disrupted renal clock and blood pressure rhythms in type 2 diabetic nephropathy.",
+      "sorttitle": "disrupted renal clock and blood pressure rhythms in type 2 diabetic nephropathy",
+      "volume": "140",
+      "issue": "3",
+      "pages": "291-306",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7905731",
+      "issn": "0143-5221",
+      "essn": "1470-8736",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41552921"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1042/CS20258642"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "237099"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/22 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/17 17:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/19 12:51"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/19 07:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical science (London, England : 1979)",
+      "elocationid": "doi: 10.1042/CS20258642",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/11 00:00",
+      "sortfirstauthor": "Xu B",
+      "vernaculartitle": ""
+    }
+  }
+}
