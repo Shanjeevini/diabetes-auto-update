@@ -1,0 +1,1237 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41772872",
+      "41761926",
+      "41662813",
+      "41643264",
+      "41617054",
+      "41611203",
+      "41611004",
+      "41581640",
+      "41485618"
+    ],
+    "41772872": {
+      "uid": "41772872",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shi C",
+      "title": "Integrated Proteomics and Metabolomics Analysis in Hippocampus of Rats With T2DM-Associated Cognitive Decline.",
+      "sorttitle": "integrated proteomics and metabolomics analysis in hippocampus of rats with t2dm associated cognitive decline",
+      "volume": "40",
+      "issue": "5",
+      "pages": "e71611",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41772872"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202503916R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/01 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/10/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 19:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/03 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/03 01:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202503916R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Zhang Y",
+      "vernaculartitle": ""
+    },
+    "41761926": {
+      "uid": "41761926",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "",
+      "source": "FASEB J",
+      "authors": [
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhu N",
+      "title": "Inhibition of DNA Methyltransferase 1 Ameliorates Renal Injuries in Diabetic Nephropathy by Targeting NF2.",
+      "sorttitle": "inhibition of dna methyltransferase 1 ameliorates renal injuries in diabetic nephropathy by targeting nf2",
+      "volume": "40",
+      "issue": "5",
+      "pages": "e71624",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8804484",
+      "issn": "0892-6638",
+      "essn": "1530-6860",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41761926"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1096/fj.202504594R"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/09 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/12/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 13:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/28 12:53"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/28 06:42"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "elocationid": "doi: 10.1096/fj.202504594R",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Zhang X",
+      "vernaculartitle": ""
+    },
+    "41662813": {
+      "uid": "41662813",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Feb 8",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Feng C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jia C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geng X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhai J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hao S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lei L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lei L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shen Z",
+      "title": "The novel SPPARM YR3-16 ameliorates metabolic disorders in vivo and attenuates adipocyte inflammation in vitro via PPAR\u03b3-dependent ERK suppression.",
+      "sorttitle": "novel spparm yr3 16 ameliorates metabolic disorders in vivo and attenuates adipocyte inflammation in vitro via ppar dependent erk suppression",
+      "volume": "173",
+      "issue": "",
+      "pages": "116320",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41662813"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2026.116320"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(26)00164-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/15 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/09 18:49"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/09 18:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2026.116320",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Feng C",
+      "vernaculartitle": ""
+    },
+    "41643264": {
+      "uid": "41643264",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Feb 4",
+      "source": "Int Immunopharmacol",
+      "authors": [
+        {
+          "name": "Gao S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abula A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abula A",
+      "title": "Inhibiting ubiquitin-specific protease 38 safeguards against diabetic nephropathy by limiting tubular epithelial cell ferroptotic death through the suppression of IREB2-mediated iron overload.",
+      "sorttitle": "inhibiting ubiquitin specific protease 38 safeguards against diabetic nephropathy by limiting tubular epithelial cell ferroptotic death through the suppression of ireb2 mediated iron overload",
+      "volume": "173",
+      "issue": "",
+      "pages": "116307",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100965259",
+      "issn": "1567-5769",
+      "essn": "1878-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41643264"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2026.116307"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(26)00150-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/15 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 19:04"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/05 18:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International immunopharmacology",
+      "elocationid": "doi: 10.1016/j.intimp.2026.116307",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Gao S",
+      "vernaculartitle": ""
+    },
+    "41617054": {
+      "uid": "41617054",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Jan 29",
+      "source": "Exp Cell Res",
+      "authors": [
+        {
+          "name": "Zhou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Du M",
+      "title": "KAT5/8-mediated GPX4 lactylation facilitates ferroptosis and inflammation in diabetic retinopathy.",
+      "sorttitle": "kat5 8 mediated gpx4 lactylation facilitates ferroptosis and inflammation in diabetic retinopathy",
+      "volume": "456",
+      "issue": "2",
+      "pages": "114915",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0373226",
+      "issn": "0014-4827",
+      "essn": "1090-2422",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41617054"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.yexcr.2026.114915"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-4827(26)00031-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/13 01:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/31 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/30 19:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Experimental cell research",
+      "elocationid": "doi: 10.1016/j.yexcr.2026.114915",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Zhou Y",
+      "vernaculartitle": ""
+    },
+    "41611203": {
+      "uid": "41611203",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Jan 27",
+      "source": "Life Sci",
+      "authors": [
+        {
+          "name": "Huang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hafezi-Moghadam A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sun D",
+      "title": "STAT1/SLC31A1 signaling promotes diabetic retinopathy progression by mediating cuproptosis-induced M1 polarization in microglial cells.",
+      "sorttitle": "stat1 slc31a1 signaling promotes diabetic retinopathy progression by mediating cuproptosis induced m1 polarization in microglial cells",
+      "volume": "389",
+      "issue": "",
+      "pages": "124241",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375521",
+      "issn": "0024-3205",
+      "essn": "1879-0631",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41611203"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.lfs.2026.124241"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0024-3205(26)00049-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/24 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/14 05:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/30 00:55"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/29 19:35"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Life sciences",
+      "elocationid": "doi: 10.1016/j.lfs.2026.124241",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Huang J",
+      "vernaculartitle": ""
+    },
+    "41611004": {
+      "uid": "41611004",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Jan 27",
+      "source": "Clin Chim Acta",
+      "authors": [
+        {
+          "name": "Zou Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Niu N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qin H",
+      "title": "Oxidative stress in diabetic retinopathy.",
+      "sorttitle": "oxidative stress in diabetic retinopathy",
+      "volume": "584",
+      "issue": "",
+      "pages": "120871",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1302422",
+      "issn": "0009-8981",
+      "essn": "1873-3492",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41611004"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cca.2026.120871"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-8981(26)00053-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 09:07"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/30 00:54"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/29 19:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+      "elocationid": "doi: 10.1016/j.cca.2026.120871",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Zou Q",
+      "vernaculartitle": ""
+    },
+    "41581640": {
+      "uid": "41581640",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Jan 23",
+      "source": "Clin Chim Acta",
+      "authors": [
+        {
+          "name": "Yuan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhan M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li H",
+      "title": "Identification of diabetic kidney disease biomarkers via iTRAQ plasma proteomics analysis.",
+      "sorttitle": "identification of diabetic kidney disease biomarkers via itraq plasma proteomics analysis",
+      "volume": "584",
+      "issue": "",
+      "pages": "120866",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1302422",
+      "issn": "0009-8981",
+      "essn": "1873-3492",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41581640"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cca.2026.120866"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-8981(26)00048-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 13:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/26 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/25 19:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinica chimica acta; international journal of clinical chemistry",
+      "elocationid": "doi: 10.1016/j.cca.2026.120866",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Yuan J",
+      "vernaculartitle": ""
+    },
+    "41485618": {
+      "uid": "41485618",
+      "pubdate": "2026 Mar 15",
+      "epubdate": "2026 Jan 2",
+      "source": "Int J Cardiol",
+      "authors": [
+        {
+          "name": "Wei S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rao M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhuang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ai Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lin H",
+      "title": "PM(2.5) constituents and transitions from glycemic states to stroke: Multistate and accelerated failure time analyses of a large cohort.",
+      "sorttitle": "pm 2 5 constituents and transitions from glycemic states to stroke multistate and accelerated failure time analyses of a large cohort",
+      "volume": "447",
+      "issue": "",
+      "pages": "134143",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8200291",
+      "issn": "0167-5273",
+      "essn": "1874-1754",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41485618"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijcard.2025.134143"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0167-5273(25)01186-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/31 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/18 03:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/05 00:49"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/04 19:37"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of cardiology",
+      "elocationid": "doi: 10.1016/j.ijcard.2025.134143",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/15 00:00",
+      "sortfirstauthor": "Wei S",
+      "vernaculartitle": ""
+    }
+  }
+}
