@@ -1,0 +1,1010 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41802056",
+      "41472381",
+      "41398612",
+      "41061664",
+      "41052303",
+      "41045515",
+      "41006196"
+    ],
+    "41802056": {
+      "uid": "41802056",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "2026 Mar 9",
+      "source": "Proc Natl Acad Sci U S A",
+      "authors": [
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cheng H",
+      "title": "A wireless sweat sensing with a pH-based correlation model for continuous glucose monitoring and diabetes management during exercise.",
+      "sorttitle": "wireless sweat sensing with a ph based correlation model for continuous glucose monitoring and diabetes management during exercise",
+      "volume": "123",
+      "issue": "11",
+      "pages": "e2532127123",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7505876",
+      "issn": "0027-8424",
+      "essn": "1091-6490",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41802056"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2532127123"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/09 19:01"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/09 19:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/09 15:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America",
+      "elocationid": "doi: 10.1073/pnas.2532127123",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Zhang Y",
+      "vernaculartitle": ""
+    },
+    "41472381": {
+      "uid": "41472381",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "",
+      "source": "J Clin Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Oppenheimer KR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Himelhoch NT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCullough ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bowden TL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kandasamy B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Letourneau-Freiberg LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naylor RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greeley SAW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Philipson LH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Philipson LH",
+      "title": "Approach to the Patient: Mitochondrial Diabetes: Contemporary Cases and a Precision Medicine Approach.",
+      "sorttitle": "approach to the patient mitochondrial diabetes contemporary cases and a precision medicine approach",
+      "volume": "111",
+      "issue": "4",
+      "pages": "1175-1186",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375362",
+      "issn": "0021-972X",
+      "essn": "1945-7197",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41472381"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1210/clinem/dgaf698"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8407531"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/16 21:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/31 07:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/31 01:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+      "elocationid": "doi: 10.1210/clinem/dgaf698",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Oppenheimer KR",
+      "vernaculartitle": ""
+    },
+    "41398612": {
+      "uid": "41398612",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "",
+      "source": "Clin Infect Dis",
+      "authors": [
+        {
+          "name": "Lagrand RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sabelis LWE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gramberg MCTT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmad M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van den Bosch AJF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brekelmans W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Groot V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Hattem JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "den Heijer M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kortmann W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nieuwdorp M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peters EJG",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Peters EJG",
+      "title": "Bone Biopsy not Superior to Ulcer Bed Biopsy-guided Antibacterial Therapy on Remission of Diabetic Foot Osteomyelitis: A Randomized Controlled Trial.",
+      "sorttitle": "bone biopsy not superior to ulcer bed biopsy guided antibacterial therapy on remission of diabetic foot osteomyelitis a randomized controlled trial",
+      "volume": "82",
+      "issue": "3",
+      "pages": "436-442",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9203213",
+      "issn": "1058-4838",
+      "essn": "1537-6591",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41398612"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/cid/ciaf684"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8380396"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/16 21:57"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/16 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/16 00:40"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Clin Infect Dis. 2026 Mar 17;82(3):443-445. doi: 10.1093/cid/ciaf685.",
+          "reftype": "Comment in",
+          "pmid": 41429655,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "elocationid": "doi: 10.1093/cid/ciaf684",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Lagrand RS",
+      "vernaculartitle": ""
+    },
+    "41061664": {
+      "uid": "41061664",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "",
+      "source": "J Clin Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Kagisaki T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baden MY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oyama A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noguchi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iso H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shimomura I",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shimomura I",
+      "title": "Effect of Weight Change on Type 2 Diabetes Risk: A Prospective Study in a Japanese Population.",
+      "sorttitle": "effect of weight change on type 2 diabetes risk a prospective study in a japanese population",
+      "volume": "111",
+      "issue": "4",
+      "pages": "e1107-e1115",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375362",
+      "issn": "0021-972X",
+      "essn": "1945-7197",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41061664"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1210/clinem/dgaf558"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8277874"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/16 21:57"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/09 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/08 18:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+      "elocationid": "doi: 10.1210/clinem/dgaf558",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Kagisaki T",
+      "vernaculartitle": ""
+    },
+    "41052303": {
+      "uid": "41052303",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "",
+      "source": "J Clin Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiao A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan XF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pan XF",
+      "title": "Association between Urinary Copper and Gestational Diabetes Mellitus: Role of Epigenome-Wide DNA Methylation and Proteomics.",
+      "sorttitle": "association between urinary copper and gestational diabetes mellitus role of epigenome wide dna methylation and proteomics",
+      "volume": "111",
+      "issue": "4",
+      "pages": "1136-1146",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375362",
+      "issn": "0021-972X",
+      "essn": "1945-7197",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41052303"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1210/clinem/dgaf555"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8276116"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/16 21:57"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/06 18:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/06 14:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+      "elocationid": "doi: 10.1210/clinem/dgaf555",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Li Y",
+      "vernaculartitle": ""
+    },
+    "41045515": {
+      "uid": "41045515",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "",
+      "source": "J Clin Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Chen NC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shah VN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McQueen RB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "McQueen RB",
+      "title": "Time in Range and Incident Diabetic Retinopathy: Clinical and Economic Evidence From Real-World Type 1 Diabetes Care.",
+      "sorttitle": "time in range and incident diabetic retinopathy clinical and economic evidence from real world type 1 diabetes care",
+      "volume": "111",
+      "issue": "4",
+      "pages": "e1146-e1152",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375362",
+      "issn": "0021-972X",
+      "essn": "1945-7197",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41045515"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1210/clinem/dgaf544"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8273849"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/09/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/16 21:57"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/04 21:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/04 14:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+      "elocationid": "doi: 10.1210/clinem/dgaf544",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Chen NC",
+      "vernaculartitle": ""
+    },
+    "41006196": {
+      "uid": "41006196",
+      "pubdate": "2026 Mar 17",
+      "epubdate": "",
+      "source": "J Clin Endocrinol Metab",
+      "authors": [
+        {
+          "name": "Denson AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rodriguez KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Letourneau-Freiberg LR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kandasamy B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naylor RN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdullatif HD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benjamin RW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cobry E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Freemark MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas IH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Greeley SAW",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Greeley SAW",
+      "title": "Children With Pancreatic Hypoplasia Experience Poor Weight Gain and Labile Diabetes but Low Incidence of DKA.",
+      "sorttitle": "children with pancreatic hypoplasia experience poor weight gain and labile diabetes but low incidence of dka",
+      "volume": "111",
+      "issue": "4",
+      "pages": "e1164-e1173",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375362",
+      "issn": "0021-972X",
+      "essn": "1945-7197",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41006196"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1210/clinem/dgaf473"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8266659"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/02/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/16 21:56"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/27 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/26 22:52"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "J Clin Endocrinol Metab. 2026 Mar 17;111(4):e1216-e1221. doi: 10.1210/clinem/dgag013.",
+          "reftype": "Erratum in",
+          "pmid": 41649490,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of clinical endocrinology and metabolism",
+      "elocationid": "doi: 10.1210/clinem/dgaf473",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/17 00:00",
+      "sortfirstauthor": "Denson AM",
+      "vernaculartitle": ""
+    }
+  }
+}
